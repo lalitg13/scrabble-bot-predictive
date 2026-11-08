@@ -1,0 +1,3058 @@
+[
+  {
+    "id": 43252,
+    "initial": {
+      "W": 1,
+      "E": 1,
+      "L": 2,
+      "Y": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794096747510328,
+        "kind": "word",
+        "word": "WELLY",
+        "reward": 22,
+        "rackBefore": "ELLWY",
+        "balanceBefore": 100,
+        "best": {
+          "word": "WELLY",
+          "reward": 22
+        },
+        "longHooks": [
+          {
+            "letter": "D",
+            "word": "LEWDLY",
+            "reward": 32
+          },
+          {
+            "letter": "O",
+            "word": "YELLOW",
+            "reward": 30
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 122
+      },
+      {
+        "t": 1794096749223181,
+        "kind": "win",
+        "letter": "U",
+        "paid": 17,
+        "auction": 2842408,
+        "rackBefore": "",
+        "balanceBefore": 122,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "U",
+        "balanceAfter": 105
+      },
+      {
+        "t": 1794096754274691,
+        "kind": "win",
+        "letter": "O",
+        "paid": 16,
+        "auction": 2842443,
+        "rackBefore": "U",
+        "balanceBefore": 105,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "OU",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794096757281626,
+        "kind": "win",
+        "letter": "D",
+        "paid": 13,
+        "auction": 2842464,
+        "rackBefore": "OU",
+        "balanceBefore": 89,
+        "best": {
+          "word": "DUO",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "DOU",
+        "balanceAfter": 76
+      },
+      {
+        "t": 1794096758283499,
+        "kind": "win",
+        "letter": "I",
+        "paid": 12,
+        "auction": 2842471,
+        "rackBefore": "DOU",
+        "balanceBefore": 76,
+        "best": {
+          "word": "DUI",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "DIOU",
+        "balanceAfter": 64
+      },
+      {
+        "t": 1794096759284800,
+        "kind": "win",
+        "letter": "A",
+        "paid": 12,
+        "auction": 2842477,
+        "rackBefore": "DIOU",
+        "balanceBefore": 64,
+        "best": {
+          "word": "AUDIO",
+          "reward": 12
+        },
+        "longHooks": [
+          {
+            "letter": "S",
+            "word": "AUDIOS",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "ADIOU",
+        "balanceAfter": 52
+      },
+      {
+        "t": 1794096759412516,
+        "kind": "word",
+        "word": "AUDIO",
+        "reward": 12,
+        "rackBefore": "ADIOU",
+        "balanceBefore": 52,
+        "best": {
+          "word": "AUDIO",
+          "reward": 12
+        },
+        "longHooks": [
+          {
+            "letter": "S",
+            "word": "AUDIOS",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 64
+      },
+      {
+        "t": 1794096767614438,
+        "kind": "win",
+        "letter": "O",
+        "paid": 13,
+        "auction": 2842533,
+        "rackBefore": "",
+        "balanceBefore": 64,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "O",
+        "balanceAfter": 51
+      },
+      {
+        "t": 1794096768621451,
+        "kind": "win",
+        "letter": "I",
+        "paid": 13,
+        "auction": 2842540,
+        "rackBefore": "O",
+        "balanceBefore": 51,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "IO",
+        "balanceAfter": 38
+      },
+      {
+        "t": 1794096770625425,
+        "kind": "win",
+        "letter": "I",
+        "paid": 13,
+        "auction": 2842554,
+        "rackBefore": "IO",
+        "balanceBefore": 38,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "IIO",
+        "balanceAfter": 25
+      },
+      {
+        "t": 1794096775109189,
+        "kind": "win",
+        "letter": "E",
+        "paid": 13,
+        "auction": 2842580,
+        "rackBefore": "IIO",
+        "balanceBefore": 25,
+        "best": {
+          "word": "OE",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "EIIO",
+        "balanceAfter": 12
+      },
+      {
+        "t": 1794096785281446,
+        "kind": "win",
+        "letter": "U",
+        "paid": 10,
+        "auction": 2842640,
+        "rackBefore": "EIIO",
+        "balanceBefore": 12,
+        "best": {
+          "word": "OE",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "EIIOU",
+        "balanceAfter": 2
+      },
+      {
+        "t": 1794096810008055,
+        "kind": "word",
+        "word": "OE",
+        "reward": 2,
+        "rackBefore": "EIIOU",
+        "balanceBefore": 2,
+        "best": {
+          "word": "OE",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "IIU",
+        "balanceAfter": 4
+      }
+    ]
+  },
+  {
+    "id": 43259,
+    "initial": {
+      "K": 1,
+      "H": 1,
+      "G": 2,
+      "D": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794096820578138,
+        "kind": "win",
+        "letter": "T",
+        "paid": 11,
+        "auction": 2842869,
+        "rackBefore": "DGGHK",
+        "balanceBefore": 100,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "DGGHKT",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794096823583821,
+        "kind": "win",
+        "letter": "E",
+        "paid": 15,
+        "auction": 2842890,
+        "rackBefore": "DGGHKT",
+        "balanceBefore": 89,
+        "best": {
+          "word": "KHET",
+          "reward": 16
+        },
+        "longHooks": [
+          {
+            "letter": "Y",
+            "word": "KYTHED",
+            "reward": 42
+          },
+          {
+            "letter": "I",
+            "word": "KITHED",
+            "reward": 35
+          },
+          {
+            "letter": "A",
+            "word": "HAGGED",
+            "reward": 30
+          },
+          {
+            "letter": "O",
+            "word": "HOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "U",
+            "word": "HUGGED",
+            "reward": 30
+          }
+        ],
+        "rackAfter": "DEGGHKT",
+        "balanceAfter": 74
+      },
+      {
+        "t": 1794096823711084,
+        "kind": "word",
+        "word": "KHET",
+        "reward": 16,
+        "rackBefore": "DEGGHKT",
+        "balanceBefore": 74,
+        "best": {
+          "word": "KHET",
+          "reward": 16
+        },
+        "longHooks": [
+          {
+            "letter": "Y",
+            "word": "KYTHED",
+            "reward": 42
+          },
+          {
+            "letter": "I",
+            "word": "KITHED",
+            "reward": 35
+          },
+          {
+            "letter": "A",
+            "word": "HAGGED",
+            "reward": 30
+          },
+          {
+            "letter": "O",
+            "word": "HOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "U",
+            "word": "HUGGED",
+            "reward": 30
+          }
+        ],
+        "rackAfter": "DGG",
+        "balanceAfter": 90
+      },
+      {
+        "t": 1794096824586469,
+        "kind": "win",
+        "letter": "O",
+        "paid": 11,
+        "auction": 2842897,
+        "rackBefore": "DGG",
+        "balanceBefore": 90,
+        "best": {
+          "word": "DOG",
+          "reward": 5
+        },
+        "longHooks": [],
+        "rackAfter": "DGGO",
+        "balanceAfter": 79
+      },
+      {
+        "t": 1794096828593813,
+        "kind": "win",
+        "letter": "T",
+        "paid": 11,
+        "auction": 2842925,
+        "rackBefore": "DGGO",
+        "balanceBefore": 79,
+        "best": {
+          "word": "DOG",
+          "reward": 5
+        },
+        "longHooks": [
+          {
+            "letter": "E",
+            "word": "TOGGED",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "DGGOT",
+        "balanceAfter": 68
+      },
+      {
+        "t": 1794096832649575,
+        "kind": "win",
+        "letter": "E",
+        "paid": 14,
+        "auction": 2842952,
+        "rackBefore": "DGGOT",
+        "balanceBefore": 68,
+        "best": {
+          "word": "TOGGED",
+          "reward": 22
+        },
+        "longHooks": [
+          {
+            "letter": "J",
+            "word": "JOGGED",
+            "reward": 40
+          },
+          {
+            "letter": "F",
+            "word": "FOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "H",
+            "word": "HOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "L",
+            "word": "TOGGLED",
+            "reward": 30
+          },
+          {
+            "letter": "B",
+            "word": "BOGGED",
+            "reward": 27
+          },
+          {
+            "letter": "C",
+            "word": "COGGED",
+            "reward": 27
+          },
+          {
+            "letter": "M",
+            "word": "MOGGED",
+            "reward": 27
+          },
+          {
+            "letter": "D",
+            "word": "DOGGED",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "DEGGOT",
+        "balanceAfter": 54
+      },
+      {
+        "t": 1794096832799973,
+        "kind": "word",
+        "word": "TOGGED",
+        "reward": 22,
+        "rackBefore": "DEGGOT",
+        "balanceBefore": 54,
+        "best": {
+          "word": "TOGGED",
+          "reward": 22
+        },
+        "longHooks": [
+          {
+            "letter": "J",
+            "word": "JOGGED",
+            "reward": 40
+          },
+          {
+            "letter": "F",
+            "word": "FOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "H",
+            "word": "HOGGED",
+            "reward": 30
+          },
+          {
+            "letter": "L",
+            "word": "TOGGLED",
+            "reward": 30
+          },
+          {
+            "letter": "B",
+            "word": "BOGGED",
+            "reward": 27
+          },
+          {
+            "letter": "C",
+            "word": "COGGED",
+            "reward": 27
+          },
+          {
+            "letter": "M",
+            "word": "MOGGED",
+            "reward": 27
+          },
+          {
+            "letter": "D",
+            "word": "DOGGED",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 76
+      },
+      {
+        "t": 1794096833651429,
+        "kind": "win",
+        "letter": "L",
+        "paid": 11,
+        "auction": 2842959,
+        "rackBefore": "",
+        "balanceBefore": 76,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "L",
+        "balanceAfter": 65
+      },
+      {
+        "t": 1794096836071469,
+        "kind": "win",
+        "letter": "N",
+        "paid": 11,
+        "auction": 2842973,
+        "rackBefore": "L",
+        "balanceBefore": 65,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "LN",
+        "balanceAfter": 54
+      },
+      {
+        "t": 1794096837073185,
+        "kind": "win",
+        "letter": "I",
+        "paid": 11,
+        "auction": 2842980,
+        "rackBefore": "LN",
+        "balanceBefore": 54,
+        "best": {
+          "word": "LIN",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "ILN",
+        "balanceAfter": 43
+      },
+      {
+        "t": 1794096838075277,
+        "kind": "win",
+        "letter": "O",
+        "paid": 14,
+        "auction": 2842987,
+        "rackBefore": "ILN",
+        "balanceBefore": 43,
+        "best": {
+          "word": "LINO",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "ILNO",
+        "balanceAfter": 29
+      },
+      {
+        "t": 1794096853860455,
+        "kind": "win",
+        "letter": "E",
+        "paid": 10,
+        "auction": 2843092,
+        "rackBefore": "ILNO",
+        "balanceBefore": 29,
+        "best": {
+          "word": "ELOIN",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "OLEFIN",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CINEOL",
+            "reward": 20
+          },
+          {
+            "letter": "M",
+            "word": "LOMEIN",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "PINOLE",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "INDOLE",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "ELOIGN",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "EOLIAN",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "OLEINE",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "EILNO",
+        "balanceAfter": 19
+      },
+      {
+        "t": 1794096854433042,
+        "kind": "word",
+        "word": "ELOIN",
+        "reward": 10,
+        "rackBefore": "EILNO",
+        "balanceBefore": 19,
+        "best": {
+          "word": "ELOIN",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "OLEFIN",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CINEOL",
+            "reward": 20
+          },
+          {
+            "letter": "M",
+            "word": "LOMEIN",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "PINOLE",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "INDOLE",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "ELOIGN",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "EOLIAN",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "OLEINE",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 29
+      },
+      {
+        "t": 1794096860064759,
+        "kind": "win",
+        "letter": "E",
+        "paid": 14,
+        "auction": 2843134,
+        "rackBefore": "",
+        "balanceBefore": 29,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "E",
+        "balanceAfter": 15
+      },
+      {
+        "t": 1794096864080335,
+        "kind": "win",
+        "letter": "N",
+        "paid": 11,
+        "auction": 2843161,
+        "rackBefore": "E",
+        "balanceBefore": 15,
+        "best": {
+          "word": "EN",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "EN",
+        "balanceAfter": 4
+      },
+      {
+        "t": 1794096879726243,
+        "kind": "word",
+        "word": "EN",
+        "reward": 2,
+        "rackBefore": "EN",
+        "balanceBefore": 4,
+        "best": {
+          "word": "EN",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "",
+        "balanceAfter": 6
+      },
+      {
+        "t": 1794096887139828,
+        "kind": "win",
+        "letter": "L",
+        "paid": 1,
+        "auction": 2843321,
+        "rackBefore": "",
+        "balanceBefore": 6,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "L",
+        "balanceAfter": 5
+      }
+    ]
+  },
+  {
+    "id": 43266,
+    "initial": {
+      "B": 1,
+      "Y": 1,
+      "T": 1,
+      "S": 1,
+      "D": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794096891079484,
+        "kind": "win",
+        "letter": "E",
+        "paid": 17,
+        "auction": 2843345,
+        "rackBefore": "BDSTY",
+        "balanceBefore": 100,
+        "best": {
+          "word": "BYTES",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "E",
+            "word": "DEBYES",
+            "reward": 30
+          },
+          {
+            "letter": "N",
+            "word": "BENDYS",
+            "reward": 30
+          },
+          {
+            "letter": "A",
+            "word": "STAYED",
+            "reward": 25
+          },
+          {
+            "letter": "L",
+            "word": "STYLED",
+            "reward": 25
+          },
+          {
+            "letter": "R",
+            "word": "DRYEST",
+            "reward": 25
+          },
+          {
+            "letter": "I",
+            "word": "BEDSIT",
+            "reward": 22
+          },
+          {
+            "letter": "U",
+            "word": "BESTUD",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "BDESTY",
+        "balanceAfter": 83
+      },
+      {
+        "t": 1794096892568021,
+        "kind": "word",
+        "word": "BYTES",
+        "reward": 20,
+        "rackBefore": "BDESTY",
+        "balanceBefore": 83,
+        "best": {
+          "word": "BYTES",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "E",
+            "word": "DEBYES",
+            "reward": 30
+          },
+          {
+            "letter": "N",
+            "word": "BENDYS",
+            "reward": 30
+          },
+          {
+            "letter": "A",
+            "word": "STAYED",
+            "reward": 25
+          },
+          {
+            "letter": "L",
+            "word": "STYLED",
+            "reward": 25
+          },
+          {
+            "letter": "R",
+            "word": "DRYEST",
+            "reward": 25
+          },
+          {
+            "letter": "I",
+            "word": "BEDSIT",
+            "reward": 22
+          },
+          {
+            "letter": "U",
+            "word": "BESTUD",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "D",
+        "balanceAfter": 103
+      },
+      {
+        "t": 1794096897156109,
+        "kind": "win",
+        "letter": "I",
+        "paid": 13,
+        "auction": 2843384,
+        "rackBefore": "D",
+        "balanceBefore": 103,
+        "best": {
+          "word": "ID",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "DI",
+        "balanceAfter": 90
+      },
+      {
+        "t": 1794096898157834,
+        "kind": "win",
+        "letter": "A",
+        "paid": 16,
+        "auction": 2843391,
+        "rackBefore": "DI",
+        "balanceBefore": 90,
+        "best": {
+          "word": "AID",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "ADI",
+        "balanceAfter": 74
+      },
+      {
+        "t": 1794096899226653,
+        "kind": "win",
+        "letter": "O",
+        "paid": 14,
+        "auction": 2843398,
+        "rackBefore": "ADI",
+        "balanceBefore": 74,
+        "best": {
+          "word": "ADO",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "ADIO",
+        "balanceAfter": 60
+      },
+      {
+        "t": 1794096901285608,
+        "kind": "win",
+        "letter": "L",
+        "paid": 9,
+        "auction": 2843412,
+        "rackBefore": "ADIO",
+        "balanceBefore": 60,
+        "best": {
+          "word": "DIAL",
+          "reward": 7
+        },
+        "longHooks": [
+          {
+            "letter": "H",
+            "word": "HALOID",
+            "reward": 25
+          },
+          {
+            "letter": "M",
+            "word": "AMIDOL",
+            "reward": 22
+          },
+          {
+            "letter": "G",
+            "word": "ALGOID",
+            "reward": 20
+          },
+          {
+            "letter": "A",
+            "word": "ALODIA",
+            "reward": 17
+          },
+          {
+            "letter": "E",
+            "word": "EIDOLA",
+            "reward": 17
+          },
+          {
+            "letter": "N",
+            "word": "LADINO",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "ADILO",
+        "balanceAfter": 51
+      },
+      {
+        "t": 1794096905682013,
+        "kind": "win",
+        "letter": "V",
+        "paid": 14,
+        "auction": 2843439,
+        "rackBefore": "ADILO",
+        "balanceBefore": 51,
+        "best": {
+          "word": "AVOID",
+          "reward": 18
+        },
+        "longHooks": [
+          {
+            "letter": "J",
+            "word": "JOVIAL",
+            "reward": 40
+          },
+          {
+            "letter": "G",
+            "word": "VALGOID",
+            "reward": 36
+          },
+          {
+            "letter": "O",
+            "word": "OVOIDAL",
+            "reward": 33
+          },
+          {
+            "letter": "Y",
+            "word": "AVIDLY",
+            "reward": 32
+          },
+          {
+            "letter": "E",
+            "word": "VAILED",
+            "reward": 25
+          },
+          {
+            "letter": "H",
+            "word": "HALOID",
+            "reward": 25
+          },
+          {
+            "letter": "S",
+            "word": "AVOIDS",
+            "reward": 25
+          },
+          {
+            "letter": "M",
+            "word": "AMIDOL",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "ADILOV",
+        "balanceAfter": 37
+      },
+      {
+        "t": 1794096905804125,
+        "kind": "word",
+        "word": "AVOID",
+        "reward": 18,
+        "rackBefore": "ADILOV",
+        "balanceBefore": 37,
+        "best": {
+          "word": "AVOID",
+          "reward": 18
+        },
+        "longHooks": [
+          {
+            "letter": "J",
+            "word": "JOVIAL",
+            "reward": 40
+          },
+          {
+            "letter": "G",
+            "word": "VALGOID",
+            "reward": 36
+          },
+          {
+            "letter": "O",
+            "word": "OVOIDAL",
+            "reward": 33
+          },
+          {
+            "letter": "Y",
+            "word": "AVIDLY",
+            "reward": 32
+          },
+          {
+            "letter": "E",
+            "word": "VAILED",
+            "reward": 25
+          },
+          {
+            "letter": "H",
+            "word": "HALOID",
+            "reward": 25
+          },
+          {
+            "letter": "S",
+            "word": "AVOIDS",
+            "reward": 25
+          },
+          {
+            "letter": "M",
+            "word": "AMIDOL",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "L",
+        "balanceAfter": 55
+      },
+      {
+        "t": 1794096908687673,
+        "kind": "win",
+        "letter": "N",
+        "paid": 11,
+        "auction": 2843460,
+        "rackBefore": "L",
+        "balanceBefore": 55,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "LN",
+        "balanceAfter": 44
+      },
+      {
+        "t": 1794096909690403,
+        "kind": "win",
+        "letter": "S",
+        "paid": 13,
+        "auction": 2843467,
+        "rackBefore": "LN",
+        "balanceBefore": 44,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "LNS",
+        "balanceAfter": 31
+      },
+      {
+        "t": 1794096911693786,
+        "kind": "win",
+        "letter": "O",
+        "paid": 13,
+        "auction": 2843481,
+        "rackBefore": "LNS",
+        "balanceBefore": 31,
+        "best": {
+          "word": "NOS",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "LNOS",
+        "balanceAfter": 18
+      },
+      {
+        "t": 1794096912696061,
+        "kind": "win",
+        "letter": "I",
+        "paid": 14,
+        "auction": 2843488,
+        "rackBefore": "LNOS",
+        "balanceBefore": 18,
+        "best": {
+          "word": "LINOS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "Y",
+            "word": "NOSILY",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "COLINS",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "INDOLS",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "LOSING",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "ALOINS",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "ELOINS",
+            "reward": 15
+          },
+          {
+            "letter": "O",
+            "word": "SOLION",
+            "reward": 15
+          },
+          {
+            "letter": "T",
+            "word": "TONSIL",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "ILNOS",
+        "balanceAfter": 4
+      },
+      {
+        "t": 1794096912831580,
+        "kind": "word",
+        "word": "LINOS",
+        "reward": 10,
+        "rackBefore": "ILNOS",
+        "balanceBefore": 4,
+        "best": {
+          "word": "LINOS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "Y",
+            "word": "NOSILY",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "COLINS",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "INDOLS",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "LOSING",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "ALOINS",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "ELOINS",
+            "reward": 15
+          },
+          {
+            "letter": "O",
+            "word": "SOLION",
+            "reward": 15
+          },
+          {
+            "letter": "T",
+            "word": "TONSIL",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 14
+      },
+      {
+        "t": 1794096915700490,
+        "kind": "win",
+        "letter": "E",
+        "paid": 14,
+        "auction": 2843509,
+        "rackBefore": "",
+        "balanceBefore": 14,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "E",
+        "balanceAfter": 0
+      }
+    ]
+  },
+  {
+    "id": 43273,
+    "initial": {
+      "F": 1,
+      "I": 1,
+      "M": 1,
+      "S": 1
+    },
+    "unknown": 1,
+    "events": [
+      {
+        "t": 1794096959388988,
+        "kind": "win",
+        "letter": "U",
+        "paid": 11,
+        "auction": 2843812,
+        "rackBefore": "FIMS?",
+        "balanceBefore": 100,
+        "best": {
+          "word": "IFS",
+          "reward": 6
+        },
+        "longHooks": [
+          {
+            "letter": "T",
+            "word": "MUFTIS",
+            "reward": 27
+          }
+        ],
+        "rackAfter": "FIMSU?",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794096960390686,
+        "kind": "win",
+        "letter": "R",
+        "paid": 15,
+        "auction": 2843819,
+        "rackBefore": "FIMSU?",
+        "balanceBefore": 89,
+        "best": {
+          "word": "FIRMS",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "Q",
+            "word": "SQUIRM",
+            "reward": 42
+          },
+          {
+            "letter": "P",
+            "word": "FRUMPS",
+            "reward": 32
+          },
+          {
+            "letter": "E",
+            "word": "FEMURS",
+            "reward": 27
+          },
+          {
+            "letter": "O",
+            "word": "FORUMS",
+            "reward": 27
+          },
+          {
+            "letter": "T",
+            "word": "MUFTIS",
+            "reward": 27
+          },
+          {
+            "letter": "D",
+            "word": "MURIDS",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "FIMRSU?",
+        "balanceAfter": 74
+      },
+      {
+        "t": 1794096960536555,
+        "kind": "word",
+        "word": "FIRMS",
+        "reward": 20,
+        "rackBefore": "FIMRSU?",
+        "balanceBefore": 74,
+        "best": {
+          "word": "FIRMS",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "Q",
+            "word": "SQUIRM",
+            "reward": 42
+          },
+          {
+            "letter": "P",
+            "word": "FRUMPS",
+            "reward": 32
+          },
+          {
+            "letter": "E",
+            "word": "FEMURS",
+            "reward": 27
+          },
+          {
+            "letter": "O",
+            "word": "FORUMS",
+            "reward": 27
+          },
+          {
+            "letter": "T",
+            "word": "MUFTIS",
+            "reward": 27
+          },
+          {
+            "letter": "D",
+            "word": "MURIDS",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "U?",
+        "balanceAfter": 94
+      },
+      {
+        "t": 1794096961392887,
+        "kind": "win",
+        "letter": "T",
+        "paid": 15,
+        "auction": 2843826,
+        "rackBefore": "U?",
+        "balanceBefore": 94,
+        "best": {
+          "word": "UT",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "TU?",
+        "balanceAfter": 79
+      },
+      {
+        "t": 1794096965703557,
+        "kind": "win",
+        "letter": "O",
+        "paid": 10,
+        "auction": 2843851,
+        "rackBefore": "TU?",
+        "balanceBefore": 79,
+        "best": {
+          "word": "OUT",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "OTU?",
+        "balanceAfter": 69
+      },
+      {
+        "t": 1794096975550448,
+        "kind": "win",
+        "letter": "A",
+        "paid": 10,
+        "auction": 2843913,
+        "rackBefore": "OTU?",
+        "balanceBefore": 69,
+        "best": {
+          "word": "AUTO",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "AOTU?",
+        "balanceAfter": 59
+      },
+      {
+        "t": 1794096981951763,
+        "kind": "win",
+        "letter": "U",
+        "paid": 11,
+        "auction": 2843955,
+        "rackBefore": "AOTU?",
+        "balanceBefore": 59,
+        "best": {
+          "word": "AUTO",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "AOTUU?",
+        "balanceAfter": 48
+      },
+      {
+        "t": 1794096982126913,
+        "kind": "word",
+        "word": "AUTO",
+        "reward": 6,
+        "rackBefore": "AOTUU?",
+        "balanceBefore": 48,
+        "best": {
+          "word": "AUTO",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "U?",
+        "balanceAfter": 54
+      },
+      {
+        "t": 1794096983008872,
+        "kind": "win",
+        "letter": "I",
+        "paid": 11,
+        "auction": 2843962,
+        "rackBefore": "U?",
+        "balanceBefore": 54,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "IU?",
+        "balanceAfter": 43
+      },
+      {
+        "t": 1794096990302565,
+        "kind": "win",
+        "letter": "E",
+        "paid": 12,
+        "auction": 2844011,
+        "rackBefore": "IU?",
+        "balanceBefore": 43,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "EIU?",
+        "balanceAfter": 31
+      },
+      {
+        "t": 1794096996773113,
+        "kind": "win",
+        "letter": "I",
+        "paid": 10,
+        "auction": 2846732,
+        "rackBefore": "EIU?",
+        "balanceBefore": 31,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "EIIU?",
+        "balanceAfter": 21
+      },
+      {
+        "t": 1794097027464970,
+        "kind": "win",
+        "letter": "T",
+        "paid": 10,
+        "auction": 2846850,
+        "rackBefore": "EIIU?",
+        "balanceBefore": 21,
+        "best": {
+          "word": "ETUI",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "EIITU?",
+        "balanceAfter": 11
+      },
+      {
+        "t": 1794097036506727,
+        "kind": "word",
+        "word": "ETUI",
+        "reward": 6,
+        "rackBefore": "EIITU?",
+        "balanceBefore": 11,
+        "best": {
+          "word": "ETUI",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "I?",
+        "balanceAfter": 17
+      }
+    ]
+  },
+  {
+    "id": 43340,
+    "initial": {
+      "T": 2,
+      "M": 1,
+      "A": 1,
+      "O": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794097676023967,
+        "kind": "win",
+        "letter": "O",
+        "paid": 14,
+        "auction": 2851001,
+        "rackBefore": "AMOTT",
+        "balanceBefore": 100,
+        "best": {
+          "word": "TOMATO",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "Z",
+            "word": "MATZOT",
+            "reward": 42
+          },
+          {
+            "letter": "N",
+            "word": "OTTOMAN",
+            "reward": 27
+          },
+          {
+            "letter": "B",
+            "word": "BOTTOM",
+            "reward": 25
+          },
+          {
+            "letter": "C",
+            "word": "TOMCAT",
+            "reward": 25
+          },
+          {
+            "letter": "M",
+            "word": "MOTMOT",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "AMOOTT",
+        "balanceAfter": 86
+      },
+      {
+        "t": 1794097676156134,
+        "kind": "word",
+        "word": "TOMATO",
+        "reward": 20,
+        "rackBefore": "AMOOTT",
+        "balanceBefore": 86,
+        "best": {
+          "word": "TOMATO",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "Z",
+            "word": "MATZOT",
+            "reward": 42
+          },
+          {
+            "letter": "N",
+            "word": "OTTOMAN",
+            "reward": 27
+          },
+          {
+            "letter": "B",
+            "word": "BOTTOM",
+            "reward": 25
+          },
+          {
+            "letter": "C",
+            "word": "TOMCAT",
+            "reward": 25
+          },
+          {
+            "letter": "M",
+            "word": "MOTMOT",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 106
+      },
+      {
+        "t": 1794097679152035,
+        "kind": "win",
+        "letter": "S",
+        "paid": 16,
+        "auction": 2851022,
+        "rackBefore": "",
+        "balanceBefore": 106,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "S",
+        "balanceAfter": 90
+      },
+      {
+        "t": 1794097680163057,
+        "kind": "win",
+        "letter": "O",
+        "paid": 10,
+        "auction": 2851029,
+        "rackBefore": "S",
+        "balanceBefore": 90,
+        "best": {
+          "word": "OS",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "OS",
+        "balanceAfter": 80
+      },
+      {
+        "t": 1794097684184917,
+        "kind": "win",
+        "letter": "A",
+        "paid": 13,
+        "auction": 2851057,
+        "rackBefore": "OS",
+        "balanceBefore": 80,
+        "best": {
+          "word": "AS",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AOS",
+        "balanceAfter": 67
+      },
+      {
+        "t": 1794097687366734,
+        "kind": "win",
+        "letter": "S",
+        "paid": 15,
+        "auction": 2851077,
+        "rackBefore": "AOS",
+        "balanceBefore": 67,
+        "best": {
+          "word": "OSSA",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "AOSS",
+        "balanceAfter": 52
+      },
+      {
+        "t": 1794097691411735,
+        "kind": "win",
+        "letter": "L",
+        "paid": 11,
+        "auction": 2851105,
+        "rackBefore": "AOSS",
+        "balanceBefore": 52,
+        "best": {
+          "word": "LASSO",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "K",
+            "word": "SKOALS",
+            "reward": 25
+          },
+          {
+            "letter": "H",
+            "word": "SHOALS",
+            "reward": 22
+          },
+          {
+            "letter": "V",
+            "word": "SALVOS",
+            "reward": 22
+          },
+          {
+            "letter": "D",
+            "word": "DOSSAL",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "GLOSSA",
+            "reward": 17
+          },
+          {
+            "letter": "I",
+            "word": "ASSOIL",
+            "reward": 15
+          },
+          {
+            "letter": "L",
+            "word": "SALOLS",
+            "reward": 15
+          },
+          {
+            "letter": "N",
+            "word": "SALONS",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "ALOSS",
+        "balanceAfter": 41
+      },
+      {
+        "t": 1794097691757383,
+        "kind": "word",
+        "word": "LASSO",
+        "reward": 10,
+        "rackBefore": "ALOSS",
+        "balanceBefore": 41,
+        "best": {
+          "word": "LASSO",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "K",
+            "word": "SKOALS",
+            "reward": 25
+          },
+          {
+            "letter": "H",
+            "word": "SHOALS",
+            "reward": 22
+          },
+          {
+            "letter": "V",
+            "word": "SALVOS",
+            "reward": 22
+          },
+          {
+            "letter": "D",
+            "word": "DOSSAL",
+            "reward": 17
+          },
+          {
+            "letter": "G",
+            "word": "GLOSSA",
+            "reward": 17
+          },
+          {
+            "letter": "I",
+            "word": "ASSOIL",
+            "reward": 15
+          },
+          {
+            "letter": "L",
+            "word": "SALOLS",
+            "reward": 15
+          },
+          {
+            "letter": "N",
+            "word": "SALONS",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 51
+      },
+      {
+        "t": 1794097693414510,
+        "kind": "win",
+        "letter": "O",
+        "paid": 10,
+        "auction": 2851119,
+        "rackBefore": "",
+        "balanceBefore": 51,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "O",
+        "balanceAfter": 41
+      },
+      {
+        "t": 1794097694415479,
+        "kind": "win",
+        "letter": "A",
+        "paid": 13,
+        "auction": 2851126,
+        "rackBefore": "O",
+        "balanceBefore": 41,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "AO",
+        "balanceAfter": 28
+      },
+      {
+        "t": 1794097698420490,
+        "kind": "win",
+        "letter": "I",
+        "paid": 10,
+        "auction": 2851154,
+        "rackBefore": "AO",
+        "balanceBefore": 28,
+        "best": {
+          "word": "AI",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AIO",
+        "balanceAfter": 18
+      },
+      {
+        "t": 1794097699421601,
+        "kind": "win",
+        "letter": "A",
+        "paid": 11,
+        "auction": 2851161,
+        "rackBefore": "AIO",
+        "balanceBefore": 18,
+        "best": {
+          "word": "AA",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AAIO",
+        "balanceAfter": 7
+      },
+      {
+        "t": 1794097735636798,
+        "kind": "word",
+        "word": "AA",
+        "reward": 2,
+        "rackBefore": "AAIO",
+        "balanceBefore": 7,
+        "best": {
+          "word": "AA",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "IO",
+        "balanceAfter": 9
+      }
+    ]
+  },
+  {
+    "id": 45056,
+    "initial": {
+      "E": 3,
+      "T": 1,
+      "I": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794097747610762,
+        "kind": "win",
+        "letter": "I",
+        "paid": 11,
+        "auction": 2851478,
+        "rackBefore": "EEEIT",
+        "balanceBefore": 100,
+        "best": {
+          "word": "TEE",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "EEEIIT",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794097749048999,
+        "kind": "win",
+        "letter": "O",
+        "paid": 8,
+        "auction": 2851484,
+        "rackBefore": "EEEIIT",
+        "balanceBefore": 89,
+        "best": {
+          "word": "TEE",
+          "reward": 3
+        },
+        "longHooks": [
+          {
+            "letter": "L",
+            "word": "ETOILE",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "EEEIIOT",
+        "balanceAfter": 81
+      },
+      {
+        "t": 1794097756059661,
+        "kind": "win",
+        "letter": "V",
+        "paid": 18,
+        "auction": 2851533,
+        "rackBefore": "EEEIIOT",
+        "balanceBefore": 81,
+        "best": {
+          "word": "EVITE",
+          "reward": 16
+        },
+        "longHooks": [
+          {
+            "letter": "C",
+            "word": "EVICTEE",
+            "reward": 36
+          },
+          {
+            "letter": "M",
+            "word": "EMOTIVE",
+            "reward": 36
+          },
+          {
+            "letter": "D",
+            "word": "DEVOTEE",
+            "reward": 33
+          },
+          {
+            "letter": "H",
+            "word": "THIEVE",
+            "reward": 30
+          },
+          {
+            "letter": "N",
+            "word": "INVITEE",
+            "reward": 30
+          },
+          {
+            "letter": "V",
+            "word": "VOTIVE",
+            "reward": 30
+          },
+          {
+            "letter": "G",
+            "word": "VEGETE",
+            "reward": 25
+          },
+          {
+            "letter": "L",
+            "word": "VIOLET",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "EEEIIOTV",
+        "balanceAfter": 63
+      },
+      {
+        "t": 1794097756203423,
+        "kind": "word",
+        "word": "EVITE",
+        "reward": 16,
+        "rackBefore": "EEEIIOTV",
+        "balanceBefore": 63,
+        "best": {
+          "word": "EVITE",
+          "reward": 16
+        },
+        "longHooks": [
+          {
+            "letter": "C",
+            "word": "EVICTEE",
+            "reward": 36
+          },
+          {
+            "letter": "M",
+            "word": "EMOTIVE",
+            "reward": 36
+          },
+          {
+            "letter": "D",
+            "word": "DEVOTEE",
+            "reward": 33
+          },
+          {
+            "letter": "H",
+            "word": "THIEVE",
+            "reward": 30
+          },
+          {
+            "letter": "N",
+            "word": "INVITEE",
+            "reward": 30
+          },
+          {
+            "letter": "V",
+            "word": "VOTIVE",
+            "reward": 30
+          },
+          {
+            "letter": "G",
+            "word": "VEGETE",
+            "reward": 25
+          },
+          {
+            "letter": "L",
+            "word": "VIOLET",
+            "reward": 22
+          }
+        ],
+        "rackAfter": "EIO",
+        "balanceAfter": 79
+      },
+      {
+        "t": 1794097760352586,
+        "kind": "win",
+        "letter": "N",
+        "paid": 11,
+        "auction": 2851560,
+        "rackBefore": "EIO",
+        "balanceBefore": 79,
+        "best": {
+          "word": "EON",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "EINO",
+        "balanceAfter": 68
+      },
+      {
+        "t": 1794097762354606,
+        "kind": "win",
+        "letter": "S",
+        "paid": 14,
+        "auction": 2851574,
+        "rackBefore": "EINO",
+        "balanceBefore": 68,
+        "best": {
+          "word": "EOSIN",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "Z",
+            "word": "SOZINE",
+            "reward": 37
+          },
+          {
+            "letter": "K",
+            "word": "EIKONS",
+            "reward": 25
+          },
+          {
+            "letter": "V",
+            "word": "ENVOIS",
+            "reward": 22
+          },
+          {
+            "letter": "W",
+            "word": "NOWISE",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CONIES",
+            "reward": 20
+          },
+          {
+            "letter": "M",
+            "word": "EONISM",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "OPINES",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "DONSIE",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "EINOS",
+        "balanceAfter": 54
+      },
+      {
+        "t": 1794097762494934,
+        "kind": "word",
+        "word": "EOSIN",
+        "reward": 10,
+        "rackBefore": "EINOS",
+        "balanceBefore": 54,
+        "best": {
+          "word": "EOSIN",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "Z",
+            "word": "SOZINE",
+            "reward": 37
+          },
+          {
+            "letter": "K",
+            "word": "EIKONS",
+            "reward": 25
+          },
+          {
+            "letter": "V",
+            "word": "ENVOIS",
+            "reward": 22
+          },
+          {
+            "letter": "W",
+            "word": "NOWISE",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CONIES",
+            "reward": 20
+          },
+          {
+            "letter": "M",
+            "word": "EONISM",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "OPINES",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "DONSIE",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 64
+      },
+      {
+        "t": 1794097763356256,
+        "kind": "win",
+        "letter": "P",
+        "paid": 16,
+        "auction": 2851581,
+        "rackBefore": "",
+        "balanceBefore": 64,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "P",
+        "balanceAfter": 48
+      },
+      {
+        "t": 1794097766361450,
+        "kind": "win",
+        "letter": "O",
+        "paid": 12,
+        "auction": 2851602,
+        "rackBefore": "P",
+        "balanceBefore": 48,
+        "best": {
+          "word": "OP",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "OP",
+        "balanceAfter": 36
+      },
+      {
+        "t": 1794097775376922,
+        "kind": "win",
+        "letter": "I",
+        "paid": 13,
+        "auction": 2854932,
+        "rackBefore": "OP",
+        "balanceBefore": 36,
+        "best": {
+          "word": "POI",
+          "reward": 5
+        },
+        "longHooks": [],
+        "rackAfter": "IOP",
+        "balanceAfter": 23
+      },
+      {
+        "t": 1794097778394901,
+        "kind": "win",
+        "letter": "S",
+        "paid": 13,
+        "auction": 2854953,
+        "rackBefore": "IOP",
+        "balanceBefore": 23,
+        "best": {
+          "word": "PISO",
+          "reward": 9
+        },
+        "longHooks": [],
+        "rackAfter": "IOPS",
+        "balanceAfter": 10
+      },
+      {
+        "t": 1794097800238783,
+        "kind": "word",
+        "word": "PISO",
+        "reward": 9,
+        "rackBefore": "IOPS",
+        "balanceBefore": 10,
+        "best": {
+          "word": "PISO",
+          "reward": 9
+        },
+        "longHooks": [],
+        "rackAfter": "",
+        "balanceAfter": 19
+      },
+      {
+        "t": 1794097801805315,
+        "kind": "win",
+        "letter": "S",
+        "paid": 10,
+        "auction": 2855098,
+        "rackBefore": "",
+        "balanceBefore": 19,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "S",
+        "balanceAfter": 9
+      },
+      {
+        "t": 1794097802806758,
+        "kind": "win",
+        "letter": "R",
+        "paid": 8,
+        "auction": 2855104,
+        "rackBefore": "S",
+        "balanceBefore": 9,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "RS",
+        "balanceAfter": 1
+      }
+    ]
+  },
+  {
+    "id": 45063,
+    "initial": {
+      "C": 1,
+      "A": 1,
+      "V": 1,
+      "I": 1,
+      "E": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794097816262266,
+        "kind": "word",
+        "word": "CAVIE",
+        "reward": 20,
+        "rackBefore": "ACEIV",
+        "balanceBefore": 100,
+        "best": {
+          "word": "CAVIE",
+          "reward": 20
+        },
+        "longHooks": [
+          {
+            "letter": "V",
+            "word": "VIVACE",
+            "reward": 35
+          },
+          {
+            "letter": "D",
+            "word": "ADVICE",
+            "reward": 30
+          },
+          {
+            "letter": "S",
+            "word": "CAVIES",
+            "reward": 27
+          },
+          {
+            "letter": "T",
+            "word": "ACTIVE",
+            "reward": 27
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 120
+      },
+      {
+        "t": 1794097820303105,
+        "kind": "win",
+        "letter": "N",
+        "paid": 11,
+        "auction": 2855216,
+        "rackBefore": "",
+        "balanceBefore": 120,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "N",
+        "balanceAfter": 109
+      },
+      {
+        "t": 1794097822308884,
+        "kind": "win",
+        "letter": "E",
+        "paid": 13,
+        "auction": 2855230,
+        "rackBefore": "N",
+        "balanceBefore": 109,
+        "best": {
+          "word": "EN",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "EN",
+        "balanceAfter": 96
+      },
+      {
+        "t": 1794097826663164,
+        "kind": "win",
+        "letter": "R",
+        "paid": 13,
+        "auction": 2855258,
+        "rackBefore": "EN",
+        "balanceBefore": 96,
+        "best": {
+          "word": "ERN",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "ENR",
+        "balanceAfter": 83
+      },
+      {
+        "t": 1794097827697074,
+        "kind": "win",
+        "letter": "T",
+        "paid": 12,
+        "auction": 2855265,
+        "rackBefore": "ENR",
+        "balanceBefore": 83,
+        "best": {
+          "word": "RENT",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "ENRT",
+        "balanceAfter": 71
+      },
+      {
+        "t": 1794097828897027,
+        "kind": "win",
+        "letter": "S",
+        "paid": 13,
+        "auction": 2855272,
+        "rackBefore": "ENRT",
+        "balanceBefore": 71,
+        "best": {
+          "word": "NERTS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "W",
+            "word": "STREWN",
+            "reward": 22
+          },
+          {
+            "letter": "Y",
+            "word": "SENTRY",
+            "reward": 22
+          },
+          {
+            "letter": "B",
+            "word": "BRENTS",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "SPRENT",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "TRENDS",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "ANTRES",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "ENTERS",
+            "reward": 15
+          },
+          {
+            "letter": "I",
+            "word": "ESTRIN",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "ENRST",
+        "balanceAfter": 58
+      },
+      {
+        "t": 1794097829671049,
+        "kind": "word",
+        "word": "NERTS",
+        "reward": 10,
+        "rackBefore": "ENRST",
+        "balanceBefore": 58,
+        "best": {
+          "word": "NERTS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "W",
+            "word": "STREWN",
+            "reward": 22
+          },
+          {
+            "letter": "Y",
+            "word": "SENTRY",
+            "reward": 22
+          },
+          {
+            "letter": "B",
+            "word": "BRENTS",
+            "reward": 20
+          },
+          {
+            "letter": "P",
+            "word": "SPRENT",
+            "reward": 20
+          },
+          {
+            "letter": "D",
+            "word": "TRENDS",
+            "reward": 17
+          },
+          {
+            "letter": "A",
+            "word": "ANTRES",
+            "reward": 15
+          },
+          {
+            "letter": "E",
+            "word": "ENTERS",
+            "reward": 15
+          },
+          {
+            "letter": "I",
+            "word": "ESTRIN",
+            "reward": 15
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 68
+      },
+      {
+        "t": 1794097834907545,
+        "kind": "win",
+        "letter": "R",
+        "paid": 12,
+        "auction": 2855308,
+        "rackBefore": "",
+        "balanceBefore": 68,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "R",
+        "balanceAfter": 56
+      },
+      {
+        "t": 1794097835908976,
+        "kind": "win",
+        "letter": "S",
+        "paid": 14,
+        "auction": 2855314,
+        "rackBefore": "R",
+        "balanceBefore": 56,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "RS",
+        "balanceAfter": 42
+      },
+      {
+        "t": 1794097838914524,
+        "kind": "win",
+        "letter": "O",
+        "paid": 14,
+        "auction": 2855332,
+        "rackBefore": "RS",
+        "balanceBefore": 42,
+        "best": {
+          "word": "ORS",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "ORS",
+        "balanceAfter": 28
+      },
+      {
+        "t": 1794097839916338,
+        "kind": "win",
+        "letter": "U",
+        "paid": 12,
+        "auction": 2855338,
+        "rackBefore": "ORS",
+        "balanceBefore": 28,
+        "best": {
+          "word": "OURS",
+          "reward": 6
+        },
+        "longHooks": [],
+        "rackAfter": "ORSU",
+        "balanceAfter": 16
+      },
+      {
+        "t": 1794097843922358,
+        "kind": "win",
+        "letter": "L",
+        "paid": 12,
+        "auction": 2855362,
+        "rackBefore": "ORSU",
+        "balanceBefore": 16,
+        "best": {
+          "word": "LOURS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "FLOURS",
+            "reward": 22
+          },
+          {
+            "letter": "Y",
+            "word": "SOURLY",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CLOURS",
+            "reward": 20
+          }
+        ],
+        "rackAfter": "LORSU",
+        "balanceAfter": 4
+      },
+      {
+        "t": 1794097844273273,
+        "kind": "word",
+        "word": "LOURS",
+        "reward": 10,
+        "rackBefore": "LORSU",
+        "balanceBefore": 4,
+        "best": {
+          "word": "LOURS",
+          "reward": 10
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "FLOURS",
+            "reward": 22
+          },
+          {
+            "letter": "Y",
+            "word": "SOURLY",
+            "reward": 22
+          },
+          {
+            "letter": "C",
+            "word": "CLOURS",
+            "reward": 20
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 14
+      },
+      {
+        "t": 1794097850933765,
+        "kind": "win",
+        "letter": "O",
+        "paid": 12,
+        "auction": 2855404,
+        "rackBefore": "",
+        "balanceBefore": 14,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "O",
+        "balanceAfter": 2
+      }
+    ]
+  },
+  {
+    "id": 45070,
+    "initial": {
+      "B": 1,
+      "U": 1,
+      "M": 1,
+      "P": 1
+    },
+    "unknown": 1,
+    "events": [
+      {
+        "t": 1794097894593240,
+        "kind": "win",
+        "letter": "O",
+        "paid": 11,
+        "auction": 2855661,
+        "rackBefore": "BMPU?",
+        "balanceBefore": 100,
+        "best": {
+          "word": "BUMP",
+          "reward": 15
+        },
+        "longHooks": [],
+        "rackAfter": "BMOPU?",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794097895091119,
+        "kind": "word",
+        "word": "BUMP",
+        "reward": 15,
+        "rackBefore": "BMOPU?",
+        "balanceBefore": 89,
+        "best": {
+          "word": "BUMP",
+          "reward": 15
+        },
+        "longHooks": [],
+        "rackAfter": "O?",
+        "balanceAfter": 104
+      },
+      {
+        "t": 1794097896604048,
+        "kind": "win",
+        "letter": "A",
+        "paid": 15,
+        "auction": 2855673,
+        "rackBefore": "O?",
+        "balanceBefore": 104,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "AO?",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794097908628430,
+        "kind": "win",
+        "letter": "A",
+        "paid": 9,
+        "auction": 2855745,
+        "rackBefore": "AO?",
+        "balanceBefore": 89,
+        "best": {
+          "word": "AA",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AAO?",
+        "balanceAfter": 80
+      },
+      {
+        "t": 1794097909629962,
+        "kind": "win",
+        "letter": "E",
+        "paid": 14,
+        "auction": 2855751,
+        "rackBefore": "AAO?",
+        "balanceBefore": 80,
+        "best": {
+          "word": "AA",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AAEO?",
+        "balanceAfter": 66
+      }
+    ]
+  },
+  {
+    "id": 45085,
+    "initial": {
+      "A": 2,
+      "U": 1,
+      "R": 1,
+      "T": 1
+    },
+    "unknown": 0,
+    "events": [
+      {
+        "t": 1794098077186003,
+        "kind": "win",
+        "letter": "E",
+        "paid": 12,
+        "auction": 2859249,
+        "rackBefore": "AARTU",
+        "balanceBefore": 100,
+        "best": {
+          "word": "AURATE",
+          "reward": 15
+        },
+        "longHooks": [
+          {
+            "letter": "Q",
+            "word": "QUARTE",
+            "reward": 37
+          },
+          {
+            "letter": "C",
+            "word": "ARCUATE",
+            "reward": 27
+          },
+          {
+            "letter": "M",
+            "word": "AMATEUR",
+            "reward": 27
+          },
+          {
+            "letter": "K",
+            "word": "KARATE",
+            "reward": 25
+          },
+          {
+            "letter": "D",
+            "word": "AURATED",
+            "reward": 24
+          },
+          {
+            "letter": "E",
+            "word": "AUREATE",
+            "reward": 21
+          },
+          {
+            "letter": "T",
+            "word": "TUATERA",
+            "reward": 21
+          },
+          {
+            "letter": "B",
+            "word": "ABATER",
+            "reward": 20
+          }
+        ],
+        "rackAfter": "AAERTU",
+        "balanceAfter": 88
+      },
+      {
+        "t": 1794098077239551,
+        "kind": "word",
+        "word": "AURATE",
+        "reward": 15,
+        "rackBefore": "AAERTU",
+        "balanceBefore": 88,
+        "best": {
+          "word": "AURATE",
+          "reward": 15
+        },
+        "longHooks": [
+          {
+            "letter": "Q",
+            "word": "QUARTE",
+            "reward": 37
+          },
+          {
+            "letter": "C",
+            "word": "ARCUATE",
+            "reward": 27
+          },
+          {
+            "letter": "M",
+            "word": "AMATEUR",
+            "reward": 27
+          },
+          {
+            "letter": "K",
+            "word": "KARATE",
+            "reward": 25
+          },
+          {
+            "letter": "D",
+            "word": "AURATED",
+            "reward": 24
+          },
+          {
+            "letter": "E",
+            "word": "AUREATE",
+            "reward": 21
+          },
+          {
+            "letter": "T",
+            "word": "TUATERA",
+            "reward": 21
+          },
+          {
+            "letter": "B",
+            "word": "ABATER",
+            "reward": 20
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 103
+      },
+      {
+        "t": 1794098081341682,
+        "kind": "win",
+        "letter": "T",
+        "paid": 14,
+        "auction": 2859273,
+        "rackBefore": "",
+        "balanceBefore": 103,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "T",
+        "balanceAfter": 89
+      },
+      {
+        "t": 1794098085409050,
+        "kind": "win",
+        "letter": "A",
+        "paid": 14,
+        "auction": 2859297,
+        "rackBefore": "T",
+        "balanceBefore": 89,
+        "best": {
+          "word": "AT",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "AT",
+        "balanceAfter": 75
+      },
+      {
+        "t": 1794098086414189,
+        "kind": "win",
+        "letter": "G",
+        "paid": 15,
+        "auction": 2859303,
+        "rackBefore": "AT",
+        "balanceBefore": 75,
+        "best": {
+          "word": "GAT",
+          "reward": 4
+        },
+        "longHooks": [],
+        "rackAfter": "AGT",
+        "balanceAfter": 60
+      },
+      {
+        "t": 1794098094552298,
+        "kind": "win",
+        "letter": "R",
+        "paid": 12,
+        "auction": 2859350,
+        "rackBefore": "AGT",
+        "balanceBefore": 60,
+        "best": {
+          "word": "GRAT",
+          "reward": 7
+        },
+        "longHooks": [],
+        "rackAfter": "AGRT",
+        "balanceAfter": 48
+      },
+      {
+        "t": 1794098095593868,
+        "kind": "win",
+        "letter": "N",
+        "paid": 12,
+        "auction": 2859356,
+        "rackBefore": "AGRT",
+        "balanceBefore": 48,
+        "best": {
+          "word": "GRANT",
+          "reward": 12
+        },
+        "longHooks": [
+          {
+            "letter": "Y",
+            "word": "GANTRY",
+            "reward": 25
+          },
+          {
+            "letter": "E",
+            "word": "ARGENT",
+            "reward": 17
+          },
+          {
+            "letter": "I",
+            "word": "GRATIN",
+            "reward": 17
+          },
+          {
+            "letter": "S",
+            "word": "GRANTS",
+            "reward": 17
+          }
+        ],
+        "rackAfter": "AGNRT",
+        "balanceAfter": 36
+      },
+      {
+        "t": 1794098098637685,
+        "kind": "win",
+        "letter": "E",
+        "paid": 15,
+        "auction": 2859374,
+        "rackBefore": "AGNRT",
+        "balanceBefore": 36,
+        "best": {
+          "word": "ARGENT",
+          "reward": 17
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "ENGRAFT",
+            "reward": 33
+          },
+          {
+            "letter": "W",
+            "word": "TWANGER",
+            "reward": 33
+          },
+          {
+            "letter": "Y",
+            "word": "AGENTRY",
+            "reward": 33
+          },
+          {
+            "letter": "M",
+            "word": "GARMENT",
+            "reward": 30
+          },
+          {
+            "letter": "P",
+            "word": "TREPANG",
+            "reward": 30
+          },
+          {
+            "letter": "D",
+            "word": "DRAGNET",
+            "reward": 27
+          },
+          {
+            "letter": "H",
+            "word": "GATHER",
+            "reward": 25
+          },
+          {
+            "letter": "K",
+            "word": "TANKER",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "AEGNRT",
+        "balanceAfter": 21
+      },
+      {
+        "t": 1794098098683140,
+        "kind": "word",
+        "word": "ARGENT",
+        "reward": 17,
+        "rackBefore": "AEGNRT",
+        "balanceBefore": 21,
+        "best": {
+          "word": "ARGENT",
+          "reward": 17
+        },
+        "longHooks": [
+          {
+            "letter": "F",
+            "word": "ENGRAFT",
+            "reward": 33
+          },
+          {
+            "letter": "W",
+            "word": "TWANGER",
+            "reward": 33
+          },
+          {
+            "letter": "Y",
+            "word": "AGENTRY",
+            "reward": 33
+          },
+          {
+            "letter": "M",
+            "word": "GARMENT",
+            "reward": 30
+          },
+          {
+            "letter": "P",
+            "word": "TREPANG",
+            "reward": 30
+          },
+          {
+            "letter": "D",
+            "word": "DRAGNET",
+            "reward": 27
+          },
+          {
+            "letter": "H",
+            "word": "GATHER",
+            "reward": 25
+          },
+          {
+            "letter": "K",
+            "word": "TANKER",
+            "reward": 25
+          }
+        ],
+        "rackAfter": "",
+        "balanceAfter": 38
+      },
+      {
+        "t": 1794098099645462,
+        "kind": "win",
+        "letter": "I",
+        "paid": 17,
+        "auction": 2859380,
+        "rackBefore": "",
+        "balanceBefore": 38,
+        "best": null,
+        "longHooks": [],
+        "rackAfter": "I",
+        "balanceAfter": 21
+      },
+      {
+        "t": 1794098106254861,
+        "kind": "win",
+        "letter": "S",
+        "paid": 13,
+        "auction": 2859416,
+        "rackBefore": "I",
+        "balanceBefore": 21,
+        "best": {
+          "word": "IS",
+          "reward": 2
+        },
+        "longHooks": [],
+        "rackAfter": "IS",
+        "balanceAfter": 8
+      },
+      {
+        "t": 1794098133387525,
+        "kind": "win",
+        "letter": "S",
+        "paid": 3,
+        "auction": 2859586,
+        "rackBefore": "IS",
+        "balanceBefore": 8,
+        "best": {
+          "word": "SIS",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "ISS",
+        "balanceAfter": 5
+      },
+      {
+        "t": 1794098133440706,
+        "kind": "word",
+        "word": "SIS",
+        "reward": 3,
+        "rackBefore": "ISS",
+        "balanceBefore": 5,
+        "best": {
+          "word": "SIS",
+          "reward": 3
+        },
+        "longHooks": [],
+        "rackAfter": "",
+        "balanceAfter": 8
+      }
+    ]
+  }
+]
