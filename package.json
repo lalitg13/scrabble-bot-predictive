@@ -1,0 +1,33 @@
+{
+  "name": "casual-thinker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Casual-lobby ScrabbleBot client. Does not register for tournaments.",
+  "scripts": {
+    "generate": "npm install --prefix spacetimedb && spacetime generate --lang typescript --out-dir src/module_bindings --module-path spacetimedb",
+    "start": "tsx src/index.ts",
+    "test": "node --import tsx --test src/strategy.test.ts src/sim/sim.test.ts src/sim/ml.test.ts",
+    "build": "tsc --noEmit",
+    "fetch-evidence": "cd sim/data && ./fetch.sh 43000 && python3 parse.py",
+    "fit": "tsx src/sim/fit.ts",
+    "train": "tsx src/sim/train.ts",
+    "sim": "tsx src/sim/run.ts",
+    "ml-train": "tsx src/sim/ml-train.ts",
+    "coach": "tsx src/sim/coach.ts",
+    "ml-eval": "tsx src/sim/ml-eval.ts"
+  },
+  "dependencies": {
+    "spacetimedb": "2.12.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/ws": "^8.5.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

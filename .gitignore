@@ -1,0 +1,13 @@
+node_modules/
+.token*
+.env
+.env.*
+*.log
+*.tmp
+.DS_Store
+dist/
+.npm/
+sim/data/
+sim/coach-traces.jsonl
+sim/live-traces.jsonl
+sim/ml-policy.json.tmp
