@@ -44,3 +44,40 @@ All win rates are from the simulator. "Fitted field" = opponents fitted to real 
 - 36000 train games, 2.2 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.2% | place 2.63 | score 82.1 | leftover 19.2 | Δwin 18.0 pts | sd 0.41,0.55
 - 40000 train games, 2.4 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.8% | place 2.58 | score 82.3 | leftover 18.2 | Δwin 18.6 pts | sd 0.42,0.54
 - 44000 train games, 2.6 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.3% | place 2.55 | score 82.7 | leftover 17.2 | Δwin 17.1 pts | sd 0.42,0.54
+- 48000 train games, 2.8 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 28.3% | place 2.69 | score 80.7 | leftover 19.2 | Δwin 16.1 pts | sd 0.42,0.54
+- 52000 train games, 3.0 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 25.5% | place 2.93 | score 77.4 | leftover 20.9 | Δwin 13.3 pts | sd 0.42,0.53
+- 56000 train games, 3.3 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 27.4% | place 2.68 | score 80.1 | leftover 17.4 | Δwin 15.2 pts | sd 0.43,0.53
+- 60000 train games, 3.5 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.5% | place 2.48 | score 83.2 | leftover 12.5 | Δwin 18.3 pts | sd 0.43,0.54
+- 64000 train games, 3.7 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.3% | place 2.45 | score 83.5 | leftover 9.9 | Δwin 18.1 pts | sd 0.43,0.54
+- 68000 train games, 3.9 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.3% | place 2.50 | score 82.5 | leftover 8.1 | Δwin 18.1 pts | sd 0.44,0.54
+- 72000 train games, 4.1 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.8% | place 2.48 | score 82.9 | leftover 7.8 | Δwin 18.6 pts | sd 0.44,0.54
+- 76000 train games, 4.3 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.1% | place 2.51 | score 82.3 | leftover 8.2 | Δwin 16.9 pts | sd 0.45,0.54
+- 80000 train games, 4.6 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 31.2% | place 2.47 | score 83.2 | leftover 9.4 | Δwin 19.0 pts | sd 0.45,0.53
+- 84000 train games, 4.8 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.8% | place 2.55 | score 82.5 | leftover 10.7 | Δwin 17.6 pts | sd 0.45,0.53
+- 88000 train games, 5.0 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 24.3% | place 2.89 | score 77.9 | leftover 13.5 | Δwin 12.0 pts | sd 0.45,0.53
+- 92000 train games, 5.3 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 20.6% | place 3.06 | score 75.5 | leftover 17.1 | Δwin 8.4 pts | sd 0.45,0.53
+- 96000 train games, 5.5 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 19.9% | place 3.11 | score 74.8 | leftover 17.2 | Δwin 7.7 pts | sd 0.45,0.54
+- 100000 train games, 5.7 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 21.6% | place 2.97 | score 76.5 | leftover 16.0 | Δwin 9.4 pts | sd 0.46,0.54
+- 104000 train games, 5.9 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 23.3% | place 2.94 | score 77.2 | leftover 15.7 | Δwin 11.1 pts | sd 0.46,0.54
+- 108000 train games, 6.1 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 28.0% | place 2.77 | score 79.3 | leftover 14.6 | Δwin 15.8 pts | sd 0.46,0.54
+- 112000 train games, 6.4 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 27.8% | place 2.70 | score 80.8 | leftover 14.3 | Δwin 15.6 pts | sd 0.46,0.54
+- 116000 train games, 6.6 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.3% | place 2.61 | score 81.5 | leftover 13.4 | Δwin 17.0 pts | sd 0.46,0.54
+- 120000 train games, 6.8 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.5% | place 2.58 | score 82.0 | leftover 13.3 | Δwin 17.3 pts | sd 0.46,0.54
+- 124000 train games, 7.0 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.1% | place 2.57 | score 82.0 | leftover 13.7 | Δwin 16.9 pts | sd 0.46,0.54
+- 128000 train games, 7.2 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.5% | place 2.57 | score 82.1 | leftover 14.7 | Δwin 17.3 pts | sd 0.46,0.54
+- 132000 train games, 7.5 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 27.9% | place 2.62 | score 81.6 | leftover 16.0 | Δwin 15.7 pts | sd 0.45,0.54
+- 136000 train games, 7.7 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 28.3% | place 2.66 | score 81.1 | leftover 17.6 | Δwin 16.1 pts | sd 0.45,0.54
+- 140000 train games, 7.9 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.7% | place 2.67 | score 81.0 | leftover 18.1 | Δwin 17.5 pts | sd 0.45,0.54
+- 144000 train games, 8.1 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 27.8% | place 2.66 | score 81.1 | leftover 17.6 | Δwin 15.6 pts | sd 0.45,0.55
+- 148000 train games, 8.4 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 28.5% | place 2.62 | score 82.0 | leftover 16.3 | Δwin 16.3 pts | sd 0.45,0.55
+- 152000 train games, 8.6 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.1% | place 2.53 | score 82.9 | leftover 15.7 | Δwin 17.9 pts | sd 0.46,0.55
+- 156000 train games, 8.8 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 30.9% | place 2.54 | score 82.9 | leftover 15.3 | Δwin 18.7 pts | sd 0.46,0.55
+- 160000 train games, 9.0 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.9% | place 2.62 | score 81.6 | leftover 16.4 | Δwin 17.7 pts | sd 0.46,0.55
+- 164000 train games, 9.3 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.1% | place 2.65 | score 81.2 | leftover 16.5 | Δwin 16.9 pts | sd 0.46,0.55
+- 168000 train games, 9.5 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.3% | place 2.63 | score 81.4 | leftover 15.9 | Δwin 17.1 pts | sd 0.46,0.55
+- 172000 train games, 9.7 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 29.3% | place 2.61 | score 81.5 | leftover 15.1 | Δwin 17.1 pts | sd 0.46,0.55
+- 176000 train games, 9.9 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 31.3% | place 2.50 | score 83.4 | leftover 13.4 | Δwin 19.1 pts | sd 0.46,0.55
+- 180000 train games, 10.2 min | heuristic: win 12.2% | place 3.59 | score 68.6 | leftover 27.8 | ML: win 31.6% | place 2.45 | score 83.8 | leftover 11.7 | Δwin 19.4 pts | sd 0.47,0.55
+- **final (held-out seeds, 3000 games each, fitted field)** heuristic: win 11.7% | place 3.57 | score 68.2 | leftover 27.4 | ML: win 36.8% | place 2.36 | score 85.4 | leftover 15.5
+- final easy practice field (10000 games each; NOT live accuracy) heuristic: win 87.9% | place 1.12 | score 136.9 | leftover 19.7 | ML: win 92.5% | place 1.08 | score 147.7 | leftover 9.9
+- total training games 180000 (each = 1 simulated match) in 10.8 min
