@@ -1,0 +1,2801 @@
+[
+ {
+  "time": "7:33:33 PM CST",
+  "type": "practice-field",
+  "tag": "start",
+  "games": 10000,
+  "winRate": 0.8009,
+  "avgPlace": 1.2375,
+  "avgScore": 131.5319
+ },
+ {
+  "time": "7:33:41 PM CST",
+  "cycle": 1,
+  "totalGames": 20000,
+  "winRate": 0.1898,
+  "avgPlace": 3.1456,
+  "avgScore": 74.6712,
+  "candidateWinRate": 0.183,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:33:48 PM CST",
+  "cycle": 2,
+  "totalGames": 30000,
+  "winRate": 0.195,
+  "avgPlace": 3.0992,
+  "avgScore": 75.1558,
+  "candidateWinRate": 0.195,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:33:58 PM CST",
+  "cycle": 3,
+  "totalGames": 40000,
+  "winRate": 0.1888,
+  "avgPlace": 3.15,
+  "avgScore": 74.5722,
+  "candidateWinRate": 0.1816,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:06 PM CST",
+  "cycle": 4,
+  "totalGames": 50000,
+  "winRate": 0.1876,
+  "avgPlace": 3.1564,
+  "avgScore": 74.5674,
+  "candidateWinRate": 0.179,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:14 PM CST",
+  "cycle": 5,
+  "totalGames": 60000,
+  "winRate": 0.1952,
+  "avgPlace": 3.115,
+  "avgScore": 75.282,
+  "candidateWinRate": 0.193,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:24 PM CST",
+  "cycle": 6,
+  "totalGames": 70000,
+  "winRate": 0.1804,
+  "avgPlace": 3.1464,
+  "avgScore": 74.628,
+  "candidateWinRate": 0.1668,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:32 PM CST",
+  "cycle": 7,
+  "totalGames": 80000,
+  "winRate": 0.1812,
+  "avgPlace": 3.1818,
+  "avgScore": 74.4874,
+  "candidateWinRate": 0.1812,
+  "changed": true,
+  "deltas": {
+   "endgameBag": [
+    1,
+    0
+   ],
+   "fishMaxReward": [
+    32,
+    35
+   ],
+   "fishMassHigh": [
+    8,
+    9
+   ],
+   "fishGain": [
+    9,
+    10
+   ],
+   "floorScale": [
+    0.44280471211578487,
+    0.2738516573130143
+   ],
+   "shapeScale": [
+    1.372991328587277,
+    1.3822689988880816
+   ],
+   "fourCapImproves": [
+    21,
+    17
+   ]
+  }
+ },
+ {
+  "time": "7:34:39 PM CST",
+  "cycle": 8,
+  "totalGames": 90000,
+  "winRate": 0.1792,
+  "avgPlace": 3.1614,
+  "avgScore": 74.5988,
+  "candidateWinRate": 0.1782,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:47 PM CST",
+  "cycle": 9,
+  "totalGames": 100000,
+  "winRate": 0.1948,
+  "avgPlace": 3.1106,
+  "avgScore": 74.9232,
+  "candidateWinRate": 0.1906,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:34:55 PM CST",
+  "cycle": 10,
+  "totalGames": 110000,
+  "winRate": 0.1892,
+  "avgPlace": 3.1432,
+  "avgScore": 74.8946,
+  "candidateWinRate": 0.1854,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:05 PM CST",
+  "cycle": 11,
+  "totalGames": 120000,
+  "winRate": 0.1872,
+  "avgPlace": 3.1506,
+  "avgScore": 74.5146,
+  "candidateWinRate": 0.1624,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:13 PM CST",
+  "cycle": 12,
+  "totalGames": 130000,
+  "winRate": 0.1862,
+  "avgPlace": 3.1218,
+  "avgScore": 74.71,
+  "candidateWinRate": 0.186,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:23 PM CST",
+  "cycle": 13,
+  "totalGames": 140000,
+  "winRate": 0.188,
+  "avgPlace": 3.1346,
+  "avgScore": 74.7782,
+  "candidateWinRate": 0.1802,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:31 PM CST",
+  "cycle": 14,
+  "totalGames": 150000,
+  "winRate": 0.183,
+  "avgPlace": 3.1228,
+  "avgScore": 74.7638,
+  "candidateWinRate": 0.1828,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:40 PM CST",
+  "cycle": 15,
+  "totalGames": 160000,
+  "winRate": 0.1874,
+  "avgPlace": 3.1286,
+  "avgScore": 75.0312,
+  "candidateWinRate": 0.1718,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:48 PM CST",
+  "cycle": 16,
+  "totalGames": 170000,
+  "winRate": 0.1784,
+  "avgPlace": 3.1838,
+  "avgScore": 74.3482,
+  "candidateWinRate": 0.1782,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:35:56 PM CST",
+  "cycle": 17,
+  "totalGames": 180000,
+  "winRate": 0.1962,
+  "avgPlace": 3.131,
+  "avgScore": 75.0074,
+  "candidateWinRate": 0.1962,
+  "changed": true,
+  "deltas": {
+   "floorScale": [
+    0.2738516573130143,
+    0.33833659277185946
+   ],
+   "heldWordFrac": [
+    1.1606740677138316,
+    1.159902816993615
+   ],
+   "consOnlyMult": [
+    0.5025238447617548,
+    0.4657647683605214
+   ],
+   "reserveFrac": [
+    0.2788850896466733,
+    0.2307935972568092
+   ],
+   "fourCapImproves": [
+    17,
+    22
+   ]
+  }
+ },
+ {
+  "time": "7:36:05 PM CST",
+  "cycle": 18,
+  "totalGames": 190000,
+  "winRate": 0.2002,
+  "avgPlace": 3.0726,
+  "avgScore": 75.467,
+  "candidateWinRate": 0.1714,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:36:13 PM CST",
+  "cycle": 19,
+  "totalGames": 200000,
+  "winRate": 0.1846,
+  "avgPlace": 3.1538,
+  "avgScore": 74.812,
+  "candidateWinRate": 0.1836,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:36:21 PM CST",
+  "cycle": 20,
+  "totalGames": 210000,
+  "winRate": 0.1822,
+  "avgPlace": 3.1386,
+  "avgScore": 74.6868,
+  "candidateWinRate": 0.1822,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    9,
+    7
+   ],
+   "fishMassHigh": [
+    9,
+    8
+   ],
+   "hungerEarly": [
+    1.1317620498587022,
+    1.1059261839837644
+   ],
+   "hungerLate": [
+    0.8845431372738212,
+    0.8068107437577045
+   ],
+   "vowelSatMult": [
+    0.719511932854999,
+    0.7357647347755054
+   ],
+   "consOnlyMult": [
+    0.4657647683605214,
+    0.456408365627527
+   ],
+   "dupMult1": [
+    0.49003464668965246,
+    0.47059635128887783
+   ],
+   "dupMult2": [
+    0.42700671100012094,
+    0.4430885741657576
+   ],
+   "reserveFrac": [
+    0.2307935972568092,
+    0.22821930002004845
+   ],
+   "fourCapImproves": [
+    22,
+    24
+   ]
+  }
+ },
+ {
+  "time": "7:36:29 PM CST",
+  "cycle": 21,
+  "totalGames": 220000,
+  "winRate": 0.1924,
+  "avgPlace": 3.0906,
+  "avgScore": 75.3182,
+  "candidateWinRate": 0.1924,
+  "changed": true,
+  "deltas": {
+   "holdFourBelow": [
+    11,
+    12
+   ],
+   "fishFourBag": [
+    1,
+    0
+   ],
+   "floorScale": [
+    0.33833659277185946,
+    0.24676630468541233
+   ],
+   "hungerEarly": [
+    1.1059261839837644,
+    1.0838495239156125
+   ],
+   "kickScale": [
+    0.15087824168609623,
+    0.28045383318258943
+   ],
+   "heldWordFrac": [
+    1.159902816993615,
+    1.2
+   ],
+   "shapeScale": [
+    1.3822689988880816,
+    1.2558049720067554
+   ],
+   "dupMult2": [
+    0.4430885741657576,
+    0.4670656309549492
+   ],
+   "reserveCap": [
+    15,
+    17
+   ],
+   "reserveBag": [
+    20,
+    21
+   ],
+   "fourCapBag": [
+    32,
+    33
+   ],
+   "fourCapImproves": [
+    24,
+    25
+   ]
+  }
+ },
+ {
+  "time": "7:36:36 PM CST",
+  "cycle": 22,
+  "totalGames": 230000,
+  "winRate": 0.1902,
+  "avgPlace": 3.1076,
+  "avgScore": 75.1638,
+  "candidateWinRate": 0.1902,
+  "changed": true,
+  "deltas": {
+   "holdFourBelow": [
+    12,
+    13
+   ],
+   "fishMassHigh": [
+    8,
+    6
+   ],
+   "floorScale": [
+    0.24676630468541233,
+    0.502525932825636
+   ],
+   "heldWordFrac": [
+    1.2,
+    1.1880046966636308
+   ],
+   "consOnlyMult": [
+    0.456408365627527,
+    0.46255229398189474
+   ],
+   "fourCapOther": [
+    15,
+    16
+   ]
+  }
+ },
+ {
+  "time": "7:36:46 PM CST",
+  "cycle": 23,
+  "totalGames": 240000,
+  "winRate": 0.1952,
+  "avgPlace": 3.1048,
+  "avgScore": 75.208,
+  "candidateWinRate": 0.1912,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:36:56 PM CST",
+  "cycle": 24,
+  "totalGames": 250000,
+  "winRate": 0.1858,
+  "avgPlace": 3.1296,
+  "avgScore": 75.0368,
+  "candidateWinRate": 0.1556,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:04 PM CST",
+  "cycle": 25,
+  "totalGames": 260000,
+  "winRate": 0.1902,
+  "avgPlace": 3.1462,
+  "avgScore": 74.565,
+  "candidateWinRate": 0.1856,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:13 PM CST",
+  "cycle": 26,
+  "totalGames": 270000,
+  "winRate": 0.1896,
+  "avgPlace": 3.1536,
+  "avgScore": 74.8244,
+  "candidateWinRate": 0.1788,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:24 PM CST",
+  "cycle": 27,
+  "totalGames": 280000,
+  "winRate": 0.183,
+  "avgPlace": 3.1398,
+  "avgScore": 74.8656,
+  "candidateWinRate": 0.1778,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:32 PM CST",
+  "cycle": 28,
+  "totalGames": 290000,
+  "winRate": 0.1952,
+  "avgPlace": 3.1276,
+  "avgScore": 74.929,
+  "candidateWinRate": 0.1926,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:42 PM CST",
+  "cycle": 29,
+  "totalGames": 300000,
+  "winRate": 0.1888,
+  "avgPlace": 3.1088,
+  "avgScore": 75.0936,
+  "candidateWinRate": 0.1916,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:37:49 PM CST",
+  "cycle": 30,
+  "totalGames": 310000,
+  "winRate": 0.1888,
+  "avgPlace": 3.1242,
+  "avgScore": 74.8706,
+  "candidateWinRate": 0.1888,
+  "changed": true,
+  "deltas": {
+   "fishMassHigh": [
+    6,
+    4
+   ],
+   "vowelSatMult": [
+    0.7357647347755054,
+    0.7444491270716385
+   ],
+   "consOnlyMult": [
+    0.46255229398189474,
+    0.4838340387302044
+   ],
+   "dupMult2": [
+    0.4670656309549492,
+    0.5058922293683504
+   ],
+   "reserveBag": [
+    21,
+    23
+   ],
+   "fourCapBag": [
+    33,
+    35
+   ],
+   "fourCapImproves": [
+    25,
+    24
+   ],
+   "fourCapOther": [
+    16,
+    15
+   ]
+  }
+ },
+ {
+  "time": "7:37:59 PM CST",
+  "cycle": 31,
+  "totalGames": 320000,
+  "winRate": 0.2056,
+  "avgPlace": 3.0802,
+  "avgScore": 75.4504,
+  "candidateWinRate": 0.183,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:09 PM CST",
+  "cycle": 32,
+  "totalGames": 330000,
+  "winRate": 0.1946,
+  "avgPlace": 3.1082,
+  "avgScore": 75.1388,
+  "candidateWinRate": 0.183,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:19 PM CST",
+  "cycle": 33,
+  "totalGames": 340000,
+  "winRate": 0.197,
+  "avgPlace": 3.0558,
+  "avgScore": 75.5144,
+  "candidateWinRate": 0.1858,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:27 PM CST",
+  "cycle": 34,
+  "totalGames": 350000,
+  "winRate": 0.198,
+  "avgPlace": 3.1032,
+  "avgScore": 75.2308,
+  "candidateWinRate": 0.2002,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:37 PM CST",
+  "cycle": 35,
+  "totalGames": 360000,
+  "winRate": 0.1928,
+  "avgPlace": 3.124,
+  "avgScore": 75.2836,
+  "candidateWinRate": 0.1872,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:45 PM CST",
+  "cycle": 36,
+  "totalGames": 370000,
+  "winRate": 0.1942,
+  "avgPlace": 3.1424,
+  "avgScore": 74.9784,
+  "candidateWinRate": 0.1928,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:38:53 PM CST",
+  "cycle": 37,
+  "totalGames": 380000,
+  "winRate": 0.1922,
+  "avgPlace": 3.119,
+  "avgScore": 75.0816,
+  "candidateWinRate": 0.1848,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:39:03 PM CST",
+  "cycle": 38,
+  "totalGames": 390000,
+  "winRate": 0.1986,
+  "avgPlace": 3.0974,
+  "avgScore": 75.4764,
+  "candidateWinRate": 0.1854,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:39:11 PM CST",
+  "cycle": 39,
+  "totalGames": 400000,
+  "winRate": 0.1934,
+  "avgPlace": 3.0918,
+  "avgScore": 75.1564,
+  "candidateWinRate": 0.1934,
+  "changed": true,
+  "deltas": {
+   "fishGain": [
+    10,
+    11
+   ],
+   "hungerLate": [
+    0.8068107437577045,
+    0.6530600509074495
+   ],
+   "vowelSatMult": [
+    0.7444491270716385,
+    0.8408232534990492
+   ],
+   "reserveCap": [
+    17,
+    21
+   ],
+   "noImproveStopBag": [
+    1,
+    0
+   ]
+  }
+ },
+ {
+  "time": "7:39:21 PM CST",
+  "cycle": 40,
+  "totalGames": 410000,
+  "winRate": 0.1924,
+  "avgPlace": 3.135,
+  "avgScore": 75.105,
+  "candidateWinRate": 0.1752,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:39:34 PM CST",
+  "type": "practice-field",
+  "tag": "cycle 40",
+  "games": 10000,
+  "winRate": 0.8075,
+  "avgPlace": 1.2294,
+  "avgScore": 132.9334
+ },
+ {
+  "time": "7:47:16 PM CST",
+  "cycle": 41,
+  "totalGames": 430000,
+  "winRate": 0.1936,
+  "avgPlace": 3.0956,
+  "avgScore": 75.3156,
+  "candidateWinRate": 0.193,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:47:26 PM CST",
+  "cycle": 42,
+  "totalGames": 440000,
+  "winRate": 0.189,
+  "avgPlace": 3.0918,
+  "avgScore": 75.4274,
+  "candidateWinRate": 0.1858,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:47:37 PM CST",
+  "cycle": 43,
+  "totalGames": 450000,
+  "winRate": 0.1984,
+  "avgPlace": 3.0906,
+  "avgScore": 75.5086,
+  "candidateWinRate": 0.188,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:47:49 PM CST",
+  "cycle": 44,
+  "totalGames": 460000,
+  "winRate": 0.1976,
+  "avgPlace": 3.0986,
+  "avgScore": 75.2274,
+  "candidateWinRate": 0.1836,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:47:59 PM CST",
+  "cycle": 45,
+  "totalGames": 470000,
+  "winRate": 0.1938,
+  "avgPlace": 3.1508,
+  "avgScore": 74.7642,
+  "candidateWinRate": 0.181,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:09 PM CST",
+  "cycle": 46,
+  "totalGames": 480000,
+  "winRate": 0.2024,
+  "avgPlace": 3.113,
+  "avgScore": 75.394,
+  "candidateWinRate": 0.1704,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:17 PM CST",
+  "cycle": 47,
+  "totalGames": 490000,
+  "winRate": 0.1936,
+  "avgPlace": 3.0964,
+  "avgScore": 75.2952,
+  "candidateWinRate": 0.189,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:27 PM CST",
+  "cycle": 48,
+  "totalGames": 500000,
+  "winRate": 0.1866,
+  "avgPlace": 3.1298,
+  "avgScore": 74.7546,
+  "candidateWinRate": 0.1816,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:36 PM CST",
+  "cycle": 49,
+  "totalGames": 510000,
+  "winRate": 0.1814,
+  "avgPlace": 3.1512,
+  "avgScore": 74.5992,
+  "candidateWinRate": 0.1834,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:46 PM CST",
+  "cycle": 50,
+  "totalGames": 520000,
+  "winRate": 0.1946,
+  "avgPlace": 3.0794,
+  "avgScore": 75.4086,
+  "candidateWinRate": 0.1506,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:48:55 PM CST",
+  "cycle": 51,
+  "totalGames": 530000,
+  "winRate": 0.1982,
+  "avgPlace": 3.0942,
+  "avgScore": 75.503,
+  "candidateWinRate": 0.1864,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:05 PM CST",
+  "cycle": 52,
+  "totalGames": 540000,
+  "winRate": 0.1798,
+  "avgPlace": 3.13,
+  "avgScore": 74.834,
+  "candidateWinRate": 0.1794,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:15 PM CST",
+  "cycle": 53,
+  "totalGames": 550000,
+  "winRate": 0.1932,
+  "avgPlace": 3.1138,
+  "avgScore": 75.019,
+  "candidateWinRate": 0.1896,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:22 PM CST",
+  "cycle": 54,
+  "totalGames": 560000,
+  "winRate": 0.193,
+  "avgPlace": 3.1374,
+  "avgScore": 75.1722,
+  "candidateWinRate": 0.193,
+  "changed": true,
+  "deltas": {
+   "fishMass": [
+    1,
+    2
+   ],
+   "hungerLate": [
+    0.6530600509074495,
+    0.7342273429036649
+   ],
+   "kickScale": [
+    0.28045383318258943,
+    0.22985189561148
+   ],
+   "heldWordFrac": [
+    1.1880046966636308,
+    1.1588396532150624
+   ],
+   "reserveFrac": [
+    0.22821930002004845,
+    0.2625984956618231
+   ],
+   "reserveCap": [
+    21,
+    24
+   ],
+   "fourCapImproves": [
+    24,
+    22
+   ],
+   "fourCapOther": [
+    15,
+    14
+   ]
+  }
+ },
+ {
+  "time": "7:49:32 PM CST",
+  "cycle": 55,
+  "totalGames": 570000,
+  "winRate": 0.1922,
+  "avgPlace": 3.1196,
+  "avgScore": 75.0546,
+  "candidateWinRate": 0.1916,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:39 PM CST",
+  "cycle": 56,
+  "totalGames": 580000,
+  "winRate": 0.1982,
+  "avgPlace": 3.1044,
+  "avgScore": 75.1316,
+  "candidateWinRate": 0.1968,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:48 PM CST",
+  "cycle": 57,
+  "totalGames": 590000,
+  "winRate": 0.1914,
+  "avgPlace": 3.1318,
+  "avgScore": 75.263,
+  "candidateWinRate": 0.1906,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:49:58 PM CST",
+  "cycle": 58,
+  "totalGames": 600000,
+  "winRate": 0.1864,
+  "avgPlace": 3.1388,
+  "avgScore": 74.5148,
+  "candidateWinRate": 0.1864,
+  "changed": true,
+  "deltas": {
+   "fishMaxReward": [
+    35,
+    37
+   ],
+   "hungerEarly": [
+    1.0838495239156125,
+    1.3010571614273625
+   ],
+   "hungerMid": [
+    1.2010849044898704,
+    1.2334465856469101
+   ],
+   "hungerLate": [
+    0.7342273429036649,
+    0.9108284123210851
+   ],
+   "jumpMult": [
+    1.419531603744787,
+    1.3845735236112706
+   ],
+   "kickScale": [
+    0.22985189561148,
+    0.2028296863715451
+   ],
+   "consOnlyMult": [
+    0.4838340387302044,
+    0.45530404083027737
+   ],
+   "dupMult1": [
+    0.47059635128887783,
+    0.4558537019923236
+   ],
+   "dupMult2": [
+    0.5058922293683504,
+    0.5689464855393119
+   ],
+   "fourCapBag": [
+    35,
+    39
+   ],
+   "fourCapImproves": [
+    22,
+    21
+   ]
+  }
+ },
+ {
+  "time": "7:50:07 PM CST",
+  "cycle": 59,
+  "totalGames": 610000,
+  "winRate": 0.1782,
+  "avgPlace": 3.1518,
+  "avgScore": 74.572,
+  "candidateWinRate": 0.1738,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:50:15 PM CST",
+  "cycle": 60,
+  "totalGames": 620000,
+  "winRate": 0.183,
+  "avgPlace": 3.101,
+  "avgScore": 75.037,
+  "candidateWinRate": 0.183,
+  "changed": true,
+  "deltas": {
+   "fishGain": [
+    11,
+    12
+   ],
+   "floorScale": [
+    0.502525932825636,
+    0.5551257410728758
+   ],
+   "hungerMid": [
+    1.2334465856469101,
+    1.234021679372938
+   ],
+   "hungerLate": [
+    0.9108284123210851,
+    0.9133133983655524
+   ],
+   "jumpMult": [
+    1.3845735236112706,
+    1.4556090398401407
+   ],
+   "vowelSatMult": [
+    0.8408232534990492,
+    0.8630079291918531
+   ],
+   "consOnlyMult": [
+    0.45530404083027737,
+    0.40824214479985915
+   ],
+   "fourCapBag": [
+    39,
+    37
+   ],
+   "fourCapOther": [
+    14,
+    15
+   ]
+  }
+ },
+ {
+  "time": "7:50:25 PM CST",
+  "cycle": 61,
+  "totalGames": 630000,
+  "winRate": 0.191,
+  "avgPlace": 3.13,
+  "avgScore": 75.0016,
+  "candidateWinRate": 0.17,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:50:33 PM CST",
+  "cycle": 62,
+  "totalGames": 640000,
+  "winRate": 0.194,
+  "avgPlace": 3.1,
+  "avgScore": 75.3242,
+  "candidateWinRate": 0.194,
+  "changed": true,
+  "deltas": {
+   "fishMassHigh": [
+    4,
+    3
+   ],
+   "vowelSatMult": [
+    0.8630079291918531,
+    0.8306920696214926
+   ],
+   "reserveFrac": [
+    0.2625984956618231,
+    0.26042308352016585
+   ]
+  }
+ },
+ {
+  "time": "7:50:43 PM CST",
+  "cycle": 63,
+  "totalGames": 650000,
+  "winRate": 0.188,
+  "avgPlace": 3.136,
+  "avgScore": 74.8384,
+  "candidateWinRate": 0.188,
+  "changed": true,
+  "deltas": {
+   "endgameBag": [
+    0,
+    2
+   ],
+   "fishMinBalance": [
+    7,
+    8
+   ],
+   "fishMaxReward": [
+    37,
+    40
+   ],
+   "hungerEarly": [
+    1.3010571614273625,
+    1.0907327532521733
+   ],
+   "dupMult1": [
+    0.4558537019923236,
+    0.5311339464451331
+   ],
+   "dupMult2": [
+    0.5689464855393119,
+    0.4945173862929169
+   ],
+   "fourCapOther": [
+    15,
+    14
+   ]
+  }
+ },
+ {
+  "time": "7:50:53 PM CST",
+  "cycle": 64,
+  "totalGames": 660000,
+  "winRate": 0.1938,
+  "avgPlace": 3.1092,
+  "avgScore": 75.1302,
+  "candidateWinRate": 0.174,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:51:03 PM CST",
+  "cycle": 65,
+  "totalGames": 670000,
+  "winRate": 0.1886,
+  "avgPlace": 3.1144,
+  "avgScore": 74.7536,
+  "candidateWinRate": 0.1886,
+  "changed": true,
+  "deltas": {
+   "fishMassHigh": [
+    3,
+    4
+   ],
+   "hungerEarly": [
+    1.0907327532521733,
+    1.2658340923196563
+   ],
+   "heldWordFrac": [
+    1.1588396532150624,
+    1.2
+   ],
+   "vowelSatMult": [
+    0.8306920696214926,
+    0.7875163944303867
+   ],
+   "fourCapImproves": [
+    21,
+    23
+   ]
+  }
+ },
+ {
+  "time": "7:51:10 PM CST",
+  "cycle": 66,
+  "totalGames": 680000,
+  "winRate": 0.1914,
+  "avgPlace": 3.1294,
+  "avgScore": 74.818,
+  "candidateWinRate": 0.1954,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:51:19 PM CST",
+  "cycle": 67,
+  "totalGames": 690000,
+  "winRate": 0.1866,
+  "avgPlace": 3.1412,
+  "avgScore": 74.4082,
+  "candidateWinRate": 0.1614,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:51:29 PM CST",
+  "cycle": 68,
+  "totalGames": 700000,
+  "winRate": 0.1852,
+  "avgPlace": 3.1176,
+  "avgScore": 74.8004,
+  "candidateWinRate": 0.1852,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    8,
+    7
+   ],
+   "fishMaxReward": [
+    40,
+    39
+   ],
+   "floorScale": [
+    0.5551257410728758,
+    0.6854691091939182
+   ],
+   "hungerEarly": [
+    1.2658340923196563,
+    1.1643872225441672
+   ],
+   "heldWordFrac": [
+    1.2,
+    1.1278488185715716
+   ],
+   "vowelSatMult": [
+    0.7875163944303867,
+    0.8491116766952662
+   ],
+   "consOnlyMult": [
+    0.40824214479985915,
+    0.3915116035579579
+   ],
+   "dupMult2": [
+    0.4945173862929169,
+    0.5180598694882064
+   ],
+   "fourCapImproves": [
+    23,
+    21
+   ],
+   "fourCapOther": [
+    14,
+    16
+   ]
+  }
+ },
+ {
+  "time": "7:51:39 PM CST",
+  "cycle": 69,
+  "totalGames": 710000,
+  "winRate": 0.1908,
+  "avgPlace": 3.1352,
+  "avgScore": 74.9088,
+  "candidateWinRate": 0.1908,
+  "changed": true,
+  "deltas": {
+   "endgameBag": [
+    2,
+    0
+   ],
+   "fishMass": [
+    2,
+    3
+   ],
+   "fishGain": [
+    12,
+    10
+   ],
+   "hungerMid": [
+    1.234021679372938,
+    1.34050447969714
+   ],
+   "hungerLate": [
+    0.9133133983655524,
+    0.9065669726454236
+   ],
+   "vowelSatMult": [
+    0.8491116766952662,
+    0.8006806177501438
+   ],
+   "fourCapBag": [
+    37,
+    39
+   ]
+  }
+ },
+ {
+  "time": "7:51:46 PM CST",
+  "cycle": 70,
+  "totalGames": 720000,
+  "winRate": 0.1906,
+  "avgPlace": 3.1158,
+  "avgScore": 74.8446,
+  "candidateWinRate": 0.1876,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:51:53 PM CST",
+  "cycle": 71,
+  "totalGames": 730000,
+  "winRate": 0.193,
+  "avgPlace": 3.1278,
+  "avgScore": 74.7966,
+  "candidateWinRate": 0.1884,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:52:04 PM CST",
+  "cycle": 72,
+  "totalGames": 740000,
+  "winRate": 0.183,
+  "avgPlace": 3.1274,
+  "avgScore": 74.7444,
+  "candidateWinRate": 0.1822,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:52:14 PM CST",
+  "cycle": 73,
+  "totalGames": 750000,
+  "winRate": 0.1902,
+  "avgPlace": 3.105,
+  "avgScore": 75.0698,
+  "candidateWinRate": 0.1814,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:52:24 PM CST",
+  "cycle": 74,
+  "totalGames": 760000,
+  "winRate": 0.1816,
+  "avgPlace": 3.1542,
+  "avgScore": 74.53,
+  "candidateWinRate": 0.1818,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:52:33 PM CST",
+  "cycle": 75,
+  "totalGames": 770000,
+  "winRate": 0.1904,
+  "avgPlace": 3.099,
+  "avgScore": 74.9038,
+  "candidateWinRate": 0.1904,
+  "changed": true,
+  "deltas": {
+   "hungerLate": [
+    0.9065669726454236,
+    0.8654241274573654
+   ],
+   "jumpMult": [
+    1.4556090398401407,
+    1.5940424552751158
+   ],
+   "kickScale": [
+    0.2028296863715451,
+    0.16195355955603347
+   ],
+   "heldWordFrac": [
+    1.1278488185715716,
+    1.1569169082651125
+   ],
+   "shapeScale": [
+    1.2558049720067554,
+    1.3237558671555198
+   ],
+   "vowelSatMult": [
+    0.8006806177501438,
+    0.839784848813397
+   ],
+   "dupMult1": [
+    0.5311339464451331,
+    0.6290297769005355
+   ],
+   "reserveBag": [
+    23,
+    24
+   ]
+  }
+ },
+ {
+  "time": "7:52:40 PM CST",
+  "cycle": 76,
+  "totalGames": 780000,
+  "winRate": 0.1882,
+  "avgPlace": 3.078,
+  "avgScore": 75.4946,
+  "candidateWinRate": 0.1882,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    7,
+    5
+   ],
+   "fishMass": [
+    3,
+    2
+   ],
+   "fishMassHigh": [
+    4,
+    3
+   ],
+   "jumpMult": [
+    1.5940424552751158,
+    1.605365128016685
+   ],
+   "shapeScale": [
+    1.3237558671555198,
+    1.3892776483265576
+   ],
+   "consOnlyMult": [
+    0.3915116035579579,
+    0.4371515140693908
+   ],
+   "dupMult1": [
+    0.6290297769005355,
+    0.6528517159425447
+   ],
+   "dupMult2": [
+    0.5180598694882064,
+    0.5714466322861478
+   ],
+   "reserveFrac": [
+    0.26042308352016585,
+    0.3091457761668382
+   ],
+   "reserveCap": [
+    24,
+    25
+   ],
+   "reserveBag": [
+    24,
+    21
+   ]
+  }
+ },
+ {
+  "time": "7:52:49 PM CST",
+  "cycle": 77,
+  "totalGames": 790000,
+  "winRate": 0.1866,
+  "avgPlace": 3.1122,
+  "avgScore": 75.2502,
+  "candidateWinRate": 0.1786,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:52:56 PM CST",
+  "cycle": 78,
+  "totalGames": 800000,
+  "winRate": 0.1886,
+  "avgPlace": 3.144,
+  "avgScore": 74.8352,
+  "candidateWinRate": 0.1882,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:53:06 PM CST",
+  "cycle": 79,
+  "totalGames": 810000,
+  "winRate": 0.191,
+  "avgPlace": 3.102,
+  "avgScore": 74.8526,
+  "candidateWinRate": 0.1864,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:53:15 PM CST",
+  "cycle": 80,
+  "totalGames": 820000,
+  "winRate": 0.1878,
+  "avgPlace": 3.0804,
+  "avgScore": 75.3138,
+  "candidateWinRate": 0.193,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:53:29 PM CST",
+  "type": "practice-field",
+  "tag": "cycle 80",
+  "games": 10000,
+  "winRate": 0.7544,
+  "avgPlace": 1.3037,
+  "avgScore": 127.5025
+ },
+ {
+  "time": "7:53:38 PM CST",
+  "cycle": 81,
+  "totalGames": 840000,
+  "winRate": 0.1832,
+  "avgPlace": 3.124,
+  "avgScore": 74.6352,
+  "candidateWinRate": 0.1832,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    5,
+    6
+   ],
+   "fishMassHigh": [
+    3,
+    5
+   ],
+   "hungerEarly": [
+    1.1643872225441672,
+    1.1260287985046706
+   ],
+   "kickScale": [
+    0.16195355955603347,
+    0.33070813554095524
+   ],
+   "shapeScale": [
+    1.3892776483265576,
+    1.6143823047415693
+   ],
+   "consOnlyMult": [
+    0.4371515140693908,
+    0.40314229887651526
+   ],
+   "reserveBag": [
+    21,
+    25
+   ]
+  }
+ },
+ {
+  "time": "7:53:47 PM CST",
+  "cycle": 82,
+  "totalGames": 850000,
+  "winRate": 0.199,
+  "avgPlace": 3.0956,
+  "avgScore": 75.2554,
+  "candidateWinRate": 0.1854,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:53:57 PM CST",
+  "cycle": 83,
+  "totalGames": 860000,
+  "winRate": 0.1928,
+  "avgPlace": 3.075,
+  "avgScore": 75.6058,
+  "candidateWinRate": 0.1836,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:07 PM CST",
+  "cycle": 84,
+  "totalGames": 870000,
+  "winRate": 0.196,
+  "avgPlace": 3.0942,
+  "avgScore": 75.085,
+  "candidateWinRate": 0.1874,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:15 PM CST",
+  "cycle": 85,
+  "totalGames": 880000,
+  "winRate": 0.1956,
+  "avgPlace": 3.0806,
+  "avgScore": 75.5158,
+  "candidateWinRate": 0.1886,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:22 PM CST",
+  "cycle": 86,
+  "totalGames": 890000,
+  "winRate": 0.1928,
+  "avgPlace": 3.0976,
+  "avgScore": 74.9876,
+  "candidateWinRate": 0.1928,
+  "changed": true,
+  "deltas": {
+   "fishMaxReward": [
+    39,
+    36
+   ],
+   "shapeScale": [
+    1.6143823047415693,
+    1.4903237003352887
+   ],
+   "dupMult1": [
+    0.6528517159425447,
+    0.6095508234137684
+   ],
+   "dupMult2": [
+    0.5714466322861478,
+    0.610715913664842
+   ],
+   "reserveCap": [
+    25,
+    22
+   ],
+   "reserveBag": [
+    25,
+    19
+   ],
+   "fourCapOther": [
+    16,
+    18
+   ]
+  }
+ },
+ {
+  "time": "7:54:29 PM CST",
+  "cycle": 87,
+  "totalGames": 900000,
+  "winRate": 0.1872,
+  "avgPlace": 3.1038,
+  "avgScore": 75.1814,
+  "candidateWinRate": 0.1854,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:37 PM CST",
+  "cycle": 88,
+  "totalGames": 910000,
+  "winRate": 0.203,
+  "avgPlace": 3.0684,
+  "avgScore": 75.6098,
+  "candidateWinRate": 0.196,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:46 PM CST",
+  "cycle": 89,
+  "totalGames": 920000,
+  "winRate": 0.1986,
+  "avgPlace": 3.0794,
+  "avgScore": 75.4302,
+  "candidateWinRate": 0.1916,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:54:54 PM CST",
+  "cycle": 90,
+  "totalGames": 930000,
+  "winRate": 0.194,
+  "avgPlace": 3.0828,
+  "avgScore": 75.1768,
+  "candidateWinRate": 0.1906,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:02 PM CST",
+  "cycle": 91,
+  "totalGames": 940000,
+  "winRate": 0.1912,
+  "avgPlace": 3.147,
+  "avgScore": 74.671,
+  "candidateWinRate": 0.1876,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:09 PM CST",
+  "cycle": 92,
+  "totalGames": 950000,
+  "winRate": 0.191,
+  "avgPlace": 3.1154,
+  "avgScore": 74.7924,
+  "candidateWinRate": 0.191,
+  "changed": true,
+  "deltas": {
+   "fishMass": [
+    2,
+    1
+   ],
+   "floorScale": [
+    0.6854691091939182,
+    0.6798563287898085
+   ],
+   "shapeScale": [
+    1.4903237003352887,
+    1.646824341422176
+   ],
+   "dupMult1": [
+    0.6095508234137684,
+    0.5956501011059931
+   ],
+   "dupMult2": [
+    0.610715913664842,
+    0.6958772973039034
+   ],
+   "reserveCap": [
+    22,
+    24
+   ],
+   "fourCapOther": [
+    18,
+    20
+   ]
+  }
+ },
+ {
+  "time": "7:55:18 PM CST",
+  "cycle": 93,
+  "totalGames": 960000,
+  "winRate": 0.1882,
+  "avgPlace": 3.1092,
+  "avgScore": 75.3454,
+  "candidateWinRate": 0.1882,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:26 PM CST",
+  "cycle": 94,
+  "totalGames": 970000,
+  "winRate": 0.1968,
+  "avgPlace": 3.0858,
+  "avgScore": 75.0426,
+  "candidateWinRate": 0.1928,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:37 PM CST",
+  "cycle": 95,
+  "totalGames": 980000,
+  "winRate": 0.1906,
+  "avgPlace": 3.1092,
+  "avgScore": 75.0176,
+  "candidateWinRate": 0.1748,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:47 PM CST",
+  "cycle": 96,
+  "totalGames": 990000,
+  "winRate": 0.1954,
+  "avgPlace": 3.077,
+  "avgScore": 75.4436,
+  "candidateWinRate": 0.1776,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:55:57 PM CST",
+  "cycle": 97,
+  "totalGames": 1000000,
+  "winRate": 0.2026,
+  "avgPlace": 3.0808,
+  "avgScore": 75.288,
+  "candidateWinRate": 0.2026,
+  "changed": true,
+  "deltas": {
+   "fishFourBag": [
+    0,
+    1
+   ],
+   "hungerEarly": [
+    1.1260287985046706,
+    0.9981288666847591
+   ],
+   "hungerMid": [
+    1.34050447969714,
+    1.1083004925136537
+   ],
+   "hungerLate": [
+    0.8654241274573654,
+    0.7824225255947229
+   ],
+   "dupMult2": [
+    0.6958772973039034,
+    0.6994045588340095
+   ],
+   "reserveFrac": [
+    0.3091457761668382,
+    0.3249353776085864
+   ],
+   "fourCapBag": [
+    39,
+    41
+   ],
+   "fourCapImproves": [
+    21,
+    20
+   ]
+  }
+ },
+ {
+  "time": "7:56:07 PM CST",
+  "cycle": 98,
+  "totalGames": 1010000,
+  "winRate": 0.2038,
+  "avgPlace": 3.071,
+  "avgScore": 75.6178,
+  "candidateWinRate": 0.2004,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:56:16 PM CST",
+  "cycle": 99,
+  "totalGames": 1020000,
+  "winRate": 0.197,
+  "avgPlace": 3.0906,
+  "avgScore": 75.205,
+  "candidateWinRate": 0.178,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:56:25 PM CST",
+  "cycle": 100,
+  "totalGames": 1030000,
+  "winRate": 0.2048,
+  "avgPlace": 3.0532,
+  "avgScore": 75.618,
+  "candidateWinRate": 0.2012,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:56:33 PM CST",
+  "cycle": 101,
+  "totalGames": 1040000,
+  "winRate": 0.1974,
+  "avgPlace": 3.0938,
+  "avgScore": 75.169,
+  "candidateWinRate": 0.1974,
+  "changed": true,
+  "deltas": {
+   "heldWordFrac": [
+    1.1569169082651125,
+    1.1367421321786542
+   ],
+   "dupMult2": [
+    0.6994045588340095,
+    0.6241747081176573
+   ],
+   "reserveCap": [
+    24,
+    22
+   ],
+   "fourCapBag": [
+    41,
+    38
+   ]
+  }
+ },
+ {
+  "time": "7:56:40 PM CST",
+  "cycle": 102,
+  "totalGames": 1050000,
+  "winRate": 0.1936,
+  "avgPlace": 3.0912,
+  "avgScore": 75.4556,
+  "candidateWinRate": 0.189,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:56:48 PM CST",
+  "cycle": 103,
+  "totalGames": 1060000,
+  "winRate": 0.1992,
+  "avgPlace": 3.09,
+  "avgScore": 75.3022,
+  "candidateWinRate": 0.1992,
+  "changed": true,
+  "deltas": {
+   "hungerLate": [
+    0.7824225255947229,
+    0.7691051248491245
+   ],
+   "jumpMult": [
+    1.605365128016685,
+    1.573803585227155
+   ],
+   "vowelSatMult": [
+    0.839784848813397,
+    0.8032365379386689
+   ],
+   "reserveFrac": [
+    0.3249353776085864,
+    0.34317147706112583
+   ]
+  }
+ },
+ {
+  "time": "7:56:58 PM CST",
+  "cycle": 104,
+  "totalGames": 1070000,
+  "winRate": 0.1912,
+  "avgPlace": 3.0862,
+  "avgScore": 75.1276,
+  "candidateWinRate": 0.1834,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:57:07 PM CST",
+  "cycle": 105,
+  "totalGames": 1080000,
+  "winRate": 0.1964,
+  "avgPlace": 3.0738,
+  "avgScore": 75.4624,
+  "candidateWinRate": 0.1964,
+  "changed": true,
+  "deltas": {
+   "fishFourBag": [
+    1,
+    2
+   ],
+   "floorScale": [
+    0.6798563287898085,
+    0.6629832531619667
+   ],
+   "hungerMid": [
+    1.1083004925136537,
+    1.0884765383557231
+   ],
+   "kickScale": [
+    0.33070813554095524,
+    0.26447209856391757
+   ],
+   "vowelSatMult": [
+    0.8032365379386689,
+    0.8475218658589494
+   ],
+   "consOnlyMult": [
+    0.40314229887651526,
+    0.4934604948182337
+   ],
+   "reserveCap": [
+    22,
+    21
+   ]
+  }
+ },
+ {
+  "time": "7:57:16 PM CST",
+  "cycle": 106,
+  "totalGames": 1090000,
+  "winRate": 0.1958,
+  "avgPlace": 3.123,
+  "avgScore": 75.0466,
+  "candidateWinRate": 0.1958,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    6,
+    9
+   ],
+   "fishGain": [
+    10,
+    9
+   ],
+   "jumpMult": [
+    1.573803585227155,
+    1.4948715533673018
+   ],
+   "kickScale": [
+    0.26447209856391757,
+    0.22037152956971442
+   ],
+   "consOnlyMult": [
+    0.4934604948182337,
+    0.4915120527591336
+   ],
+   "dupMult1": [
+    0.5956501011059931,
+    0.5561653668693991
+   ],
+   "reserveFrac": [
+    0.34317147706112583,
+    0.315868109192278
+   ],
+   "fourCapImproves": [
+    20,
+    18
+   ]
+  }
+ },
+ {
+  "time": "7:57:25 PM CST",
+  "cycle": 107,
+  "totalGames": 1100000,
+  "winRate": 0.198,
+  "avgPlace": 3.1168,
+  "avgScore": 74.6954,
+  "candidateWinRate": 0.2026,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:57:33 PM CST",
+  "cycle": 108,
+  "totalGames": 1110000,
+  "winRate": 0.1902,
+  "avgPlace": 3.1306,
+  "avgScore": 75.0326,
+  "candidateWinRate": 0.1882,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:57:40 PM CST",
+  "cycle": 109,
+  "totalGames": 1120000,
+  "winRate": 0.187,
+  "avgPlace": 3.0974,
+  "avgScore": 75.1958,
+  "candidateWinRate": 0.1868,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:57:48 PM CST",
+  "cycle": 110,
+  "totalGames": 1130000,
+  "winRate": 0.2016,
+  "avgPlace": 3.0748,
+  "avgScore": 75.4736,
+  "candidateWinRate": 0.2016,
+  "changed": true,
+  "deltas": {
+   "kickScale": [
+    0.22037152956971442,
+    0.21240975153512723
+   ],
+   "heldWordFrac": [
+    1.1367421321786542,
+    1.1294095347364868
+   ],
+   "vowelSatMult": [
+    0.8475218658589494,
+    0.8645927174098507
+   ],
+   "dupMult1": [
+    0.5561653668693991,
+    0.5674732600408966
+   ]
+  }
+ },
+ {
+  "time": "7:57:55 PM CST",
+  "cycle": 111,
+  "totalGames": 1140000,
+  "winRate": 0.1936,
+  "avgPlace": 3.1138,
+  "avgScore": 75.001,
+  "candidateWinRate": 0.1904,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:03 PM CST",
+  "cycle": 112,
+  "totalGames": 1150000,
+  "winRate": 0.1876,
+  "avgPlace": 3.116,
+  "avgScore": 75.0524,
+  "candidateWinRate": 0.1852,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:13 PM CST",
+  "cycle": 113,
+  "totalGames": 1160000,
+  "winRate": 0.191,
+  "avgPlace": 3.0796,
+  "avgScore": 75.486,
+  "candidateWinRate": 0.1896,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:22 PM CST",
+  "cycle": 114,
+  "totalGames": 1170000,
+  "winRate": 0.1934,
+  "avgPlace": 3.1254,
+  "avgScore": 74.9642,
+  "candidateWinRate": 0.1804,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:30 PM CST",
+  "cycle": 115,
+  "totalGames": 1180000,
+  "winRate": 0.1934,
+  "avgPlace": 3.1104,
+  "avgScore": 74.8036,
+  "candidateWinRate": 0.1864,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:40 PM CST",
+  "cycle": 116,
+  "totalGames": 1190000,
+  "winRate": 0.1896,
+  "avgPlace": 3.1414,
+  "avgScore": 74.7378,
+  "candidateWinRate": 0.1572,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:47 PM CST",
+  "cycle": 117,
+  "totalGames": 1200000,
+  "winRate": 0.1866,
+  "avgPlace": 3.1382,
+  "avgScore": 74.9446,
+  "candidateWinRate": 0.1848,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:58:56 PM CST",
+  "cycle": 118,
+  "totalGames": 1210000,
+  "winRate": 0.19,
+  "avgPlace": 3.1094,
+  "avgScore": 74.9304,
+  "candidateWinRate": 0.1946,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:59:03 PM CST",
+  "cycle": 119,
+  "totalGames": 1220000,
+  "winRate": 0.1962,
+  "avgPlace": 3.1098,
+  "avgScore": 75.3414,
+  "candidateWinRate": 0.1942,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:59:10 PM CST",
+  "cycle": 120,
+  "totalGames": 1230000,
+  "winRate": 0.1844,
+  "avgPlace": 3.132,
+  "avgScore": 74.5876,
+  "candidateWinRate": 0.1878,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:59:24 PM CST",
+  "type": "practice-field",
+  "tag": "cycle 120",
+  "games": 10000,
+  "winRate": 0.7984,
+  "avgPlace": 1.2432,
+  "avgScore": 131.5682
+ },
+ {
+  "time": "7:59:32 PM CST",
+  "cycle": 121,
+  "totalGames": 1250000,
+  "winRate": 0.1936,
+  "avgPlace": 3.0904,
+  "avgScore": 75.399,
+  "candidateWinRate": 0.1936,
+  "changed": true,
+  "deltas": {
+   "fishMinBalance": [
+    9,
+    8
+   ],
+   "fishMaxReward": [
+    36,
+    35
+   ],
+   "heldWordFrac": [
+    1.1294095347364868,
+    1.0841734715476057
+   ],
+   "vowelSatMult": [
+    0.8645927174098507,
+    0.9043246071647791
+   ],
+   "consOnlyMult": [
+    0.4915120527591336,
+    0.5006554482053659
+   ],
+   "dupMult1": [
+    0.5674732600408966,
+    0.6282888659381308
+   ],
+   "dupMult2": [
+    0.6241747081176573,
+    0.6671126197102125
+   ],
+   "reserveFrac": [
+    0.315868109192278,
+    0.3063893312850085
+   ],
+   "reserveCap": [
+    21,
+    23
+   ]
+  }
+ },
+ {
+  "time": "7:59:40 PM CST",
+  "cycle": 122,
+  "totalGames": 1260000,
+  "winRate": 0.2074,
+  "avgPlace": 3.0524,
+  "avgScore": 76.1124,
+  "candidateWinRate": 0.2074,
+  "changed": true,
+  "deltas": {
+   "fishFourBag": [
+    2,
+    1
+   ],
+   "fishMassHigh": [
+    5,
+    4
+   ],
+   "fishGain": [
+    9,
+    7
+   ],
+   "hungerLate": [
+    0.7691051248491245,
+    0.6883587752012007
+   ],
+   "kickScale": [
+    0.21240975153512723,
+    0.20596909364377686
+   ],
+   "heldWordFrac": [
+    1.0841734715476057,
+    1.0820163071622702
+   ],
+   "shapeScale": [
+    1.646824341422176,
+    1.6111098824139922
+   ],
+   "vowelSatMult": [
+    0.9043246071647791,
+    0.9589424481693923
+   ],
+   "reserveFrac": [
+    0.3063893312850085,
+    0.2760969940440228
+   ],
+   "reserveBag": [
+    19,
+    20
+   ],
+   "fourCapOther": [
+    20,
+    22
+   ]
+  }
+ },
+ {
+  "time": "7:59:47 PM CST",
+  "cycle": 123,
+  "totalGames": 1270000,
+  "winRate": 0.206,
+  "avgPlace": 3.0656,
+  "avgScore": 75.754,
+  "candidateWinRate": 0.2028,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "7:59:58 PM CST",
+  "cycle": 124,
+  "totalGames": 1280000,
+  "winRate": 0.2056,
+  "avgPlace": 3.0616,
+  "avgScore": 75.607,
+  "candidateWinRate": 0.2034,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:05 PM CST",
+  "cycle": 125,
+  "totalGames": 1290000,
+  "winRate": 0.1948,
+  "avgPlace": 3.1034,
+  "avgScore": 75.2024,
+  "candidateWinRate": 0.1934,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:16 PM CST",
+  "cycle": 126,
+  "totalGames": 1300000,
+  "winRate": 0.19,
+  "avgPlace": 3.1104,
+  "avgScore": 75.19,
+  "candidateWinRate": 0.1864,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:24 PM CST",
+  "cycle": 127,
+  "totalGames": 1310000,
+  "winRate": 0.2104,
+  "avgPlace": 3.023,
+  "avgScore": 76.089,
+  "candidateWinRate": 0.1978,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:31 PM CST",
+  "cycle": 128,
+  "totalGames": 1320000,
+  "winRate": 0.2068,
+  "avgPlace": 3.0574,
+  "avgScore": 75.8566,
+  "candidateWinRate": 0.2026,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:40 PM CST",
+  "cycle": 129,
+  "totalGames": 1330000,
+  "winRate": 0.1998,
+  "avgPlace": 3.1076,
+  "avgScore": 75.2478,
+  "candidateWinRate": 0.167,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:00:51 PM CST",
+  "cycle": 130,
+  "totalGames": 1340000,
+  "winRate": 0.2164,
+  "avgPlace": 3.0258,
+  "avgScore": 76.2488,
+  "candidateWinRate": 0.199,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:00 PM CST",
+  "cycle": 131,
+  "totalGames": 1350000,
+  "winRate": 0.2022,
+  "avgPlace": 3.0762,
+  "avgScore": 75.5202,
+  "candidateWinRate": 0.179,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:10 PM CST",
+  "cycle": 132,
+  "totalGames": 1360000,
+  "winRate": 0.2006,
+  "avgPlace": 3.0986,
+  "avgScore": 75.488,
+  "candidateWinRate": 0.1998,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:18 PM CST",
+  "cycle": 133,
+  "totalGames": 1370000,
+  "winRate": 0.2046,
+  "avgPlace": 3.082,
+  "avgScore": 75.3594,
+  "candidateWinRate": 0.2026,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:28 PM CST",
+  "cycle": 134,
+  "totalGames": 1380000,
+  "winRate": 0.195,
+  "avgPlace": 3.0908,
+  "avgScore": 75.3002,
+  "candidateWinRate": 0.1828,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:36 PM CST",
+  "cycle": 135,
+  "totalGames": 1390000,
+  "winRate": 0.2018,
+  "avgPlace": 3.0884,
+  "avgScore": 75.5372,
+  "candidateWinRate": 0.1876,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:45 PM CST",
+  "cycle": 136,
+  "totalGames": 1400000,
+  "winRate": 0.2018,
+  "avgPlace": 3.061,
+  "avgScore": 75.7172,
+  "candidateWinRate": 0.203,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:01:53 PM CST",
+  "cycle": 137,
+  "totalGames": 1410000,
+  "winRate": 0.197,
+  "avgPlace": 3.0958,
+  "avgScore": 75.0982,
+  "candidateWinRate": 0.193,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:01 PM CST",
+  "cycle": 138,
+  "totalGames": 1420000,
+  "winRate": 0.1918,
+  "avgPlace": 3.0838,
+  "avgScore": 75.2092,
+  "candidateWinRate": 0.1876,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:11 PM CST",
+  "cycle": 139,
+  "totalGames": 1430000,
+  "winRate": 0.1894,
+  "avgPlace": 3.1196,
+  "avgScore": 74.9168,
+  "candidateWinRate": 0.1902,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:19 PM CST",
+  "cycle": 140,
+  "totalGames": 1440000,
+  "winRate": 0.1976,
+  "avgPlace": 3.0902,
+  "avgScore": 75.4074,
+  "candidateWinRate": 0.2008,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:26 PM CST",
+  "cycle": 141,
+  "totalGames": 1450000,
+  "winRate": 0.1906,
+  "avgPlace": 3.1178,
+  "avgScore": 75.0792,
+  "candidateWinRate": 0.1856,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:36 PM CST",
+  "cycle": 142,
+  "totalGames": 1460000,
+  "winRate": 0.2108,
+  "avgPlace": 3.0428,
+  "avgScore": 76.346,
+  "candidateWinRate": 0.2004,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:46 PM CST",
+  "cycle": 143,
+  "totalGames": 1470000,
+  "winRate": 0.197,
+  "avgPlace": 3.092,
+  "avgScore": 75.31,
+  "candidateWinRate": 0.1988,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:02:54 PM CST",
+  "cycle": 144,
+  "totalGames": 1480000,
+  "winRate": 0.2,
+  "avgPlace": 3.0948,
+  "avgScore": 75.3176,
+  "candidateWinRate": 0.2,
+  "changed": true,
+  "deltas": {
+   "fishMassHigh": [
+    4,
+    6
+   ],
+   "heldWordFrac": [
+    1.0820163071622702,
+    1.1054195252896952
+   ],
+   "reserveFrac": [
+    0.2760969940440228,
+    0.27924007385389965
+   ],
+   "fourCapImproves": [
+    18,
+    19
+   ]
+  }
+ },
+ {
+  "time": "8:03:02 PM CST",
+  "cycle": 145,
+  "totalGames": 1490000,
+  "winRate": 0.2064,
+  "avgPlace": 3.0758,
+  "avgScore": 75.5716,
+  "candidateWinRate": 0.1968,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:12 PM CST",
+  "cycle": 146,
+  "totalGames": 1500000,
+  "winRate": 0.1964,
+  "avgPlace": 3.0686,
+  "avgScore": 75.4442,
+  "candidateWinRate": 0.1906,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:21 PM CST",
+  "cycle": 147,
+  "totalGames": 1510000,
+  "winRate": 0.2002,
+  "avgPlace": 3.0842,
+  "avgScore": 75.2886,
+  "candidateWinRate": 0.1912,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:29 PM CST",
+  "cycle": 148,
+  "totalGames": 1520000,
+  "winRate": 0.2046,
+  "avgPlace": 3.0576,
+  "avgScore": 75.8852,
+  "candidateWinRate": 0.199,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:39 PM CST",
+  "cycle": 149,
+  "totalGames": 1530000,
+  "winRate": 0.1982,
+  "avgPlace": 3.0662,
+  "avgScore": 75.6822,
+  "candidateWinRate": 0.191,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:47 PM CST",
+  "cycle": 150,
+  "totalGames": 1540000,
+  "winRate": 0.1992,
+  "avgPlace": 3.0578,
+  "avgScore": 75.4714,
+  "candidateWinRate": 0.1944,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:03:54 PM CST",
+  "cycle": 151,
+  "totalGames": 1550000,
+  "winRate": 0.1942,
+  "avgPlace": 3.0784,
+  "avgScore": 75.2104,
+  "candidateWinRate": 0.1942,
+  "changed": true,
+  "deltas": {
+   "fishGain": [
+    7,
+    8
+   ],
+   "hungerLate": [
+    0.6883587752012007,
+    0.7236327408351971
+   ],
+   "kickScale": [
+    0.20596909364377686,
+    0.23542662938265385
+   ],
+   "heldWordFrac": [
+    1.1054195252896952,
+    1.123964713408582
+   ],
+   "reserveFrac": [
+    0.27924007385389965,
+    0.2716050991667104
+   ],
+   "reserveCap": [
+    23,
+    20
+   ],
+   "fourCapBag": [
+    38,
+    40
+   ]
+  }
+ },
+ {
+  "time": "8:04:02 PM CST",
+  "cycle": 152,
+  "totalGames": 1560000,
+  "winRate": 0.201,
+  "avgPlace": 3.0484,
+  "avgScore": 75.8242,
+  "candidateWinRate": 0.1942,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:09 PM CST",
+  "cycle": 153,
+  "totalGames": 1570000,
+  "winRate": 0.1996,
+  "avgPlace": 3.086,
+  "avgScore": 75.3502,
+  "candidateWinRate": 0.1994,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:19 PM CST",
+  "cycle": 154,
+  "totalGames": 1580000,
+  "winRate": 0.2008,
+  "avgPlace": 3.0856,
+  "avgScore": 75.7336,
+  "candidateWinRate": 0.1924,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:30 PM CST",
+  "cycle": 155,
+  "totalGames": 1590000,
+  "winRate": 0.2084,
+  "avgPlace": 3.0308,
+  "avgScore": 75.9634,
+  "candidateWinRate": 0.2052,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:40 PM CST",
+  "cycle": 156,
+  "totalGames": 1600000,
+  "winRate": 0.1948,
+  "avgPlace": 3.091,
+  "avgScore": 75.3516,
+  "candidateWinRate": 0.19,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:47 PM CST",
+  "cycle": 157,
+  "totalGames": 1610000,
+  "winRate": 0.2046,
+  "avgPlace": 3.0646,
+  "avgScore": 75.7638,
+  "candidateWinRate": 0.2044,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:04:55 PM CST",
+  "cycle": 158,
+  "totalGames": 1620000,
+  "winRate": 0.2076,
+  "avgPlace": 3.0786,
+  "avgScore": 75.7606,
+  "candidateWinRate": 0.2072,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:04 PM CST",
+  "cycle": 159,
+  "totalGames": 1630000,
+  "winRate": 0.1988,
+  "avgPlace": 3.1146,
+  "avgScore": 75.0208,
+  "candidateWinRate": 0.1956,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:12 PM CST",
+  "cycle": 160,
+  "totalGames": 1640000,
+  "winRate": 0.1972,
+  "avgPlace": 3.0678,
+  "avgScore": 75.6466,
+  "candidateWinRate": 0.1946,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:25 PM CST",
+  "type": "practice-field",
+  "tag": "cycle 160",
+  "games": 10000,
+  "winRate": 0.7879,
+  "avgPlace": 1.2591,
+  "avgScore": 131.583
+ },
+ {
+  "time": "8:05:33 PM CST",
+  "cycle": 161,
+  "totalGames": 1660000,
+  "winRate": 0.211,
+  "avgPlace": 3.042,
+  "avgScore": 76.0334,
+  "candidateWinRate": 0.2078,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:40 PM CST",
+  "cycle": 162,
+  "totalGames": 1670000,
+  "winRate": 0.2026,
+  "avgPlace": 3.0648,
+  "avgScore": 75.7106,
+  "candidateWinRate": 0.2026,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:50 PM CST",
+  "cycle": 163,
+  "totalGames": 1680000,
+  "winRate": 0.198,
+  "avgPlace": 3.0738,
+  "avgScore": 75.7422,
+  "candidateWinRate": 0.2014,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:05:57 PM CST",
+  "cycle": 164,
+  "totalGames": 1690000,
+  "winRate": 0.2008,
+  "avgPlace": 3.0852,
+  "avgScore": 75.7186,
+  "candidateWinRate": 0.1972,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:06:05 PM CST",
+  "cycle": 165,
+  "totalGames": 1700000,
+  "winRate": 0.1998,
+  "avgPlace": 3.0812,
+  "avgScore": 75.4028,
+  "candidateWinRate": 0.1958,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:06:13 PM CST",
+  "cycle": 166,
+  "totalGames": 1710000,
+  "winRate": 0.197,
+  "avgPlace": 3.072,
+  "avgScore": 75.3754,
+  "candidateWinRate": 0.1944,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:06:22 PM CST",
+  "cycle": 167,
+  "totalGames": 1720000,
+  "winRate": 0.2094,
+  "avgPlace": 3.0588,
+  "avgScore": 75.647,
+  "candidateWinRate": 0.204,
+  "changed": false,
+  "deltas": {}
+ },
+ {
+  "time": "8:06:30 PM CST",
+  "cycle": 168,
+  "totalGames": 1730000,
+  "winRate": 0.1864,
+  "avgPlace": 3.1288,
+  "avgScore": 74.95,
+  "candidateWinRate": 0.186,
+  "changed": false,
+  "deltas": {}
+ }
+]

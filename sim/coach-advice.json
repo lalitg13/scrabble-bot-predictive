@@ -1,0 +1,16 @@
+{
+ "createdAt": "2026-11-07T20:55:00-06:00",
+ "rewardWeights": { "place": 0.15, "score": 0.2, "leftover": 0.1 },
+ "selfPlay": 0.2,
+ "featureEmphasis": ["usable power tile (J/Z/Q/X with a word) -> bid high; ML already learned this (J 35, Z 48 in wins)", "duplicate letters early (bag>55) -> ML correctly skips heuristic 19-coin bids on a 2nd N/R", "coins left / auctions left as a spend-down signal"],
+ "safetyRails": ["bid clamped 0..balance", "dead Q/Z/J/X (no word uses it) -> always 0, bypasses the net", "no LLM on the bid path; online update only after a match ends", "casual lobby only"],
+ "stopDoing": ["finishing live games with 25-55 unspent coins (live avg 36 over our last 6 completed public matches)", "paying 10 coins per tile for the first ~8 auctions regardless of fit (heuristic floor)"],
+ "observations": [
+  {"grade": "blunder", "text": "Live public data, our last 6 completed casual matches (45660-45715, heuristic version): 0 wins, avg place 4.6, avg score 51 vs field avg 72, avg leftover 36 coins. Unspent coins are the clearest live leak."},
+  {"grade": "blunder", "text": "Sim heuristic loss: AVIDITY/ERINGO/AXES ended with 40 coins left and lost 75-93."},
+  {"grade": "blunder", "text": "Sim heuristic: 10-coin flat bids on A/V/I at bag 61-63 that did not form a word (lenAfter 0)."},
+  {"grade": "good", "text": "ML win CAJAPUTS/HAYING: bid 35 on a usable J and skipped low-fit O duplicates (heuristic wanted 9 each)."},
+  {"grade": "good", "text": "ML win KAZOOS/HEFTY/JOB: 48 on usable Z early, skipped redundant 2nd R/N."},
+  {"grade": "note", "text": "ML lost several close 2nd places by 2-17 points; leftover 10-21 coins there would likely have bought one more tile."}
+ ]
+}

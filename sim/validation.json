@@ -1,0 +1,528 @@
+{
+ "created": "2026-11-08T01:11:08.753Z",
+ "summary": {
+  "placeCorr": 0.9243812808967121,
+  "placeMAE": 0.32894039073530956,
+  "winCorr": 0.7915819148999635,
+  "winMAE": 0.05930468694738939,
+  "scoreCorr": 0.9537485597194776,
+  "scoreMAE": 6.283236747102472,
+  "obsMeanScore": 72.91892971246007,
+  "simMeanScore": 69.43319762367133
+ },
+ "rows": [
+  {
+   "name": "LexiconWarrior",
+   "matches": 70,
+   "obsPlace": 2.7142857142857144,
+   "simPlace": 2.7756097560975608,
+   "obsWin": 0.2714285714285714,
+   "simWin": 0.24292682926829268,
+   "obsScore": 88.54285714285714,
+   "simScore": 81.30634146341464
+  },
+  {
+   "name": "Tow57-Auctioneer",
+   "matches": 70,
+   "obsPlace": 3.5714285714285716,
+   "simPlace": 2.818093385214008,
+   "obsWin": 0.11428571428571428,
+   "simWin": 0.24124513618677043,
+   "obsScore": 74.57142857142857,
+   "simScore": 79.19455252918289
+  },
+  {
+   "name": "Como Se Dice I Want to Scrabble",
+   "matches": 69,
+   "obsPlace": 3.5652173913043477,
+   "simPlace": 3.301,
+   "obsWin": 0.08695652173913043,
+   "simWin": 0.147,
+   "obsScore": 77.66666666666667,
+   "simScore": 72.938
+  },
+  {
+   "name": "Lucy",
+   "matches": 69,
+   "obsPlace": 2.536231884057971,
+   "simPlace": 2.563,
+   "obsWin": 0.3188405797101449,
+   "simWin": 0.304,
+   "obsScore": 87.44927536231884,
+   "simScore": 83.72
+  },
+  {
+   "name": "Bron",
+   "matches": 68,
+   "obsPlace": 2.735294117647059,
+   "simPlace": 2.4411452810180276,
+   "obsWin": 0.23529411764705882,
+   "simWin": 0.35418875927889715,
+   "obsScore": 89.16176470588235,
+   "simScore": 88.12513255567339
+  },
+  {
+   "name": "Malicious",
+   "matches": 68,
+   "obsPlace": 3.014705882352941,
+   "simPlace": 2.9245283018867925,
+   "obsWin": 0.17647058823529413,
+   "simWin": 0.2148846960167715,
+   "obsScore": 79.11764705882354,
+   "simScore": 79.61320754716981
+  },
+  {
+   "name": "Abhi-AuctionLab",
+   "matches": 68,
+   "obsPlace": 3.6323529411764706,
+   "simPlace": 3.2862985685071573,
+   "obsWin": 0.04411764705882353,
+   "simWin": 0.1687116564417178,
+   "obsScore": 71.20588235294117,
+   "simScore": 74.12678936605317
+  },
+  {
+   "name": "Primey",
+   "matches": 67,
+   "obsPlace": 2.9402985074626864,
+   "simPlace": 2.962,
+   "obsWin": 0.22388059701492538,
+   "simWin": 0.202,
+   "obsScore": 86.38805970149254,
+   "simScore": 78.193
+  },
+  {
+   "name": "aipom",
+   "matches": 67,
+   "obsPlace": 2.1343283582089554,
+   "simPlace": 3.148577449947313,
+   "obsWin": 0.26865671641791045,
+   "simWin": 0.18967334035827185,
+   "obsScore": 92.6268656716418,
+   "simScore": 75.77976817702844
+  },
+  {
+   "name": "bot1717",
+   "matches": 67,
+   "obsPlace": 5.059701492537314,
+   "simPlace": 5.379679144385027,
+   "obsWin": 0,
+   "simWin": 0,
+   "obsScore": 41.298507462686565,
+   "simScore": 37.37967914438503
+  },
+  {
+   "name": "cosine",
+   "matches": 66,
+   "obsPlace": 2.9393939393939394,
+   "simPlace": 3.11500547645126,
+   "obsWin": 0.18181818181818182,
+   "simWin": 0.18619934282584885,
+   "obsScore": 78.96969696969697,
+   "simScore": 75.30996714129245
+  },
+  {
+   "name": "LexForge-1107",
+   "matches": 65,
+   "obsPlace": 1.8923076923076922,
+   "simPlace": 2.4719222462203025,
+   "obsWin": 0.4461538461538462,
+   "simWin": 0.32397408207343414,
+   "obsScore": 96.67692307692307,
+   "simScore": 86.05075593952483
+  },
+  {
+   "name": "Odysseus's Voyage",
+   "matches": 65,
+   "obsPlace": 3.5538461538461537,
+   "simPlace": 3.142708333333333,
+   "obsWin": 0.12307692307692308,
+   "simWin": 0.18958333333333333,
+   "obsScore": 75.35384615384615,
+   "simScore": 75.98125
+  },
+  {
+   "name": "GodOfThudner",
+   "matches": 65,
+   "obsPlace": 1.9846153846153847,
+   "simPlace": 2.3913513513513514,
+   "obsWin": 0.38461538461538464,
+   "simWin": 0.33297297297297296,
+   "obsScore": 100.66153846153846,
+   "simScore": 85.89621621621622
+  },
+  {
+   "name": "RackMaw",
+   "matches": 64,
+   "obsPlace": 2.015625,
+   "simPlace": 2.646221248630887,
+   "obsWin": 0.421875,
+   "simWin": 0.25301204819277107,
+   "obsScore": 94.515625,
+   "simScore": 81.93756845564074
+  },
+  {
+   "name": "Karppa",
+   "matches": 64,
+   "obsPlace": 2.359375,
+   "simPlace": 2.867986798679868,
+   "obsWin": 0.390625,
+   "simWin": 0.22442244224422442,
+   "obsScore": 93.5,
+   "simScore": 80.36413641364136
+  },
+  {
+   "name": "peanuts",
+   "matches": 63,
+   "obsPlace": 3.8412698412698414,
+   "simPlace": 4.340546697038724,
+   "obsWin": 0.047619047619047616,
+   "simWin": 0.011389521640091117,
+   "obsScore": 66.55555555555556,
+   "simScore": 57.82004555808656
+  },
+  {
+   "name": "exzell",
+   "matches": 63,
+   "obsPlace": 2.7777777777777777,
+   "simPlace": 2.662676822633297,
+   "obsWin": 0.2222222222222222,
+   "simWin": 0.26550598476605003,
+   "obsScore": 85.41269841269842,
+   "simScore": 83.91186071817192
+  },
+  {
+   "name": "Jaeger",
+   "matches": 63,
+   "obsPlace": 3.3174603174603177,
+   "simPlace": 3.7733333333333334,
+   "obsWin": 0.19047619047619047,
+   "simWin": 0.07888888888888888,
+   "obsScore": 77.73015873015873,
+   "simScore": 66.99888888888889
+  },
+  {
+   "name": "Lexicoin",
+   "matches": 63,
+   "obsPlace": 3.3333333333333335,
+   "simPlace": 3.445993031358885,
+   "obsWin": 0.19047619047619047,
+   "simWin": 0.10685249709639953,
+   "obsScore": 77.74603174603175,
+   "simScore": 71.1451800232288
+  },
+  {
+   "name": "Lbender",
+   "matches": 61,
+   "obsPlace": 2.098360655737705,
+   "simPlace": 2.79582875960483,
+   "obsWin": 0.45901639344262296,
+   "simWin": 0.24259055982436883,
+   "obsScore": 101.14754098360656,
+   "simScore": 81.12623490669594
+  },
+  {
+   "name": "QuertyBot",
+   "matches": 60,
+   "obsPlace": 3.6333333333333333,
+   "simPlace": 3.075862068965517,
+   "obsWin": 0.11666666666666667,
+   "simWin": 0.26091954022988506,
+   "obsScore": 74.5,
+   "simScore": 76.64137931034483
+  },
+  {
+   "name": "gas",
+   "matches": 59,
+   "obsPlace": 2.610169491525424,
+   "simPlace": 2.2691387559808613,
+   "obsWin": 0.3728813559322034,
+   "simWin": 0.39832535885167464,
+   "obsScore": 92.79661016949153,
+   "simScore": 90.8744019138756
+  },
+  {
+   "name": "LUCENT",
+   "matches": 58,
+   "obsPlace": 2.5689655172413794,
+   "simPlace": 2.6277641277641277,
+   "obsWin": 0.2413793103448276,
+   "simWin": 0.2788697788697789,
+   "obsScore": 90.41379310344827,
+   "simScore": 81.83046683046683
+  },
+  {
+   "name": "monkey",
+   "matches": 58,
+   "obsPlace": 5.155172413793103,
+   "simPlace": 5.4684014869888475,
+   "obsWin": 0,
+   "simWin": 0.0024783147459727386,
+   "obsScore": 33.5,
+   "simScore": 34.34820322180917
+  },
+  {
+   "name": "Rowin'Boats",
+   "matches": 56,
+   "obsPlace": 3.642857142857143,
+   "simPlace": 3.0576441102756893,
+   "obsWin": 0.10714285714285714,
+   "simWin": 0.17669172932330826,
+   "obsScore": 67.91071428571429,
+   "simScore": 76.32330827067669
+  },
+  {
+   "name": "scrabblemaxxing",
+   "matches": 55,
+   "obsPlace": 3.618181818181818,
+   "simPlace": 3.816711590296496,
+   "obsWin": 0.10909090909090909,
+   "simWin": 0.0876010781671159,
+   "obsScore": 70.43636363636364,
+   "simScore": 64.27088948787062
+  },
+  {
+   "name": "Astronaut",
+   "matches": 55,
+   "obsPlace": 3.1818181818181817,
+   "simPlace": 2.8929936305732484,
+   "obsWin": 0.12727272727272726,
+   "simWin": 0.19872611464968154,
+   "obsScore": 82.27272727272727,
+   "simScore": 79.61656050955413
+  },
+  {
+   "name": "StickBot",
+   "matches": 53,
+   "obsPlace": 2.9622641509433962,
+   "simPlace": 2.414114513981358,
+   "obsWin": 0.24528301886792453,
+   "simWin": 0.3262316910785619,
+   "obsScore": 86.84905660377359,
+   "simScore": 86.83488681757656
+  },
+  {
+   "name": "SoapConsumers",
+   "matches": 53,
+   "obsPlace": 3.5849056603773586,
+   "simPlace": 3.072258064516129,
+   "obsWin": 0.07547169811320754,
+   "simWin": 0.22580645161290322,
+   "obsScore": 68.54716981132076,
+   "simScore": 74.1458064516129
+  },
+  {
+   "name": "N1gel",
+   "matches": 53,
+   "obsPlace": 2.943396226415094,
+   "simPlace": 3.0113636363636362,
+   "obsWin": 0.2641509433962264,
+   "simWin": 0.21717171717171718,
+   "obsScore": 84.60377358490567,
+   "simScore": 77.31313131313131
+  },
+  {
+   "name": "NigelBot",
+   "matches": 52,
+   "obsPlace": 4.076923076923077,
+   "simPlace": 4.333785617367707,
+   "obsWin": 0.038461538461538464,
+   "simWin": 0.027137042062415198,
+   "obsScore": 58,
+   "simScore": 57.531886024423336
+  },
+  {
+   "name": "Nigel \"Bidderson\" Richards",
+   "matches": 51,
+   "obsPlace": 5.392156862745098,
+   "simPlace": 5.875,
+   "obsWin": 0,
+   "simWin": 0,
+   "obsScore": 16.725490196078432,
+   "simScore": 18.510416666666668
+  },
+  {
+   "name": "Afterword",
+   "matches": 48,
+   "obsPlace": 5.791666666666667,
+   "simPlace": 5.969187675070028,
+   "obsWin": 0,
+   "simWin": 0,
+   "obsScore": 0,
+   "simScore": 10.379551820728292
+  },
+  {
+   "name": "Nhat",
+   "matches": 41,
+   "obsPlace": 5.024390243902439,
+   "simPlace": 5.2218543046357615,
+   "obsWin": 0.024390243902439025,
+   "simWin": 0.004966887417218543,
+   "obsScore": 36.048780487804876,
+   "simScore": 40.86423841059602
+  },
+  {
+   "name": "Pegasus",
+   "matches": 40,
+   "obsPlace": 4.425,
+   "simPlace": 4.146643109540636,
+   "obsWin": 0.075,
+   "simWin": 0.05830388692579505,
+   "obsScore": 58.825,
+   "simScore": 59.87279151943463
+  },
+  {
+   "name": "Barracuda",
+   "matches": 38,
+   "obsPlace": 5.052631578947368,
+   "simPlace": 5.314183123877918,
+   "obsWin": 0,
+   "simWin": 0.0017953321364452424,
+   "obsScore": 37.73684210526316,
+   "simScore": 38.81867145421903
+  },
+  {
+   "name": "GoatBot",
+   "matches": 34,
+   "obsPlace": 3.6176470588235294,
+   "simPlace": 3.0618336886993602,
+   "obsWin": 0.11764705882352941,
+   "simWin": 0.19829424307036247,
+   "obsScore": 75.67647058823529,
+   "simScore": 75.78891257995735
+  },
+  {
+   "name": "Bot",
+   "matches": 31,
+   "obsPlace": 4.096774193548387,
+   "simPlace": 4.274881516587678,
+   "obsWin": 0.03225806451612903,
+   "simWin": 0.04028436018957346,
+   "obsScore": 65.64516129032258,
+   "simScore": 58.322274881516584
+  },
+  {
+   "name": "TileHoarder",
+   "matches": 30,
+   "obsPlace": 4.266666666666667,
+   "simPlace": 4.243956043956044,
+   "obsWin": 0.13333333333333333,
+   "simWin": 0.026373626373626374,
+   "obsScore": 52.9,
+   "simScore": 60.61758241758242
+  },
+  {
+   "name": "SevenUp",
+   "matches": 30,
+   "obsPlace": 2.966666666666667,
+   "simPlace": 3.1972157772621808,
+   "obsWin": 0.16666666666666666,
+   "simWin": 0.17633410672853828,
+   "obsScore": 84.1,
+   "simScore": 74.3201856148492
+  },
+  {
+   "name": "Milo :3",
+   "matches": 29,
+   "obsPlace": 3.9655172413793105,
+   "simPlace": 3.967058823529412,
+   "obsWin": 0.06896551724137931,
+   "simWin": 0.05647058823529412,
+   "obsScore": 68.13793103448276,
+   "simScore": 62.59294117647059
+  },
+  {
+   "name": "wordgoat",
+   "matches": 28,
+   "obsPlace": 3.7142857142857144,
+   "simPlace": 3.741706161137441,
+   "obsWin": 0.14285714285714285,
+   "simWin": 0.08293838862559241,
+   "obsScore": 63.07142857142857,
+   "simScore": 64.77014218009478
+  },
+  {
+   "name": "megatron pro max plus ultra 3000",
+   "matches": 28,
+   "obsPlace": 4.785714285714286,
+   "simPlace": 4.967365967365968,
+   "obsWin": 0,
+   "simWin": 0.013986013986013986,
+   "obsScore": 44.214285714285715,
+   "simScore": 47.15617715617716
+  },
+  {
+   "name": "benoit",
+   "matches": 23,
+   "obsPlace": 5.608695652173913,
+   "simPlace": 5.654353562005277,
+   "obsWin": 0,
+   "simWin": 0,
+   "obsScore": 1.0869565217391304,
+   "simScore": 29.218997361477573
+  },
+  {
+   "name": "evol",
+   "matches": 20,
+   "obsPlace": 3,
+   "simPlace": 3.960144927536232,
+   "obsWin": 0.2,
+   "simWin": 0.043478260869565216,
+   "obsScore": 81.85,
+   "simScore": 64.8804347826087
+  },
+  {
+   "name": "Cruds",
+   "matches": 19,
+   "obsPlace": 5.105263157894737,
+   "simPlace": 5.184115523465704,
+   "obsWin": 0,
+   "simWin": 0,
+   "obsScore": 43.63157894736842,
+   "simScore": 42.375451263537904
+  },
+  {
+   "name": "Sepcis",
+   "matches": 17,
+   "obsPlace": 4.235294117647059,
+   "simPlace": 4.830882352941177,
+   "obsWin": 0,
+   "simWin": 0.014705882352941176,
+   "obsScore": 49.76470588235294,
+   "simScore": 49.56985294117647
+  }
+ ],
+ "ct": {
+  "matches": 18,
+  "m": {
+   "n": 18,
+   "share0": 0.3164251207729468,
+   "share1": 0.11363636363636363,
+   "share2": 0.041062801932367145,
+   "top0": 16.206106870229007,
+   "top1": 14.044444444444444,
+   "top2": 13.764705882352942,
+   "paid": 11.797927461139896,
+   "bal": 16.666666666666668,
+   "score": 43.166666666666664,
+   "nwords": 2.9444444444444446,
+   "wlen": 5,
+   "frac6": 0.41509433962264153,
+   "place": 5.333333333333333,
+   "winrate": 0
+  }
+ },
+ "simCurrent": {
+  "games": 8000,
+  "winRate": 0.016125,
+  "avgPlace": 4.636875,
+  "avgScore": 52.8135,
+  "leftover": 29.043375,
+  "avgOppScore": 71.35967499999998,
+  "avgWordLen": 4.794745002723882,
+  "frac6": 0.43309726354607553,
+  "wordsPerGame": 2.982875
+ },
+ "simTrained": null,
+ "gamesPerSec": 878.3943053289612
+}

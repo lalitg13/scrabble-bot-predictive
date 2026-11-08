@@ -1,0 +1,811 @@
+{
+ "created": "2026-11-08T01:31:54.619Z",
+ "games": 784000,
+ "elapsedSec": 859.145951988,
+ "trainingGamesPerSec": 912.5341255299896,
+ "params": {
+  "holdFourBelow": 13,
+  "endgameBag": 0,
+  "fishFourBag": 1,
+  "fishBag": 6,
+  "fishMinBalance": 8,
+  "fishMaxReward": 35,
+  "fishMass": 1,
+  "fishMassHigh": 6,
+  "fishGain": 8,
+  "floorScale": 0.6629832531619667,
+  "hungerEarly": 0.9981288666847591,
+  "hungerMid": 1.0884765383557231,
+  "hungerLate": 0.7236327408351971,
+  "jumpMult": 1.4948715533673018,
+  "kickScale": 0.23542662938265385,
+  "heldWordFrac": 1.123964713408582,
+  "shapeScale": 1.6111098824139922,
+  "vowelSatMult": 0.9589424481693923,
+  "consOnlyMult": 0.5006554482053659,
+  "dupMult1": 0.6282888659381308,
+  "dupMult2": 0.6671126197102125,
+  "reserveFrac": 0.2716050991667104,
+  "reserveCap": 20,
+  "reserveBag": 20,
+  "fourCapBag": 40,
+  "fourCapImproves": 19,
+  "fourCapOther": 22,
+  "noImproveStopBag": 0
+ },
+ "defaults": {
+  "holdFourBelow": 9,
+  "endgameBag": 8,
+  "fishFourBag": 8,
+  "fishBag": 18,
+  "fishMinBalance": 12,
+  "fishMaxReward": 18,
+  "fishMass": 4,
+  "fishMassHigh": 8,
+  "fishGain": 8,
+  "floorScale": 1,
+  "hungerEarly": 1.75,
+  "hungerMid": 1.45,
+  "hungerLate": 1.15,
+  "jumpMult": 1.35,
+  "kickScale": 1,
+  "heldWordFrac": 0.9,
+  "shapeScale": 1,
+  "vowelSatMult": 0.25,
+  "consOnlyMult": 0.55,
+  "dupMult1": 0.6,
+  "dupMult2": 0.3,
+  "reserveFrac": 0.25,
+  "reserveCap": 18,
+  "reserveBag": 18,
+  "fourCapBag": 16,
+  "fourCapImproves": 8,
+  "fourCapOther": 6,
+  "noImproveStopBag": 8
+ },
+ "evals": [
+  {
+   "name": "full field",
+   "before": {
+    "games": 40000,
+    "winRate": 0.0162,
+    "avgPlace": 4.61445,
+    "avgScore": 52.38165,
+    "leftover": 28.96605,
+    "avgOppScore": 71.21094499999997,
+    "avgWordLen": 4.785829035258307,
+    "frac6": 0.4355288746089456,
+    "wordsPerGame": 2.95675
+   },
+   "after": {
+    "games": 40000,
+    "winRate": 0.186575,
+    "avgPlace": 3.13905,
+    "avgScore": 74.76665,
+    "leftover": 22.966825,
+    "avgOppScore": 67.66295499999994,
+    "avgWordLen": 5.441982555808552,
+    "frac6": 0.6593314320728026,
+    "wordsPerGame": 3.304825
+   }
+  },
+  {
+   "name": "holdout: even-indexed bots only",
+   "before": {
+    "games": 40000,
+    "winRate": 0.015325,
+    "avgPlace": 4.518725,
+    "avgScore": 52.588725,
+    "leftover": 28.90145,
+    "avgOppScore": 70.39357499999997,
+    "avgWordLen": 4.8122473589456165,
+    "frac6": 0.44285641495974726,
+    "wordsPerGame": 2.9439
+   },
+   "after": {
+    "games": 40000,
+    "winRate": 0.191975,
+    "avgPlace": 3.043325,
+    "avgScore": 75.128375,
+    "leftover": 23.172325,
+    "avgOppScore": 66.75386999999996,
+    "avgWordLen": 5.463757698651696,
+    "frac6": 0.6629314649758636,
+    "wordsPerGame": 3.30415
+   }
+  },
+  {
+   "name": "holdout: odd-indexed bots only",
+   "before": {
+    "games": 40000,
+    "winRate": 0.016275,
+    "avgPlace": 4.6876,
+    "avgScore": 52.339475,
+    "leftover": 28.89775,
+    "avgOppScore": 71.922105,
+    "avgWordLen": 4.763841324200913,
+    "frac6": 0.42749462798818155,
+    "wordsPerGame": 2.9784
+   },
+   "after": {
+    "games": 40000,
+    "winRate": 0.182775,
+    "avgPlace": 3.19005,
+    "avgScore": 74.639725,
+    "leftover": 22.690525,
+    "avgOppScore": 68.51321499999997,
+    "avgWordLen": 5.426429920664904,
+    "frac6": 0.6578466188137514,
+    "wordsPerGame": 3.30875
+   }
+  },
+  {
+   "name": "no self-play copies",
+   "before": {
+    "games": 40000,
+    "winRate": 0.017575,
+    "avgPlace": 4.63105,
+    "avgScore": 52.8284,
+    "leftover": 29.1697,
+    "avgOppScore": 71.34693,
+    "avgWordLen": 4.7910353905876635,
+    "frac6": 0.43391828555617973,
+    "wordsPerGame": 2.981725
+   },
+   "after": {
+    "games": 40000,
+    "winRate": 0.181925,
+    "avgPlace": 3.20435,
+    "avgScore": 74.278375,
+    "leftover": 22.9456,
+    "avgOppScore": 68.05963000000001,
+    "avgWordLen": 5.449448725367771,
+    "frac6": 0.6613620442847136,
+    "wordsPerGame": 3.2833
+   }
+  }
+ ],
+ "history": [
+  {
+   "gen": 0,
+   "meanFit": -0.09771428571428573,
+   "bestFit": 0.03328571428571428,
+   "best": {
+    "games": 1400,
+    "winRate": 0.07857142857142857,
+    "avgPlace": 3.952857142857143,
+    "avgScore": 62.57214285714286,
+    "leftover": 29.09642857142857,
+    "avgOppScore": 69.29585714285713,
+    "avgWordLen": 5.213122275751319,
+    "frac6": 0.5753613214039918,
+    "wordsPerGame": 3.1135714285714284
+   }
+  },
+  {
+   "gen": 1,
+   "meanFit": -0.026714285714285718,
+   "bestFit": 0.029928571428571426,
+   "best": {
+    "games": 1400,
+    "winRate": 0.07,
+    "avgPlace": 3.900714285714286,
+    "avgScore": 64.525,
+    "leftover": 26.85214285714286,
+    "avgOppScore": 69.851,
+    "avgWordLen": 5.357807146353402,
+    "frac6": 0.6133137542829172,
+    "wordsPerGame": 2.9185714285714286
+   }
+  },
+  {
+   "gen": 2,
+   "meanFit": 0.03,
+   "bestFit": 0.08449999999999999,
+   "best": {
+    "games": 1400,
+    "winRate": 0.09857142857142857,
+    "avgPlace": 3.6407142857142856,
+    "avgScore": 67.275,
+    "leftover": 29.519285714285715,
+    "avgOppScore": 68.61500000000001,
+    "avgWordLen": 5.149376669634907,
+    "frac6": 0.5817008014247551,
+    "wordsPerGame": 3.2085714285714286
+   }
+  },
+  {
+   "gen": 3,
+   "meanFit": 0.07671428571428572,
+   "bestFit": 0.09714285714285714,
+   "best": {
+    "games": 1400,
+    "winRate": 0.10642857142857143,
+    "avgPlace": 3.592857142857143,
+    "avgScore": 67.46857142857142,
+    "leftover": 28.463571428571427,
+    "avgOppScore": 68.64685714285713,
+    "avgWordLen": 5.139894086496028,
+    "frac6": 0.5661959399823477,
+    "wordsPerGame": 3.237142857142857
+   }
+  },
+  {
+   "gen": 4,
+   "meanFit": 0.0715,
+   "bestFit": 0.07378571428571429,
+   "best": {
+    "games": 1400,
+    "winRate": 0.095,
+    "avgPlace": 3.712142857142857,
+    "avgScore": 66.26,
+    "leftover": 25.495714285714286,
+    "avgOppScore": 69.20971428571428,
+    "avgWordLen": 5.196703051904656,
+    "frac6": 0.5927823568723547,
+    "wordsPerGame": 3.2064285714285714
+   }
+  },
+  {
+   "gen": 5,
+   "meanFit": 0.096,
+   "bestFit": 0.12528571428571428,
+   "best": {
+    "games": 1400,
+    "winRate": 0.12428571428571429,
+    "avgPlace": 3.49,
+    "avgScore": 69.19214285714285,
+    "leftover": 27.329285714285714,
+    "avgOppScore": 68.60942857142858,
+    "avgWordLen": 5.0744954916273075,
+    "frac6": 0.5553885787891799,
+    "wordsPerGame": 3.327142857142857
+   }
+  },
+  {
+   "gen": 6,
+   "meanFit": 0.11964285714285715,
+   "bestFit": 0.1677857142857143,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15642857142857142,
+    "avgPlace": 3.3864285714285716,
+    "avgScore": 70.64571428571429,
+    "leftover": 29.890714285714285,
+    "avgOppScore": 68.29042857142859,
+    "avgWordLen": 5.180335001087665,
+    "frac6": 0.626713073743746,
+    "wordsPerGame": 3.2835714285714284
+   }
+  },
+  {
+   "gen": 7,
+   "meanFit": 0.16328571428571428,
+   "bestFit": 0.16328571428571428,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15,
+    "avgPlace": 3.367142857142857,
+    "avgScore": 70.76714285714286,
+    "leftover": 27.354285714285716,
+    "avgOppScore": 68.15699999999997,
+    "avgWordLen": 5.240909090909091,
+    "frac6": 0.6337662337662338,
+    "wordsPerGame": 3.3
+   }
+  },
+  {
+   "gen": 8,
+   "meanFit": 0.15421428571428572,
+   "bestFit": 0.15421428571428572,
+   "best": {
+    "games": 1400,
+    "winRate": 0.14,
+    "avgPlace": 3.3578571428571427,
+    "avgScore": 71.25714285714285,
+    "leftover": 27.385,
+    "avgOppScore": 68.13571428571427,
+    "avgWordLen": 5.22531263475636,
+    "frac6": 0.6274256144890039,
+    "wordsPerGame": 3.3128571428571427
+   }
+  },
+  {
+   "gen": 9,
+   "meanFit": 0.1657142857142857,
+   "bestFit": 0.1657142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15,
+    "avgPlace": 3.342857142857143,
+    "avgScore": 71.31214285714286,
+    "leftover": 27.26142857142857,
+    "avgOppScore": 67.8097142857143,
+    "avgWordLen": 5.17374681393373,
+    "frac6": 0.6157604078164826,
+    "wordsPerGame": 3.362857142857143
+   }
+  },
+  {
+   "gen": 10,
+   "meanFit": 0.14950000000000002,
+   "bestFit": 0.16014285714285714,
+   "best": {
+    "games": 1400,
+    "winRate": 0.155,
+    "avgPlace": 3.4485714285714284,
+    "avgScore": 70.09071428571428,
+    "leftover": 28.897142857142857,
+    "avgOppScore": 68.33942857142854,
+    "avgWordLen": 5.151023890784983,
+    "frac6": 0.6273464163822525,
+    "wordsPerGame": 3.3485714285714288
+   }
+  },
+  {
+   "gen": 11,
+   "meanFit": 0.14257142857142857,
+   "bestFit": 0.15821428571428572,
+   "best": {
+    "games": 1400,
+    "winRate": 0.14642857142857144,
+    "avgPlace": 3.382142857142857,
+    "avgScore": 70.99714285714286,
+    "leftover": 26.263571428571428,
+    "avgOppScore": 68.18814285714284,
+    "avgWordLen": 5.224037841324447,
+    "frac6": 0.6495377338206837,
+    "wordsPerGame": 3.322142857142857
+   }
+  },
+  {
+   "gen": 12,
+   "meanFit": 0.15771428571428572,
+   "bestFit": 0.18035714285714285,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15571428571428572,
+    "avgPlace": 3.2535714285714286,
+    "avgScore": 72.125,
+    "leftover": 24.248571428571427,
+    "avgOppScore": 68.09742857142855,
+    "avgWordLen": 5.339792997137194,
+    "frac6": 0.6502972913455186,
+    "wordsPerGame": 3.2435714285714288
+   }
+  },
+  {
+   "gen": 13,
+   "meanFit": 0.1882857142857143,
+   "bestFit": 0.19607142857142856,
+   "best": {
+    "games": 1400,
+    "winRate": 0.17357142857142857,
+    "avgPlace": 3.275,
+    "avgScore": 72.70571428571428,
+    "leftover": 23.826428571428572,
+    "avgOppScore": 67.906,
+    "avgWordLen": 5.306468716861081,
+    "frac6": 0.6324496288441145,
+    "wordsPerGame": 3.367857142857143
+   }
+  },
+  {
+   "gen": 14,
+   "meanFit": 0.17478571428571427,
+   "bestFit": 0.17478571428571427,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15857142857142856,
+    "avgPlace": 3.337857142857143,
+    "avgScore": 71.54785714285714,
+    "leftover": 24.339285714285715,
+    "avgOppScore": 68.38157142857142,
+    "avgWordLen": 5.303266277309107,
+    "frac6": 0.6398442569759896,
+    "wordsPerGame": 3.302142857142857
+   }
+  },
+  {
+   "gen": 15,
+   "meanFit": 0.16435714285714284,
+   "bestFit": 0.188,
+   "best": {
+    "games": 1400,
+    "winRate": 0.165,
+    "avgPlace": 3.27,
+    "avgScore": 72.29857142857144,
+    "leftover": 23.249285714285715,
+    "avgOppScore": 67.88742857142857,
+    "avgWordLen": 5.318025751072962,
+    "frac6": 0.6504291845493563,
+    "wordsPerGame": 3.3285714285714287
+   }
+  },
+  {
+   "gen": 16,
+   "meanFit": 0.15735714285714286,
+   "bestFit": 0.18657142857142855,
+   "best": {
+    "games": 1400,
+    "winRate": 0.165,
+    "avgPlace": 3.2842857142857143,
+    "avgScore": 72.16357142857143,
+    "leftover": 23.07357142857143,
+    "avgOppScore": 67.85857142857142,
+    "avgWordLen": 5.3352625937834945,
+    "frac6": 0.639871382636656,
+    "wordsPerGame": 3.3321428571428573
+   }
+  },
+  {
+   "gen": 17,
+   "meanFit": 0.1677857142857143,
+   "bestFit": 0.19099999999999998,
+   "best": {
+    "games": 1400,
+    "winRate": 0.16785714285714284,
+    "avgPlace": 3.2685714285714287,
+    "avgScore": 72.52928571428572,
+    "leftover": 24.318571428571428,
+    "avgOppScore": 67.88085714285715,
+    "avgWordLen": 5.311928556240697,
+    "frac6": 0.636402296406549,
+    "wordsPerGame": 3.3592857142857144
+   }
+  },
+  {
+   "gen": 18,
+   "meanFit": 0.17385714285714285,
+   "bestFit": 0.17742857142857144,
+   "best": {
+    "games": 1400,
+    "winRate": 0.15642857142857142,
+    "avgPlace": 3.29,
+    "avgScore": 72.17071428571428,
+    "leftover": 22.84285714285714,
+    "avgOppScore": 68.15057142857142,
+    "avgWordLen": 5.409320729830732,
+    "frac6": 0.6454165750714442,
+    "wordsPerGame": 3.249285714285714
+   }
+  },
+  {
+   "gen": 19,
+   "meanFit": 0.1855,
+   "bestFit": 0.2085,
+   "best": {
+    "games": 1400,
+    "winRate": 0.1742857142857143,
+    "avgPlace": 3.157857142857143,
+    "avgScore": 74.10357142857143,
+    "leftover": 22.923571428571428,
+    "avgOppScore": 67.80328571428569,
+    "avgWordLen": 5.420892934547031,
+    "frac6": 0.651712180320763,
+    "wordsPerGame": 3.295714285714286
+   }
+  },
+  {
+   "gen": 20,
+   "meanFit": 0.18685714285714286,
+   "bestFit": 0.2117142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18071428571428572,
+    "avgPlace": 3.19,
+    "avgScore": 73.74857142857142,
+    "leftover": 24.46785714285714,
+    "avgOppScore": 67.92314285714288,
+    "avgWordLen": 5.395865070729053,
+    "frac6": 0.6548422198041349,
+    "wordsPerGame": 3.282142857142857
+   }
+  },
+  {
+   "gen": 21,
+   "meanFit": 0.18507142857142858,
+   "bestFit": 0.2117142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.17857142857142858,
+    "avgPlace": 3.1685714285714286,
+    "avgScore": 73.62,
+    "leftover": 24.847857142857144,
+    "avgOppScore": 67.84871428571428,
+    "avgWordLen": 5.4353741496598635,
+    "frac6": 0.6561334211103796,
+    "wordsPerGame": 3.255
+   }
+  },
+  {
+   "gen": 22,
+   "meanFit": 0.19785714285714287,
+   "bestFit": 0.22792857142857145,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19785714285714287,
+    "avgPlace": 3.1992857142857143,
+    "avgScore": 73.80071428571429,
+    "leftover": 23.68357142857143,
+    "avgOppScore": 67.80399999999997,
+    "avgWordLen": 5.4200431034482754,
+    "frac6": 0.6538793103448276,
+    "wordsPerGame": 3.3142857142857145
+   }
+  },
+  {
+   "gen": 23,
+   "meanFit": 0.20364285714285715,
+   "bestFit": 0.2187142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18642857142857142,
+    "avgPlace": 3.177142857142857,
+    "avgScore": 73.42571428571429,
+    "leftover": 23.902142857142856,
+    "avgOppScore": 67.57799999999997,
+    "avgWordLen": 5.403626160155407,
+    "frac6": 0.6542197280379883,
+    "wordsPerGame": 3.309285714285714
+   }
+  },
+  {
+   "gen": 24,
+   "meanFit": 0.19892857142857143,
+   "bestFit": 0.2192142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18714285714285714,
+    "avgPlace": 3.1792857142857143,
+    "avgScore": 73.72571428571429,
+    "leftover": 23.479285714285716,
+    "avgOppScore": 67.83271428571429,
+    "avgWordLen": 5.449413808076422,
+    "frac6": 0.6541467650890144,
+    "wordsPerGame": 3.29
+   }
+  },
+  {
+   "gen": 25,
+   "meanFit": 0.18635714285714283,
+   "bestFit": 0.21121428571428572,
+   "best": {
+    "games": 1400,
+    "winRate": 0.185,
+    "avgPlace": 3.237857142857143,
+    "avgScore": 73.26,
+    "leftover": 24.497857142857143,
+    "avgOppScore": 67.8112857142857,
+    "avgWordLen": 5.359194170595799,
+    "frac6": 0.6356622374624946,
+    "wordsPerGame": 3.3328571428571427
+   }
+  },
+  {
+   "gen": 26,
+   "meanFit": 0.19142857142857142,
+   "bestFit": 0.2168571428571429,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18285714285714286,
+    "avgPlace": 3.16,
+    "avgScore": 74.36357142857143,
+    "leftover": 23.184285714285714,
+    "avgOppScore": 67.86371428571427,
+    "avgWordLen": 5.507974655888137,
+    "frac6": 0.6641905178064235,
+    "wordsPerGame": 3.269285714285714
+   }
+  },
+  {
+   "gen": 27,
+   "meanFit": 0.19335714285714284,
+   "bestFit": 0.22721428571428573,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18785714285714286,
+    "avgPlace": 3.1064285714285713,
+    "avgScore": 75.12642857142858,
+    "leftover": 22.722857142857144,
+    "avgOppScore": 67.56585714285713,
+    "avgWordLen": 5.494736842105263,
+    "frac6": 0.6664473684210527,
+    "wordsPerGame": 3.257142857142857
+   }
+  },
+  {
+   "gen": 28,
+   "meanFit": 0.22092857142857145,
+   "bestFit": 0.24478571428571427,
+   "best": {
+    "games": 1400,
+    "winRate": 0.20285714285714285,
+    "avgPlace": 3.0807142857142855,
+    "avgScore": 75.03642857142857,
+    "leftover": 22.984285714285715,
+    "avgOppScore": 67.33585714285714,
+    "avgWordLen": 5.401450511945392,
+    "frac6": 0.6495307167235495,
+    "wordsPerGame": 3.3485714285714288
+   }
+  },
+  {
+   "gen": 29,
+   "meanFit": 0.2242142857142857,
+   "bestFit": 0.23085714285714284,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19642857142857142,
+    "avgPlace": 3.1557142857142857,
+    "avgScore": 74.33714285714285,
+    "leftover": 23.424285714285713,
+    "avgOppScore": 67.47514285714286,
+    "avgWordLen": 5.412348877374784,
+    "frac6": 0.6420552677029361,
+    "wordsPerGame": 3.3085714285714287
+   }
+  },
+  {
+   "gen": 30,
+   "meanFit": 0.2168571428571429,
+   "bestFit": 0.2168571428571429,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18357142857142858,
+    "avgPlace": 3.1671428571428573,
+    "avgScore": 74.18571428571428,
+    "leftover": 23.18285714285714,
+    "avgOppScore": 67.94657142857147,
+    "avgWordLen": 5.432379713914174,
+    "frac6": 0.6473775465973125,
+    "wordsPerGame": 3.295714285714286
+   }
+  },
+  {
+   "gen": 31,
+   "meanFit": 0.21892857142857142,
+   "bestFit": 0.21892857142857142,
+   "best": {
+    "games": 1400,
+    "winRate": 0.185,
+    "avgPlace": 3.1607142857142856,
+    "avgScore": 74.15214285714286,
+    "leftover": 22.97642857142857,
+    "avgOppScore": 68.07514285714285,
+    "avgWordLen": 5.434669555796316,
+    "frac6": 0.6502708559046587,
+    "wordsPerGame": 3.2964285714285713
+   }
+  },
+  {
+   "gen": 32,
+   "meanFit": 0.2375,
+   "bestFit": 0.2375,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19785714285714287,
+    "avgPlace": 3.1035714285714286,
+    "avgScore": 74.74571428571429,
+    "leftover": 23.582857142857144,
+    "avgOppScore": 67.62657142857144,
+    "avgWordLen": 5.437932525951557,
+    "frac6": 0.6496539792387543,
+    "wordsPerGame": 3.302857142857143
+   }
+  },
+  {
+   "gen": 33,
+   "meanFit": 0.1987857142857143,
+   "bestFit": 0.2332857142857143,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19642857142857142,
+    "avgPlace": 3.1314285714285712,
+    "avgScore": 74.33071428571428,
+    "leftover": 22.997857142857143,
+    "avgOppScore": 67.80499999999998,
+    "avgWordLen": 5.467688937568456,
+    "frac6": 0.655421686746988,
+    "wordsPerGame": 3.2607142857142857
+   }
+  },
+  {
+   "gen": 34,
+   "meanFit": 0.2049285714285714,
+   "bestFit": 0.23607142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19785714285714287,
+    "avgPlace": 3.117857142857143,
+    "avgScore": 74.49,
+    "leftover": 23.254285714285714,
+    "avgOppScore": 67.61585714285712,
+    "avgWordLen": 5.434051724137931,
+    "frac6": 0.6560344827586206,
+    "wordsPerGame": 3.3142857142857145
+   }
+  },
+  {
+   "gen": 35,
+   "meanFit": 0.2067142857142857,
+   "bestFit": 0.2312142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.19142857142857142,
+    "avgPlace": 3.1021428571428573,
+    "avgScore": 74.98285714285714,
+    "leftover": 23.989285714285714,
+    "avgOppScore": 67.70271428571428,
+    "avgWordLen": 5.425881843756763,
+    "frac6": 0.6544038086994157,
+    "wordsPerGame": 3.3007142857142857
+   }
+  },
+  {
+   "gen": 36,
+   "meanFit": 0.24114285714285716,
+   "bestFit": 0.2532142857142857,
+   "best": {
+    "games": 1400,
+    "winRate": 0.2092857142857143,
+    "avgPlace": 3.0607142857142855,
+    "avgScore": 75.47285714285714,
+    "leftover": 23.34,
+    "avgOppScore": 67.48085714285715,
+    "avgWordLen": 5.429302623160589,
+    "frac6": 0.6592023885689913,
+    "wordsPerGame": 3.349285714285714
+   }
+  },
+  {
+   "gen": 37,
+   "meanFit": 0.2402142857142857,
+   "bestFit": 0.24657142857142855,
+   "best": {
+    "games": 1400,
+    "winRate": 0.2042857142857143,
+    "avgPlace": 3.077142857142857,
+    "avgScore": 75.25785714285715,
+    "leftover": 23.22714285714286,
+    "avgOppScore": 67.40914285714285,
+    "avgWordLen": 5.491266375545852,
+    "frac6": 0.6665938864628821,
+    "wordsPerGame": 3.2714285714285714
+   }
+  },
+  {
+   "gen": 38,
+   "meanFit": 0.21900000000000003,
+   "bestFit": 0.22142857142857142,
+   "best": {
+    "games": 1400,
+    "winRate": 0.18357142857142858,
+    "avgPlace": 3.1214285714285714,
+    "avgScore": 74.70785714285714,
+    "leftover": 22.940714285714286,
+    "avgOppScore": 67.87985714285713,
+    "avgWordLen": 5.489590181897874,
+    "frac6": 0.6749945211483673,
+    "wordsPerGame": 3.2592857142857143
+   }
+  },
+  {
+   "gen": 39,
+   "meanFit": 0.22971428571428573,
+   "bestFit": 0.24292857142857144,
+   "best": {
+    "games": 1400,
+    "winRate": 0.20285714285714285,
+    "avgPlace": 3.099285714285714,
+    "avgScore": 75.21428571428571,
+    "leftover": 22.805714285714284,
+    "avgOppScore": 67.72500000000002,
+    "avgWordLen": 5.436826218197499,
+    "frac6": 0.6627856834842605,
+    "wordsPerGame": 3.3128571428571427
+   }
+  }
+ ],
+ "updated": "2026-11-08T02:03:54.724Z"
+}

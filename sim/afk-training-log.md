@@ -1,0 +1,175 @@
+# AFK training log (simulated games vs fitted live-opponent field)
+
+- 7:33:33 PM CST practice field (start, 10k games, weak official sims + FieldA + FieldB): win 80.1%, place 1.24, score 131.5
+- 7:33:41 PM CST cycle 1: 20000 games; best win 19.0%, place 3.15, score 74.7; candidate 18.3% -> rejected
+- 7:33:48 PM CST cycle 2: 30000 games; best win 19.5%, place 3.10, score 75.2; candidate 19.5% -> rejected
+- 7:33:58 PM CST cycle 3: 40000 games; best win 18.9%, place 3.15, score 74.6; candidate 18.2% -> rejected
+- 7:34:06 PM CST cycle 4: 50000 games; best win 18.8%, place 3.16, score 74.6; candidate 17.9% -> rejected
+- 7:34:14 PM CST cycle 5: 60000 games; best win 19.5%, place 3.12, score 75.3; candidate 19.3% -> rejected
+- 7:34:24 PM CST cycle 6: 70000 games; best win 18.0%, place 3.15, score 74.6; candidate 16.7% -> rejected
+- 7:34:32 PM CST cycle 7: 80000 games; best win 18.1%, place 3.18, score 74.5; candidate 18.1% -> KEPT endgameBag 1->0, fishMaxReward 32->35, fishMassHigh 8->9, fishGain 9->10, floorScale 0.443->0.274, shapeScale 1.373->1.382, fourCapImproves 21->17
+- 7:34:39 PM CST cycle 8: 90000 games; best win 17.9%, place 3.16, score 74.6; candidate 17.8% -> rejected
+- 7:34:47 PM CST cycle 9: 100000 games; best win 19.5%, place 3.11, score 74.9; candidate 19.1% -> rejected
+- 7:34:55 PM CST cycle 10: 110000 games; best win 18.9%, place 3.14, score 74.9; candidate 18.5% -> rejected
+- 7:35:05 PM CST cycle 11: 120000 games; best win 18.7%, place 3.15, score 74.5; candidate 16.2% -> rejected
+- 7:35:13 PM CST cycle 12: 130000 games; best win 18.6%, place 3.12, score 74.7; candidate 18.6% -> rejected
+- 7:35:23 PM CST cycle 13: 140000 games; best win 18.8%, place 3.13, score 74.8; candidate 18.0% -> rejected
+- 7:35:31 PM CST cycle 14: 150000 games; best win 18.3%, place 3.12, score 74.8; candidate 18.3% -> rejected
+- 7:35:40 PM CST cycle 15: 160000 games; best win 18.7%, place 3.13, score 75.0; candidate 17.2% -> rejected
+- 7:35:48 PM CST cycle 16: 170000 games; best win 17.8%, place 3.18, score 74.3; candidate 17.8% -> rejected
+- 7:35:56 PM CST cycle 17: 180000 games; best win 19.6%, place 3.13, score 75.0; candidate 19.6% -> KEPT floorScale 0.274->0.338, heldWordFrac 1.161->1.16, consOnlyMult 0.503->0.466, reserveFrac 0.279->0.231, fourCapImproves 17->22
+- 7:36:05 PM CST cycle 18: 190000 games; best win 20.0%, place 3.07, score 75.5; candidate 17.1% -> rejected
+- 7:36:13 PM CST cycle 19: 200000 games; best win 18.5%, place 3.15, score 74.8; candidate 18.4% -> rejected
+- 7:36:21 PM CST cycle 20: 210000 games; best win 18.2%, place 3.14, score 74.7; candidate 18.2% -> KEPT fishMinBalance 9->7, fishMassHigh 9->8, hungerEarly 1.132->1.106, hungerLate 0.885->0.807, vowelSatMult 0.72->0.736, consOnlyMult 0.466->0.456, dupMult1 0.49->0.471, dupMult2 0.427->0.443, reserveFrac 0.231->0.228, fourCapImproves 22->24
+- 7:36:29 PM CST cycle 21: 220000 games; best win 19.2%, place 3.09, score 75.3; candidate 19.2% -> KEPT holdFourBelow 11->12, fishFourBag 1->0, floorScale 0.338->0.247, hungerEarly 1.106->1.084, kickScale 0.151->0.28, heldWordFrac 1.16->1.2, shapeScale 1.382->1.256, dupMult2 0.443->0.467, reserveCap 15->17, reserveBag 20->21, fourCapBag 32->33, fourCapImproves 24->25
+- 7:36:36 PM CST cycle 22: 230000 games; best win 19.0%, place 3.11, score 75.2; candidate 19.0% -> KEPT holdFourBelow 12->13, fishMassHigh 8->6, floorScale 0.247->0.503, heldWordFrac 1.2->1.188, consOnlyMult 0.456->0.463, fourCapOther 15->16
+- 7:36:46 PM CST cycle 23: 240000 games; best win 19.5%, place 3.10, score 75.2; candidate 19.1% -> rejected
+- 7:36:56 PM CST cycle 24: 250000 games; best win 18.6%, place 3.13, score 75.0; candidate 15.6% -> rejected
+- 7:37:04 PM CST cycle 25: 260000 games; best win 19.0%, place 3.15, score 74.6; candidate 18.6% -> rejected
+- 7:37:13 PM CST cycle 26: 270000 games; best win 19.0%, place 3.15, score 74.8; candidate 17.9% -> rejected
+- 7:37:24 PM CST cycle 27: 280000 games; best win 18.3%, place 3.14, score 74.9; candidate 17.8% -> rejected
+- 7:37:32 PM CST cycle 28: 290000 games; best win 19.5%, place 3.13, score 74.9; candidate 19.3% -> rejected
+- 7:37:42 PM CST cycle 29: 300000 games; best win 18.9%, place 3.11, score 75.1; candidate 19.2% -> rejected
+- 7:37:49 PM CST cycle 30: 310000 games; best win 18.9%, place 3.12, score 74.9; candidate 18.9% -> KEPT fishMassHigh 6->4, vowelSatMult 0.736->0.744, consOnlyMult 0.463->0.484, dupMult2 0.467->0.506, reserveBag 21->23, fourCapBag 33->35, fourCapImproves 25->24, fourCapOther 16->15
+- 7:37:59 PM CST cycle 31: 320000 games; best win 20.6%, place 3.08, score 75.5; candidate 18.3% -> rejected
+- 7:38:09 PM CST cycle 32: 330000 games; best win 19.5%, place 3.11, score 75.1; candidate 18.3% -> rejected
+- 7:38:19 PM CST cycle 33: 340000 games; best win 19.7%, place 3.06, score 75.5; candidate 18.6% -> rejected
+- 7:38:27 PM CST cycle 34: 350000 games; best win 19.8%, place 3.10, score 75.2; candidate 20.0% -> rejected
+- 7:38:37 PM CST cycle 35: 360000 games; best win 19.3%, place 3.12, score 75.3; candidate 18.7% -> rejected
+- 7:38:45 PM CST cycle 36: 370000 games; best win 19.4%, place 3.14, score 75.0; candidate 19.3% -> rejected
+- 7:38:53 PM CST cycle 37: 380000 games; best win 19.2%, place 3.12, score 75.1; candidate 18.5% -> rejected
+- 7:39:03 PM CST cycle 38: 390000 games; best win 19.9%, place 3.10, score 75.5; candidate 18.5% -> rejected
+- 7:39:11 PM CST cycle 39: 400000 games; best win 19.3%, place 3.09, score 75.2; candidate 19.3% -> KEPT fishGain 10->11, hungerLate 0.807->0.653, vowelSatMult 0.744->0.841, reserveCap 17->21, noImproveStopBag 1->0
+- 7:39:21 PM CST cycle 40: 410000 games; best win 19.2%, place 3.13, score 75.1; candidate 17.5% -> rejected
+- 7:39:34 PM CST practice field (cycle 40, 10k games, weak official sims + FieldA + FieldB): win 80.8%, place 1.23, score 132.9
+- 7:47:16 PM CST cycle 41: 430000 games; best win 19.4%, place 3.10, score 75.3; candidate 19.3% -> rejected
+- 7:47:26 PM CST cycle 42: 440000 games; best win 18.9%, place 3.09, score 75.4; candidate 18.6% -> rejected
+- 7:47:37 PM CST cycle 43: 450000 games; best win 19.8%, place 3.09, score 75.5; candidate 18.8% -> rejected
+- 7:47:49 PM CST cycle 44: 460000 games; best win 19.8%, place 3.10, score 75.2; candidate 18.4% -> rejected
+- 7:47:59 PM CST cycle 45: 470000 games; best win 19.4%, place 3.15, score 74.8; candidate 18.1% -> rejected
+- 7:48:09 PM CST cycle 46: 480000 games; best win 20.2%, place 3.11, score 75.4; candidate 17.0% -> rejected
+- 7:48:17 PM CST cycle 47: 490000 games; best win 19.4%, place 3.10, score 75.3; candidate 18.9% -> rejected
+- 7:48:27 PM CST cycle 48: 500000 games; best win 18.7%, place 3.13, score 74.8; candidate 18.2% -> rejected
+- 7:48:36 PM CST cycle 49: 510000 games; best win 18.1%, place 3.15, score 74.6; candidate 18.3% -> rejected
+- 7:48:46 PM CST cycle 50: 520000 games; best win 19.5%, place 3.08, score 75.4; candidate 15.1% -> rejected
+- 7:48:55 PM CST cycle 51: 530000 games; best win 19.8%, place 3.09, score 75.5; candidate 18.6% -> rejected
+- 7:49:05 PM CST cycle 52: 540000 games; best win 18.0%, place 3.13, score 74.8; candidate 17.9% -> rejected
+- 7:49:15 PM CST cycle 53: 550000 games; best win 19.3%, place 3.11, score 75.0; candidate 19.0% -> rejected
+- 7:49:22 PM CST cycle 54: 560000 games; best win 19.3%, place 3.14, score 75.2; candidate 19.3% -> KEPT fishMass 1->2, hungerLate 0.653->0.734, kickScale 0.28->0.23, heldWordFrac 1.188->1.159, reserveFrac 0.228->0.263, reserveCap 21->24, fourCapImproves 24->22, fourCapOther 15->14
+- 7:49:32 PM CST cycle 55: 570000 games; best win 19.2%, place 3.12, score 75.1; candidate 19.2% -> rejected
+- 7:49:39 PM CST cycle 56: 580000 games; best win 19.8%, place 3.10, score 75.1; candidate 19.7% -> rejected
+- 7:49:48 PM CST cycle 57: 590000 games; best win 19.1%, place 3.13, score 75.3; candidate 19.1% -> rejected
+- 7:49:58 PM CST cycle 58: 600000 games; best win 18.6%, place 3.14, score 74.5; candidate 18.6% -> KEPT fishMaxReward 35->37, hungerEarly 1.084->1.301, hungerMid 1.201->1.233, hungerLate 0.734->0.911, jumpMult 1.42->1.385, kickScale 0.23->0.203, consOnlyMult 0.484->0.455, dupMult1 0.471->0.456, dupMult2 0.506->0.569, fourCapBag 35->39, fourCapImproves 22->21
+- 7:50:07 PM CST cycle 59: 610000 games; best win 17.8%, place 3.15, score 74.6; candidate 17.4% -> rejected
+- 7:50:15 PM CST cycle 60: 620000 games; best win 18.3%, place 3.10, score 75.0; candidate 18.3% -> KEPT fishGain 11->12, floorScale 0.503->0.555, hungerMid 1.233->1.234, hungerLate 0.911->0.913, jumpMult 1.385->1.456, vowelSatMult 0.841->0.863, consOnlyMult 0.455->0.408, fourCapBag 39->37, fourCapOther 14->15
+- 7:50:25 PM CST cycle 61: 630000 games; best win 19.1%, place 3.13, score 75.0; candidate 17.0% -> rejected
+- 7:50:33 PM CST cycle 62: 640000 games; best win 19.4%, place 3.10, score 75.3; candidate 19.4% -> KEPT fishMassHigh 4->3, vowelSatMult 0.863->0.831, reserveFrac 0.263->0.26
+- 7:50:43 PM CST cycle 63: 650000 games; best win 18.8%, place 3.14, score 74.8; candidate 18.8% -> KEPT endgameBag 0->2, fishMinBalance 7->8, fishMaxReward 37->40, hungerEarly 1.301->1.091, dupMult1 0.456->0.531, dupMult2 0.569->0.495, fourCapOther 15->14
+- 7:50:53 PM CST cycle 64: 660000 games; best win 19.4%, place 3.11, score 75.1; candidate 17.4% -> rejected
+- 7:51:03 PM CST cycle 65: 670000 games; best win 18.9%, place 3.11, score 74.8; candidate 18.9% -> KEPT fishMassHigh 3->4, hungerEarly 1.091->1.266, heldWordFrac 1.159->1.2, vowelSatMult 0.831->0.788, fourCapImproves 21->23
+- 7:51:10 PM CST cycle 66: 680000 games; best win 19.1%, place 3.13, score 74.8; candidate 19.5% -> rejected
+- 7:51:19 PM CST cycle 67: 690000 games; best win 18.7%, place 3.14, score 74.4; candidate 16.1% -> rejected
+- 7:51:29 PM CST cycle 68: 700000 games; best win 18.5%, place 3.12, score 74.8; candidate 18.5% -> KEPT fishMinBalance 8->7, fishMaxReward 40->39, floorScale 0.555->0.685, hungerEarly 1.266->1.164, heldWordFrac 1.2->1.128, vowelSatMult 0.788->0.849, consOnlyMult 0.408->0.392, dupMult2 0.495->0.518, fourCapImproves 23->21, fourCapOther 14->16
+- 7:51:39 PM CST cycle 69: 710000 games; best win 19.1%, place 3.14, score 74.9; candidate 19.1% -> KEPT endgameBag 2->0, fishMass 2->3, fishGain 12->10, hungerMid 1.234->1.341, hungerLate 0.913->0.907, vowelSatMult 0.849->0.801, fourCapBag 37->39
+- 7:51:46 PM CST cycle 70: 720000 games; best win 19.1%, place 3.12, score 74.8; candidate 18.8% -> rejected
+- 7:51:53 PM CST cycle 71: 730000 games; best win 19.3%, place 3.13, score 74.8; candidate 18.8% -> rejected
+- 7:52:04 PM CST cycle 72: 740000 games; best win 18.3%, place 3.13, score 74.7; candidate 18.2% -> rejected
+- 7:52:14 PM CST cycle 73: 750000 games; best win 19.0%, place 3.10, score 75.1; candidate 18.1% -> rejected
+- 7:52:24 PM CST cycle 74: 760000 games; best win 18.2%, place 3.15, score 74.5; candidate 18.2% -> rejected
+- 7:52:33 PM CST cycle 75: 770000 games; best win 19.0%, place 3.10, score 74.9; candidate 19.0% -> KEPT hungerLate 0.907->0.865, jumpMult 1.456->1.594, kickScale 0.203->0.162, heldWordFrac 1.128->1.157, shapeScale 1.256->1.324, vowelSatMult 0.801->0.84, dupMult1 0.531->0.629, reserveBag 23->24
+- 7:52:40 PM CST cycle 76: 780000 games; best win 18.8%, place 3.08, score 75.5; candidate 18.8% -> KEPT fishMinBalance 7->5, fishMass 3->2, fishMassHigh 4->3, jumpMult 1.594->1.605, shapeScale 1.324->1.389, consOnlyMult 0.392->0.437, dupMult1 0.629->0.653, dupMult2 0.518->0.571, reserveFrac 0.26->0.309, reserveCap 24->25, reserveBag 24->21
+- 7:52:49 PM CST cycle 77: 790000 games; best win 18.7%, place 3.11, score 75.3; candidate 17.9% -> rejected
+- 7:52:56 PM CST cycle 78: 800000 games; best win 18.9%, place 3.14, score 74.8; candidate 18.8% -> rejected
+- 7:53:06 PM CST cycle 79: 810000 games; best win 19.1%, place 3.10, score 74.9; candidate 18.6% -> rejected
+- 7:53:15 PM CST cycle 80: 820000 games; best win 18.8%, place 3.08, score 75.3; candidate 19.3% -> rejected
+- 7:53:29 PM CST practice field (cycle 80, 10k games, weak official sims + FieldA + FieldB): win 75.4%, place 1.30, score 127.5
+- 7:53:38 PM CST cycle 81: 840000 games; best win 18.3%, place 3.12, score 74.6; candidate 18.3% -> KEPT fishMinBalance 5->6, fishMassHigh 3->5, hungerEarly 1.164->1.126, kickScale 0.162->0.331, shapeScale 1.389->1.614, consOnlyMult 0.437->0.403, reserveBag 21->25
+- 7:53:47 PM CST cycle 82: 850000 games; best win 19.9%, place 3.10, score 75.3; candidate 18.5% -> rejected
+- 7:53:57 PM CST cycle 83: 860000 games; best win 19.3%, place 3.08, score 75.6; candidate 18.4% -> rejected
+- 7:54:07 PM CST cycle 84: 870000 games; best win 19.6%, place 3.09, score 75.1; candidate 18.7% -> rejected
+- 7:54:15 PM CST cycle 85: 880000 games; best win 19.6%, place 3.08, score 75.5; candidate 18.9% -> rejected
+- 7:54:22 PM CST cycle 86: 890000 games; best win 19.3%, place 3.10, score 75.0; candidate 19.3% -> KEPT fishMaxReward 39->36, shapeScale 1.614->1.49, dupMult1 0.653->0.61, dupMult2 0.571->0.611, reserveCap 25->22, reserveBag 25->19, fourCapOther 16->18
+- 7:54:29 PM CST cycle 87: 900000 games; best win 18.7%, place 3.10, score 75.2; candidate 18.5% -> rejected
+- 7:54:37 PM CST cycle 88: 910000 games; best win 20.3%, place 3.07, score 75.6; candidate 19.6% -> rejected
+- 7:54:46 PM CST cycle 89: 920000 games; best win 19.9%, place 3.08, score 75.4; candidate 19.2% -> rejected
+- 7:54:54 PM CST cycle 90: 930000 games; best win 19.4%, place 3.08, score 75.2; candidate 19.1% -> rejected
+- 7:55:02 PM CST cycle 91: 940000 games; best win 19.1%, place 3.15, score 74.7; candidate 18.8% -> rejected
+- 7:55:09 PM CST cycle 92: 950000 games; best win 19.1%, place 3.12, score 74.8; candidate 19.1% -> KEPT fishMass 2->1, floorScale 0.685->0.68, shapeScale 1.49->1.647, dupMult1 0.61->0.596, dupMult2 0.611->0.696, reserveCap 22->24, fourCapOther 18->20
+- 7:55:18 PM CST cycle 93: 960000 games; best win 18.8%, place 3.11, score 75.3; candidate 18.8% -> rejected
+- 7:55:26 PM CST cycle 94: 970000 games; best win 19.7%, place 3.09, score 75.0; candidate 19.3% -> rejected
+- 7:55:37 PM CST cycle 95: 980000 games; best win 19.1%, place 3.11, score 75.0; candidate 17.5% -> rejected
+- 7:55:47 PM CST cycle 96: 990000 games; best win 19.5%, place 3.08, score 75.4; candidate 17.8% -> rejected
+- 7:55:57 PM CST cycle 97: 1000000 games; best win 20.3%, place 3.08, score 75.3; candidate 20.3% -> KEPT fishFourBag 0->1, hungerEarly 1.126->0.998, hungerMid 1.341->1.108, hungerLate 0.865->0.782, dupMult2 0.696->0.699, reserveFrac 0.309->0.325, fourCapBag 39->41, fourCapImproves 21->20
+- 7:56:07 PM CST cycle 98: 1010000 games; best win 20.4%, place 3.07, score 75.6; candidate 20.0% -> rejected
+- 7:56:16 PM CST cycle 99: 1020000 games; best win 19.7%, place 3.09, score 75.2; candidate 17.8% -> rejected
+- 7:56:25 PM CST cycle 100: 1030000 games; best win 20.5%, place 3.05, score 75.6; candidate 20.1% -> rejected
+- 7:56:33 PM CST cycle 101: 1040000 games; best win 19.7%, place 3.09, score 75.2; candidate 19.7% -> KEPT heldWordFrac 1.157->1.137, dupMult2 0.699->0.624, reserveCap 24->22, fourCapBag 41->38
+- 7:56:40 PM CST cycle 102: 1050000 games; best win 19.4%, place 3.09, score 75.5; candidate 18.9% -> rejected
+- 7:56:48 PM CST cycle 103: 1060000 games; best win 19.9%, place 3.09, score 75.3; candidate 19.9% -> KEPT hungerLate 0.782->0.769, jumpMult 1.605->1.574, vowelSatMult 0.84->0.803, reserveFrac 0.325->0.343
+- 7:56:58 PM CST cycle 104: 1070000 games; best win 19.1%, place 3.09, score 75.1; candidate 18.3% -> rejected
+- 7:57:07 PM CST cycle 105: 1080000 games; best win 19.6%, place 3.07, score 75.5; candidate 19.6% -> KEPT fishFourBag 1->2, floorScale 0.68->0.663, hungerMid 1.108->1.088, kickScale 0.331->0.264, vowelSatMult 0.803->0.848, consOnlyMult 0.403->0.493, reserveCap 22->21
+- 7:57:16 PM CST cycle 106: 1090000 games; best win 19.6%, place 3.12, score 75.0; candidate 19.6% -> KEPT fishMinBalance 6->9, fishGain 10->9, jumpMult 1.574->1.495, kickScale 0.264->0.22, consOnlyMult 0.493->0.492, dupMult1 0.596->0.556, reserveFrac 0.343->0.316, fourCapImproves 20->18
+- 7:57:25 PM CST cycle 107: 1100000 games; best win 19.8%, place 3.12, score 74.7; candidate 20.3% -> rejected
+- 7:57:33 PM CST cycle 108: 1110000 games; best win 19.0%, place 3.13, score 75.0; candidate 18.8% -> rejected
+- 7:57:40 PM CST cycle 109: 1120000 games; best win 18.7%, place 3.10, score 75.2; candidate 18.7% -> rejected
+- 7:57:48 PM CST cycle 110: 1130000 games; best win 20.2%, place 3.07, score 75.5; candidate 20.2% -> KEPT kickScale 0.22->0.212, heldWordFrac 1.137->1.129, vowelSatMult 0.848->0.865, dupMult1 0.556->0.567
+- 7:57:55 PM CST cycle 111: 1140000 games; best win 19.4%, place 3.11, score 75.0; candidate 19.0% -> rejected
+- 7:58:03 PM CST cycle 112: 1150000 games; best win 18.8%, place 3.12, score 75.1; candidate 18.5% -> rejected
+- 7:58:13 PM CST cycle 113: 1160000 games; best win 19.1%, place 3.08, score 75.5; candidate 19.0% -> rejected
+- 7:58:22 PM CST cycle 114: 1170000 games; best win 19.3%, place 3.13, score 75.0; candidate 18.0% -> rejected
+- 7:58:30 PM CST cycle 115: 1180000 games; best win 19.3%, place 3.11, score 74.8; candidate 18.6% -> rejected
+- 7:58:40 PM CST cycle 116: 1190000 games; best win 19.0%, place 3.14, score 74.7; candidate 15.7% -> rejected
+- 7:58:47 PM CST cycle 117: 1200000 games; best win 18.7%, place 3.14, score 74.9; candidate 18.5% -> rejected
+- 7:58:56 PM CST cycle 118: 1210000 games; best win 19.0%, place 3.11, score 74.9; candidate 19.5% -> rejected
+- 7:59:03 PM CST cycle 119: 1220000 games; best win 19.6%, place 3.11, score 75.3; candidate 19.4% -> rejected
+- 7:59:10 PM CST cycle 120: 1230000 games; best win 18.4%, place 3.13, score 74.6; candidate 18.8% -> rejected
+- 7:59:24 PM CST practice field (cycle 120, 10k games, weak official sims + FieldA + FieldB): win 79.8%, place 1.24, score 131.6
+- 7:59:32 PM CST cycle 121: 1250000 games; best win 19.4%, place 3.09, score 75.4; candidate 19.4% -> KEPT fishMinBalance 9->8, fishMaxReward 36->35, heldWordFrac 1.129->1.084, vowelSatMult 0.865->0.904, consOnlyMult 0.492->0.501, dupMult1 0.567->0.628, dupMult2 0.624->0.667, reserveFrac 0.316->0.306, reserveCap 21->23
+- 7:59:40 PM CST cycle 122: 1260000 games; best win 20.7%, place 3.05, score 76.1; candidate 20.7% -> KEPT fishFourBag 2->1, fishMassHigh 5->4, fishGain 9->7, hungerLate 0.769->0.688, kickScale 0.212->0.206, heldWordFrac 1.084->1.082, shapeScale 1.647->1.611, vowelSatMult 0.904->0.959, reserveFrac 0.306->0.276, reserveBag 19->20, fourCapOther 20->22
+- 7:59:47 PM CST cycle 123: 1270000 games; best win 20.6%, place 3.07, score 75.8; candidate 20.3% -> rejected
+- 7:59:58 PM CST cycle 124: 1280000 games; best win 20.6%, place 3.06, score 75.6; candidate 20.3% -> rejected
+- 8:00:05 PM CST cycle 125: 1290000 games; best win 19.5%, place 3.10, score 75.2; candidate 19.3% -> rejected
+- 8:00:16 PM CST cycle 126: 1300000 games; best win 19.0%, place 3.11, score 75.2; candidate 18.6% -> rejected
+- 8:00:24 PM CST cycle 127: 1310000 games; best win 21.0%, place 3.02, score 76.1; candidate 19.8% -> rejected
+- 8:00:31 PM CST cycle 128: 1320000 games; best win 20.7%, place 3.06, score 75.9; candidate 20.3% -> rejected
+- 8:00:40 PM CST cycle 129: 1330000 games; best win 20.0%, place 3.11, score 75.2; candidate 16.7% -> rejected
+- 8:00:51 PM CST cycle 130: 1340000 games; best win 21.6%, place 3.03, score 76.2; candidate 19.9% -> rejected
+- 8:01:00 PM CST cycle 131: 1350000 games; best win 20.2%, place 3.08, score 75.5; candidate 17.9% -> rejected
+- 8:01:10 PM CST cycle 132: 1360000 games; best win 20.1%, place 3.10, score 75.5; candidate 20.0% -> rejected
+- 8:01:18 PM CST cycle 133: 1370000 games; best win 20.5%, place 3.08, score 75.4; candidate 20.3% -> rejected
+- 8:01:28 PM CST cycle 134: 1380000 games; best win 19.5%, place 3.09, score 75.3; candidate 18.3% -> rejected
+- 8:01:36 PM CST cycle 135: 1390000 games; best win 20.2%, place 3.09, score 75.5; candidate 18.8% -> rejected
+- 8:01:45 PM CST cycle 136: 1400000 games; best win 20.2%, place 3.06, score 75.7; candidate 20.3% -> rejected
+- 8:01:53 PM CST cycle 137: 1410000 games; best win 19.7%, place 3.10, score 75.1; candidate 19.3% -> rejected
+- 8:02:01 PM CST cycle 138: 1420000 games; best win 19.2%, place 3.08, score 75.2; candidate 18.8% -> rejected
+- 8:02:11 PM CST cycle 139: 1430000 games; best win 18.9%, place 3.12, score 74.9; candidate 19.0% -> rejected
+- 8:02:19 PM CST cycle 140: 1440000 games; best win 19.8%, place 3.09, score 75.4; candidate 20.1% -> rejected
+- 8:02:26 PM CST cycle 141: 1450000 games; best win 19.1%, place 3.12, score 75.1; candidate 18.6% -> rejected
+- 8:02:36 PM CST cycle 142: 1460000 games; best win 21.1%, place 3.04, score 76.3; candidate 20.0% -> rejected
+- 8:02:46 PM CST cycle 143: 1470000 games; best win 19.7%, place 3.09, score 75.3; candidate 19.9% -> rejected
+- 8:02:54 PM CST cycle 144: 1480000 games; best win 20.0%, place 3.09, score 75.3; candidate 20.0% -> KEPT fishMassHigh 4->6, heldWordFrac 1.082->1.105, reserveFrac 0.276->0.279, fourCapImproves 18->19
+- 8:03:02 PM CST cycle 145: 1490000 games; best win 20.6%, place 3.08, score 75.6; candidate 19.7% -> rejected
+- 8:03:12 PM CST cycle 146: 1500000 games; best win 19.6%, place 3.07, score 75.4; candidate 19.1% -> rejected
+- 8:03:21 PM CST cycle 147: 1510000 games; best win 20.0%, place 3.08, score 75.3; candidate 19.1% -> rejected
+- 8:03:29 PM CST cycle 148: 1520000 games; best win 20.5%, place 3.06, score 75.9; candidate 19.9% -> rejected
+- 8:03:39 PM CST cycle 149: 1530000 games; best win 19.8%, place 3.07, score 75.7; candidate 19.1% -> rejected
+- 8:03:47 PM CST cycle 150: 1540000 games; best win 19.9%, place 3.06, score 75.5; candidate 19.4% -> rejected
+- 8:03:54 PM CST cycle 151: 1550000 games; best win 19.4%, place 3.08, score 75.2; candidate 19.4% -> KEPT fishGain 7->8, hungerLate 0.688->0.724, kickScale 0.206->0.235, heldWordFrac 1.105->1.124, reserveFrac 0.279->0.272, reserveCap 23->20, fourCapBag 38->40
+- 8:04:02 PM CST cycle 152: 1560000 games; best win 20.1%, place 3.05, score 75.8; candidate 19.4% -> rejected
+- 8:04:09 PM CST cycle 153: 1570000 games; best win 20.0%, place 3.09, score 75.4; candidate 19.9% -> rejected
+- 8:04:19 PM CST cycle 154: 1580000 games; best win 20.1%, place 3.09, score 75.7; candidate 19.2% -> rejected
+- 8:04:30 PM CST cycle 155: 1590000 games; best win 20.8%, place 3.03, score 76.0; candidate 20.5% -> rejected
+- 8:04:40 PM CST cycle 156: 1600000 games; best win 19.5%, place 3.09, score 75.4; candidate 19.0% -> rejected
+- 8:04:47 PM CST cycle 157: 1610000 games; best win 20.5%, place 3.06, score 75.8; candidate 20.4% -> rejected
+- 8:04:55 PM CST cycle 158: 1620000 games; best win 20.8%, place 3.08, score 75.8; candidate 20.7% -> rejected
+- 8:05:04 PM CST cycle 159: 1630000 games; best win 19.9%, place 3.11, score 75.0; candidate 19.6% -> rejected
+- 8:05:12 PM CST cycle 160: 1640000 games; best win 19.7%, place 3.07, score 75.6; candidate 19.5% -> rejected
+- 8:05:25 PM CST practice field (cycle 160, 10k games, weak official sims + FieldA + FieldB): win 78.8%, place 1.26, score 131.6
+- 8:05:33 PM CST cycle 161: 1660000 games; best win 21.1%, place 3.04, score 76.0; candidate 20.8% -> rejected
+- 8:05:40 PM CST cycle 162: 1670000 games; best win 20.3%, place 3.06, score 75.7; candidate 20.3% -> rejected
+- 8:05:50 PM CST cycle 163: 1680000 games; best win 19.8%, place 3.07, score 75.7; candidate 20.1% -> rejected
+- 8:05:57 PM CST cycle 164: 1690000 games; best win 20.1%, place 3.09, score 75.7; candidate 19.7% -> rejected
+- 8:06:05 PM CST cycle 165: 1700000 games; best win 20.0%, place 3.08, score 75.4; candidate 19.6% -> rejected
+- 8:06:13 PM CST cycle 166: 1710000 games; best win 19.7%, place 3.07, score 75.4; candidate 19.4% -> rejected
+- 8:06:22 PM CST cycle 167: 1720000 games; best win 20.9%, place 3.06, score 75.6; candidate 20.4% -> rejected
+- 8:06:30 PM CST cycle 168: 1730000 games; best win 18.6%, place 3.13, score 75.0; candidate 18.6% -> rejected
