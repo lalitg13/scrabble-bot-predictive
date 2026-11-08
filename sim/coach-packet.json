@@ -1,5 +1,5 @@
 {
- "createdAt": "2026-11-08T04:49:49.764Z",
+ "createdAt": "2026-11-08T05:09:42.583Z",
  "summary": {
   "heuristic": {
    "games": 480,
@@ -5839,2425 +5839,6 @@
  },
  "liveOurGames": [
   {
-   "match": "47415",
-   "score": 103,
-   "leftover": 27,
-   "words": [
-    "JEBEL",
-    "WIPING",
-    "BEAUISH",
-    "DAGO"
-   ],
-   "bigBids": [
-    {
-     "bag": 67,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 15,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 62,
-     "letter": "V",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 54,
-     "letter": "Z",
-     "bal": 94,
-     "hBid": 23,
-     "bid": 31,
-     "raw": 94,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 53,
-     "letter": "B",
-     "bal": 94,
-     "hBid": 11,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 48,
-     "letter": "K",
-     "bal": 85,
-     "hBid": 8,
-     "bid": 16,
-     "raw": 17,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 46,
-     "letter": "X",
-     "bal": 85,
-     "hBid": 12,
-     "bid": 20,
-     "raw": 56,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 36,
-     "letter": "V",
-     "bal": 81,
-     "hBid": 10,
-     "bid": 18,
-     "raw": 20,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 31,
-     "letter": "L",
-     "bal": 81,
-     "hBid": 13,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 28,
-     "letter": "O",
-     "bal": 99,
-     "hBid": 21,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 26,
-     "letter": "G",
-     "bal": 95,
-     "hBid": 21,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 23,
-     "letter": "W",
-     "bal": 83,
-     "hBid": 24,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 22,
-     "letter": "A",
-     "bal": 65,
-     "hBid": 15,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 21,
-     "letter": "U",
-     "bal": 88,
-     "hBid": 21,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 2,
-     "improves": false
-    },
-    {
-     "bag": 20,
-     "letter": "H",
-     "bal": 82,
-     "hBid": 27,
-     "bid": 35,
-     "raw": 42,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 19,
-     "letter": "B",
-     "bal": 61,
-     "hBid": 20,
-     "bid": 28,
-     "raw": 29,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 18,
-     "letter": "S",
-     "bal": 42,
-     "hBid": 18,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 17,
-     "letter": "E",
-     "bal": 34,
-     "hBid": 25,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "D",
-     "bal": 26,
-     "hBid": 14,
-     "bid": 20,
-     "raw": 20,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "G",
-     "bal": 50,
-     "hBid": 20,
-     "bid": 22,
-     "raw": 22,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 14,
-     "letter": "M",
-     "bal": 37,
-     "hBid": 12,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "T",
-     "bal": 37,
-     "hBid": 12,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 10,
-     "letter": "E",
-     "bal": 37,
-     "hBid": 19,
-     "bid": 24,
-     "raw": 24,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "A",
-     "bal": 37,
-     "hBid": 18,
-     "bid": 22,
-     "raw": 22,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 6,
-     "letter": "Y",
-     "bal": 30,
-     "hBid": 5,
-     "bid": 13,
-     "raw": 15,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 5,
-     "letter": "M",
-     "bal": 30,
-     "hBid": 5,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 4,
-     "letter": "A",
-     "bal": 30,
-     "hBid": 5,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 3,
-     "letter": "O",
-     "bal": 30,
-     "hBid": 5,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 2,
-     "letter": "D",
-     "bal": 30,
-     "hBid": 5,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47433",
-   "score": 101,
-   "leftover": 12,
-   "words": [
-    "JIVED",
-    "BATHING",
-    "FOMITE",
-    "RIN"
-   ],
-   "bigBids": [
-    {
-     "bag": 67,
-     "letter": "V",
-     "bal": 100,
-     "hBid": 21,
-     "bid": 26,
-     "raw": 26,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 52,
-     "letter": "W",
-     "bal": 111,
-     "hBid": 14,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 49,
-     "letter": "K",
-     "bal": 111,
-     "hBid": 13,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 47,
-     "letter": "X",
-     "bal": 111,
-     "hBid": 15,
-     "bid": 23,
-     "raw": 63,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 44,
-     "letter": "I",
-     "bal": 107,
-     "hBid": 14,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 43,
-     "letter": "M",
-     "bal": 102,
-     "hBid": 14,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 29,
-     "letter": "Q",
-     "bal": 88,
-     "hBid": 19,
-     "bid": 27,
-     "raw": 72,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 26,
-     "letter": "L",
-     "bal": 88,
-     "hBid": 19,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 25,
-     "letter": "B",
-     "bal": 88,
-     "hBid": 19,
-     "bid": 21,
-     "raw": 21,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 23,
-     "letter": "H",
-     "bal": 73,
-     "hBid": 20,
-     "bid": 25,
-     "raw": 29,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 21,
-     "letter": "G",
-     "bal": 51,
-     "hBid": 25,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 20,
-     "letter": "E",
-     "bal": 40,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 23,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 19,
-     "letter": "V",
-     "bal": 79,
-     "hBid": 15,
-     "bid": 20,
-     "raw": 20,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 18,
-     "letter": "I",
-     "bal": 79,
-     "hBid": 26,
-     "bid": 33,
-     "raw": 33,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 17,
-     "letter": "E",
-     "bal": 70,
-     "hBid": 17,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 2,
-     "improves": false
-    },
-    {
-     "bag": 16,
-     "letter": "T",
-     "bal": 57,
-     "hBid": 19,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "O",
-     "bal": 47,
-     "hBid": 15,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 14,
-     "letter": "F",
-     "bal": 39,
-     "hBid": 31,
-     "bid": 31,
-     "raw": 27,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "A",
-     "bal": 39,
-     "hBid": 6,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 11,
-     "letter": "W",
-     "bal": 39,
-     "hBid": 6,
-     "bid": 14,
-     "raw": 15,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 10,
-     "letter": "I",
-     "bal": 39,
-     "hBid": 6,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 9,
-     "letter": "N",
-     "bal": 31,
-     "hBid": 15,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 8,
-     "letter": "O",
-     "bal": 22,
-     "hBid": 11,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 7,
-     "letter": "R",
-     "bal": 22,
-     "hBid": 11,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 1,
-     "letter": "H",
-     "bal": 14,
-     "hBid": 2,
-     "bid": 10,
-     "raw": 11,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47451",
-   "score": 54,
-   "leftover": 18,
-   "words": [
-    "MANNITE",
-    "GOVERN",
-    "ET"
-   ],
-   "bigBids": [
-    {
-     "bag": 38,
-     "letter": "Z",
-     "bal": 92,
-     "hBid": 27,
-     "bid": 32,
-     "raw": 92,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 28,
-     "letter": "H",
-     "bal": 92,
-     "hBid": 23,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 26,
-     "letter": "V",
-     "bal": 92,
-     "hBid": 23,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 18,
-     "letter": "T",
-     "bal": 92,
-     "hBid": 38,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 17,
-     "letter": "E",
-     "bal": 81,
-     "hBid": 13,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 16,
-     "letter": "E",
-     "bal": 97,
-     "hBid": 19,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 15,
-     "letter": "V",
-     "bal": 83,
-     "hBid": 28,
-     "bid": 36,
-     "raw": 42,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 13,
-     "letter": "O",
-     "bal": 66,
-     "hBid": 21,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 12,
-     "letter": "G",
-     "bal": 56,
-     "hBid": 30,
-     "bid": 34,
-     "raw": 34,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "N",
-     "bal": 44,
-     "hBid": 24,
-     "bid": 28,
-     "raw": 28,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 10,
-     "letter": "F",
-     "bal": 31,
-     "hBid": 10,
-     "bid": 18,
-     "raw": 19,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 9,
-     "letter": "R",
-     "bal": 31,
-     "hBid": 20,
-     "bid": 20,
-     "raw": 10,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 6,
-     "letter": "T",
-     "bal": 41,
-     "hBid": 41,
-     "bid": 41,
-     "raw": 41,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 3,
-     "letter": "P",
-     "bal": 18,
-     "hBid": 3,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47469",
-   "score": 77,
-   "leftover": 21,
-   "words": [
-    "BOOGER",
-    "COQUET",
-    "BODE",
-    "DE"
-   ],
-   "bigBids": [
-    {
-     "bag": 55,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 11,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 51,
-     "letter": "Z",
-     "bal": 93,
-     "hBid": 33,
-     "bid": 33,
-     "raw": 93,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 50,
-     "letter": "X",
-     "bal": 93,
-     "hBid": 27,
-     "bid": 32,
-     "raw": 89,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 42,
-     "letter": "Y",
-     "bal": 93,
-     "hBid": 43,
-     "bid": 24,
-     "raw": 24,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 41,
-     "letter": "M",
-     "bal": 93,
-     "hBid": 35,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 34,
-     "letter": "W",
-     "bal": 93,
-     "hBid": 17,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 32,
-     "letter": "H",
-     "bal": 93,
-     "hBid": 38,
-     "bid": 22,
-     "raw": 22,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 25,
-     "letter": "V",
-     "bal": 80,
-     "hBid": 16,
-     "bid": 23,
-     "raw": 23,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 24,
-     "letter": "E",
-     "bal": 102,
-     "hBid": 16,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 23,
-     "letter": "O",
-     "bal": 92,
-     "hBid": 22,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 22,
-     "letter": "U",
-     "bal": 85,
-     "hBid": 22,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 21,
-     "letter": "D",
-     "bal": 74,
-     "hBid": 20,
-     "bid": 24,
-     "raw": 24,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 20,
-     "letter": "B",
-     "bal": 61,
-     "hBid": 17,
-     "bid": 24,
-     "raw": 24,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 19,
-     "letter": "T",
-     "bal": 41,
-     "hBid": 13,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 18,
-     "letter": "W",
-     "bal": 29,
-     "hBid": 8,
-     "bid": 16,
-     "raw": 21,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "F",
-     "bal": 29,
-     "hBid": 17,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "P",
-     "bal": 29,
-     "hBid": 12,
-     "bid": 12,
-     "raw": 11,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 14,
-     "letter": "I",
-     "bal": 29,
-     "hBid": 12,
-     "bid": 12,
-     "raw": 5,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 13,
-     "letter": "F",
-     "bal": 29,
-     "hBid": 17,
-     "bid": 17,
-     "raw": 16,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "Q",
-     "bal": 29,
-     "hBid": 29,
-     "bid": 29,
-     "raw": 29,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "L",
-     "bal": 20,
-     "hBid": 10,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 10,
-     "letter": "H",
-     "bal": 62,
-     "hBid": 31,
-     "bid": 39,
-     "raw": 41,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "O",
-     "bal": 62,
-     "hBid": 31,
-     "bid": 33,
-     "raw": 33,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 8,
-     "letter": "I",
-     "bal": 45,
-     "hBid": 7,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 7,
-     "letter": "R",
-     "bal": 55,
-     "hBid": 9,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 6,
-     "letter": "A",
-     "bal": 55,
-     "hBid": 9,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 5,
-     "letter": "I",
-     "bal": 55,
-     "hBid": 9,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 4,
-     "letter": "D",
-     "bal": 55,
-     "hBid": 9,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 3,
-     "letter": "E",
-     "bal": 42,
-     "hBid": 42,
-     "bid": 42,
-     "raw": 42,
-     "lenAfter": 2,
-     "improves": true
-    }
-   ]
-  },
-  {
-   "match": "47490",
-   "score": 62,
-   "leftover": 18,
-   "words": [
-    "EDACITY",
-    "AUREOLA",
-    "IT"
-   ],
-   "bigBids": [
-    {
-     "bag": 65,
-     "letter": "Q",
-     "bal": 100,
-     "hBid": 23,
-     "bid": 31,
-     "raw": 93,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 60,
-     "letter": "C",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 45,
-     "letter": "W",
-     "bal": 100,
-     "hBid": 14,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 44,
-     "letter": "X",
-     "bal": 100,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 55,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 42,
-     "letter": "D",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 41,
-     "letter": "M",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 39,
-     "letter": "E",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 38,
-     "letter": "E",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 36,
-     "letter": "D",
-     "bal": 88,
-     "hBid": 16,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 31,
-     "letter": "I",
-     "bal": 74,
-     "hBid": 29,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 30,
-     "letter": "E",
-     "bal": 64,
-     "hBid": 12,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 29,
-     "letter": "O",
-     "bal": 103,
-     "hBid": 20,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 28,
-     "letter": "I",
-     "bal": 103,
-     "hBid": 20,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 26,
-     "letter": "H",
-     "bal": 95,
-     "hBid": 21,
-     "bid": 29,
-     "raw": 34,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 25,
-     "letter": "R",
-     "bal": 95,
-     "hBid": 19,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 24,
-     "letter": "E",
-     "bal": 83,
-     "hBid": 20,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 22,
-     "letter": "L",
-     "bal": 70,
-     "hBid": 20,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 21,
-     "letter": "K",
-     "bal": 53,
-     "hBid": 18,
-     "bid": 18,
-     "raw": 35,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 20,
-     "letter": "F",
-     "bal": 53,
-     "hBid": 28,
-     "bid": 21,
-     "raw": 21,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 19,
-     "letter": "H",
-     "bal": 53,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 24,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 17,
-     "letter": "O",
-     "bal": 53,
-     "hBid": 18,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "W",
-     "bal": 40,
-     "hBid": 15,
-     "bid": 23,
-     "raw": 26,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 14,
-     "letter": "R",
-     "bal": 40,
-     "hBid": 10,
-     "bid": 10,
-     "raw": 0,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 13,
-     "letter": "P",
-     "bal": 40,
-     "hBid": 15,
-     "bid": 22,
-     "raw": 22,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "A",
-     "bal": 40,
-     "hBid": 13,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 11,
-     "letter": "Z",
-     "bal": 29,
-     "hBid": 29,
-     "bid": 29,
-     "raw": 29,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 10,
-     "letter": "A",
-     "bal": 29,
-     "hBid": 18,
-     "bid": 18,
-     "raw": 2,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "P",
-     "bal": 12,
-     "hBid": 10,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 8,
-     "letter": "T",
-     "bal": 33,
-     "hBid": 16,
-     "bid": 20,
-     "raw": 20,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 7,
-     "letter": "A",
-     "bal": 16,
-     "hBid": 9,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 3,
-     "improves": true
-    }
-   ]
-  },
-  {
-   "match": "47507",
-   "score": 30,
-   "leftover": 46,
-   "words": [
-    "PLEURA",
-    "TAINT"
-   ],
-   "bigBids": [
-    {
-     "bag": 56,
-     "letter": "W",
-     "bal": 100,
-     "hBid": 11,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 51,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 12,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 50,
-     "letter": "F",
-     "bal": 100,
-     "hBid": 13,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 48,
-     "letter": "H",
-     "bal": 100,
-     "hBid": 14,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 47,
-     "letter": "R",
-     "bal": 100,
-     "hBid": 17,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 46,
-     "letter": "W",
-     "bal": 89,
-     "hBid": 12,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 25,
-     "letter": "V",
-     "bal": 89,
-     "hBid": 35,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 7,
-     "improves": true
-    },
-    {
-     "bag": 20,
-     "letter": "B",
-     "bal": 89,
-     "hBid": 28,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 18,
-     "letter": "D",
-     "bal": 89,
-     "hBid": 37,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "P",
-     "bal": 89,
-     "hBid": 37,
-     "bid": 37,
-     "raw": 15,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "F",
-     "bal": 64,
-     "hBid": 12,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 14,
-     "letter": "T",
-     "bal": 84,
-     "hBid": 16,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 13,
-     "letter": "H",
-     "bal": 75,
-     "hBid": 18,
-     "bid": 26,
-     "raw": 27,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 12,
-     "letter": "I",
-     "bal": 75,
-     "hBid": 37,
-     "bid": 44,
-     "raw": 44,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "A",
-     "bal": 66,
-     "hBid": 22,
-     "bid": 21,
-     "raw": 21,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 10,
-     "letter": "N",
-     "bal": 55,
-     "hBid": 30,
-     "bid": 30,
-     "raw": 30,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "X",
-     "bal": 36,
-     "hBid": 20,
-     "bid": 28,
-     "raw": 36,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 8,
-     "letter": "P",
-     "bal": 36,
-     "hBid": 20,
-     "bid": 27,
-     "raw": 27,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 7,
-     "letter": "Y",
-     "bal": 36,
-     "hBid": 20,
-     "bid": 28,
-     "raw": 32,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 6,
-     "letter": "I",
-     "bal": 36,
-     "hBid": 6,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 5,
-     "letter": "I",
-     "bal": 36,
-     "hBid": 6,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 1,
-     "letter": "I",
-     "bal": 46,
-     "hBid": 7,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47524",
-   "score": 32,
-   "leftover": 17,
-   "words": [
-    "GUINEA",
-    "VIBE",
-    "NO"
-   ],
-   "bigBids": [
-    {
-     "bag": 62,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 56,
-     "letter": "W",
-     "bal": 100,
-     "hBid": 11,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 50,
-     "letter": "M",
-     "bal": 100,
-     "hBid": 12,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 47,
-     "letter": "G",
-     "bal": 100,
-     "hBid": 14,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 40,
-     "letter": "Q",
-     "bal": 100,
-     "hBid": 33,
-     "bid": 35,
-     "raw": 100,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 34,
-     "letter": "G",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 33,
-     "letter": "O",
-     "bal": 88,
-     "hBid": 16,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 5,
-     "improves": false
-    },
-    {
-     "bag": 32,
-     "letter": "J",
-     "bal": 88,
-     "hBid": 16,
-     "bid": 24,
-     "raw": 69,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 24,
-     "letter": "I",
-     "bal": 88,
-     "hBid": 24,
-     "bid": 19,
-     "raw": 19,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 23,
-     "letter": "H",
-     "bal": 76,
-     "hBid": 15,
-     "bid": 20,
-     "raw": 20,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 22,
-     "letter": "R",
-     "bal": 93,
-     "hBid": 18,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 21,
-     "letter": "O",
-     "bal": 93,
-     "hBid": 23,
-     "bid": 28,
-     "raw": 28,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 20,
-     "letter": "I",
-     "bal": 75,
-     "hBid": 19,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 19,
-     "letter": "I",
-     "bal": 75,
-     "hBid": 19,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 18,
-     "letter": "V",
-     "bal": 62,
-     "hBid": 20,
-     "bid": 28,
-     "raw": 28,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 17,
-     "letter": "S",
-     "bal": 39,
-     "hBid": 14,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "Y",
-     "bal": 39,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 27,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "R",
-     "bal": 39,
-     "hBid": 14,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 14,
-     "letter": "F",
-     "bal": 39,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 26,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 13,
-     "letter": "K",
-     "bal": 39,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 30,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "Z",
-     "bal": 39,
-     "hBid": 21,
-     "bid": 29,
-     "raw": 39,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "I",
-     "bal": 39,
-     "hBid": 13,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 10,
-     "letter": "E",
-     "bal": 39,
-     "hBid": 21,
-     "bid": 26,
-     "raw": 26,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "V",
-     "bal": 23,
-     "hBid": 8,
-     "bid": 16,
-     "raw": 18,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 7,
-     "letter": "B",
-     "bal": 23,
-     "hBid": 7,
-     "bid": 13,
-     "raw": 13,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 6,
-     "letter": "H",
-     "bal": 23,
-     "hBid": 23,
-     "bid": 23,
-     "raw": 23,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 5,
-     "letter": "S",
-     "bal": 23,
-     "hBid": 23,
-     "bid": 23,
-     "raw": 23,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 4,
-     "letter": "U",
-     "bal": 36,
-     "hBid": 7,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 3,
-     "letter": "N",
-     "bal": 36,
-     "hBid": 36,
-     "bid": 36,
-     "raw": 36,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 1,
-     "letter": "W",
-     "bal": 23,
-     "hBid": 3,
-     "bid": 11,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47540",
-   "score": 44,
-   "leftover": 51,
-   "words": [
-    "BEWEPT",
-    "KENO"
-   ],
-   "bigBids": [
-    {
-     "bag": 65,
-     "letter": "H",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 64,
-     "letter": "H",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 54,
-     "letter": "F",
-     "bal": 100,
-     "hBid": 12,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 44,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 21,
-     "raw": 21,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 42,
-     "letter": "I",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 38,
-     "letter": "P",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 37,
-     "letter": "R",
-     "bal": 100,
-     "hBid": 16,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 36,
-     "letter": "V",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 34,
-     "letter": "P",
-     "bal": 100,
-     "hBid": 18,
-     "bid": 16,
-     "raw": 16,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 33,
-     "letter": "R",
-     "bal": 85,
-     "hBid": 15,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 32,
-     "letter": "Z",
-     "bal": 85,
-     "hBid": 15,
-     "bid": 23,
-     "raw": 65,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 29,
-     "letter": "K",
-     "bal": 85,
-     "hBid": 19,
-     "bid": 27,
-     "raw": 37,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 21,
-     "letter": "F",
-     "bal": 58,
-     "hBid": 10,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 20,
-     "letter": "U",
-     "bal": 58,
-     "hBid": 10,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 18,
-     "letter": "O",
-     "bal": 58,
-     "hBid": 14,
-     "bid": 20,
-     "raw": 20,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "X",
-     "bal": 58,
-     "hBid": 14,
-     "bid": 22,
-     "raw": 58,
-     "lenAfter": 4,
-     "improves": false
-    },
-    {
-     "bag": 15,
-     "letter": "T",
-     "bal": 58,
-     "hBid": 28,
-     "bid": 28,
-     "raw": 7,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 14,
-     "letter": "T",
-     "bal": 41,
-     "hBid": 10,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 13,
-     "letter": "E",
-     "bal": 73,
-     "hBid": 25,
-     "bid": 33,
-     "raw": 37,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "O",
-     "bal": 57,
-     "hBid": 28,
-     "bid": 32,
-     "raw": 32,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 11,
-     "letter": "D",
-     "bal": 41,
-     "hBid": 6,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 10,
-     "letter": "O",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 9,
-     "letter": "A",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 8,
-     "letter": "I",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 7,
-     "letter": "A",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 6,
-     "letter": "I",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 5,
-     "letter": "C",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 15,
-     "raw": 15,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 4,
-     "letter": "E",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 3,
-     "letter": "E",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 2,
-     "letter": "U",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 1,
-     "letter": "O",
-     "bal": 53,
-     "hBid": 8,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
-   "match": "47556",
-   "score": 49,
-   "leftover": 17,
-   "words": [
-    "HEROIN",
-    "JAWS",
-    "LUTE"
-   ],
-   "bigBids": [
-    {
-     "bag": 64,
-     "letter": "Y",
-     "bal": 100,
-     "hBid": 11,
-     "bid": 11,
-     "raw": 11,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 59,
-     "letter": "N",
-     "bal": 100,
-     "hBid": 24,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 58,
-     "letter": "T",
-     "bal": 100,
-     "hBid": 20,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 55,
-     "letter": "N",
-     "bal": 100,
-     "hBid": 23,
-     "bid": 17,
-     "raw": 17,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 37,
-     "letter": "Y",
-     "bal": 91,
-     "hBid": 14,
-     "bid": 18,
-     "raw": 18,
-     "lenAfter": 5,
-     "improves": true
-    },
-    {
-     "bag": 29,
-     "letter": "H",
-     "bal": 91,
-     "hBid": 23,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 26,
-     "letter": "V",
-     "bal": 91,
-     "hBid": 23,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 21,
-     "letter": "B",
-     "bal": 91,
-     "hBid": 29,
-     "bid": 12,
-     "raw": 12,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 18,
-     "letter": "H",
-     "bal": 91,
-     "hBid": 38,
-     "bid": 24,
-     "raw": 24,
-     "lenAfter": 6,
-     "improves": true
-    },
-    {
-     "bag": 17,
-     "letter": "E",
-     "bal": 75,
-     "hBid": 25,
-     "bid": 22,
-     "raw": 22,
-     "lenAfter": 2,
-     "improves": true
-    },
-    {
-     "bag": 16,
-     "letter": "U",
-     "bal": 89,
-     "hBid": 29,
-     "bid": 29,
-     "raw": 22,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 15,
-     "letter": "L",
-     "bal": 81,
-     "hBid": 27,
-     "bid": 23,
-     "raw": 23,
-     "lenAfter": 3,
-     "improves": false
-    },
-    {
-     "bag": 14,
-     "letter": "S",
-     "bal": 70,
-     "hBid": 25,
-     "bid": 25,
-     "raw": 21,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 13,
-     "letter": "J",
-     "bal": 54,
-     "hBid": 20,
-     "bid": 28,
-     "raw": 54,
-     "lenAfter": 3,
-     "improves": true
-    },
-    {
-     "bag": 12,
-     "letter": "W",
-     "bal": 26,
-     "hBid": 16,
-     "bid": 24,
-     "raw": 26,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 10,
-     "letter": "P",
-     "bal": 25,
-     "hBid": 12,
-     "bid": 20,
-     "raw": 21,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 9,
-     "letter": "T",
-     "bal": 25,
-     "hBid": 12,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 8,
-     "letter": "I",
-     "bal": 25,
-     "hBid": 12,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 7,
-     "letter": "T",
-     "bal": 25,
-     "hBid": 12,
-     "bid": 14,
-     "raw": 14,
-     "lenAfter": 4,
-     "improves": true
-    },
-    {
-     "bag": 4,
-     "letter": "F",
-     "bal": 20,
-     "hBid": 3,
-     "bid": 11,
-     "raw": 12,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 3,
-     "letter": "B",
-     "bal": 20,
-     "hBid": 3,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    },
-    {
-     "bag": 2,
-     "letter": "M",
-     "bal": 20,
-     "hBid": 3,
-     "bid": 10,
-     "raw": 10,
-     "lenAfter": 0,
-     "improves": false
-    }
-   ]
-  },
-  {
    "match": "47572",
    "score": 90,
    "leftover": 10,
@@ -8566,6 +6147,2628 @@
      "raw": 10,
      "lenAfter": 0,
      "improves": false
+    }
+   ]
+  },
+  {
+   "match": "47588",
+   "score": 44,
+   "leftover": 9,
+   "words": [
+    "ROTATE",
+    "ROIL",
+    "FAKE",
+    "NU",
+    "YE"
+   ],
+   "bigBids": [
+    {
+     "bag": 57,
+     "letter": "J",
+     "bal": 100,
+     "hBid": 11,
+     "bid": 19,
+     "raw": 47,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 40,
+     "letter": "P",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 39,
+     "letter": "O",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 38,
+     "letter": "O",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 36,
+     "letter": "Z",
+     "bal": 100,
+     "hBid": 18,
+     "bid": 26,
+     "raw": 76,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 34,
+     "letter": "O",
+     "bal": 100,
+     "hBid": 18,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 22,
+     "letter": "V",
+     "bal": 92,
+     "hBid": 29,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 20,
+     "letter": "M",
+     "bal": 92,
+     "hBid": 29,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 19,
+     "letter": "H",
+     "bal": 92,
+     "hBid": 29,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 18,
+     "letter": "A",
+     "bal": 92,
+     "hBid": 38,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "O",
+     "bal": 95,
+     "hBid": 32,
+     "bid": 34,
+     "raw": 34,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "R",
+     "bal": 86,
+     "hBid": 21,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 2,
+     "improves": false
+    },
+    {
+     "bag": 14,
+     "letter": "I",
+     "bal": 77,
+     "hBid": 26,
+     "bid": 26,
+     "raw": 24,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "K",
+     "bal": 68,
+     "hBid": 11,
+     "bid": 19,
+     "raw": 22,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 12,
+     "letter": "F",
+     "bal": 64,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 11,
+     "letter": "S",
+     "bal": 52,
+     "hBid": 13,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 10,
+     "letter": "E",
+     "bal": 52,
+     "hBid": 26,
+     "bid": 34,
+     "raw": 42,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "A",
+     "bal": 42,
+     "hBid": 21,
+     "bid": 28,
+     "raw": 28,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 6,
+     "letter": "B",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 5,
+     "letter": "D",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 4,
+     "letter": "Y",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 14,
+     "raw": 15,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 3,
+     "letter": "U",
+     "bal": 34,
+     "hBid": 6,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 2,
+     "letter": "N",
+     "bal": 24,
+     "hBid": 24,
+     "bid": 24,
+     "raw": 24,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 1,
+     "letter": "E",
+     "bal": 16,
+     "hBid": 16,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 2,
+     "improves": true
+    }
+   ]
+  },
+  {
+   "match": "47602",
+   "score": 92,
+   "leftover": 9,
+   "words": [
+    "QUAINT",
+    "FILEMOT",
+    "GLUIER",
+    "AN"
+   ],
+   "bigBids": [
+    {
+     "bag": 66,
+     "letter": "J",
+     "bal": 100,
+     "hBid": 20,
+     "bid": 28,
+     "raw": 75,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 56,
+     "letter": "Y",
+     "bal": 100,
+     "hBid": 11,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 54,
+     "letter": "Y",
+     "bal": 100,
+     "hBid": 12,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 44,
+     "letter": "N",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 43,
+     "letter": "G",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 41,
+     "letter": "N",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 38,
+     "letter": "W",
+     "bal": 90,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 37,
+     "letter": "E",
+     "bal": 90,
+     "hBid": 14,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 35,
+     "letter": "Z",
+     "bal": 90,
+     "hBid": 16,
+     "bid": 24,
+     "raw": 74,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 33,
+     "letter": "M",
+     "bal": 90,
+     "hBid": 16,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 30,
+     "letter": "K",
+     "bal": 79,
+     "hBid": 21,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 29,
+     "letter": "Q",
+     "bal": 79,
+     "hBid": 32,
+     "bid": 79,
+     "raw": 79,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "U",
+     "bal": 55,
+     "hBid": 19,
+     "bid": 19,
+     "raw": 28,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 27,
+     "letter": "M",
+     "bal": 86,
+     "hBid": 11,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 26,
+     "letter": "L",
+     "bal": 86,
+     "hBid": 17,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 25,
+     "letter": "O",
+     "bal": 77,
+     "hBid": 18,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "E",
+     "bal": 66,
+     "hBid": 18,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 22,
+     "letter": "T",
+     "bal": 58,
+     "hBid": 16,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 21,
+     "letter": "S",
+     "bal": 44,
+     "hBid": 29,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 20,
+     "letter": "P",
+     "bal": 44,
+     "hBid": 13,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 19,
+     "letter": "I",
+     "bal": 44,
+     "hBid": 28,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 17,
+     "letter": "E",
+     "bal": 70,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 16,
+     "letter": "I",
+     "bal": 60,
+     "hBid": 15,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 15,
+     "letter": "G",
+     "bal": 49,
+     "hBid": 20,
+     "bid": 23,
+     "raw": 23,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "L",
+     "bal": 39,
+     "hBid": 18,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "N",
+     "bal": 33,
+     "hBid": 11,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 11,
+     "letter": "R",
+     "bal": 22,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 3,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 8,
+     "letter": "E",
+     "bal": 25,
+     "hBid": 19,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 7,
+     "letter": "O",
+     "bal": 25,
+     "hBid": 19,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 5,
+     "letter": "A",
+     "bal": 25,
+     "hBid": 25,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    }
+   ]
+  },
+  {
+   "match": "47611",
+   "score": 73,
+   "leftover": 19,
+   "words": [
+    "CORRUPT",
+    "WHARVE",
+    "SOL"
+   ],
+   "bigBids": [
+    {
+     "bag": 63,
+     "letter": "K",
+     "bal": 100,
+     "hBid": 10,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 53,
+     "letter": "M",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 46,
+     "letter": "B",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 40,
+     "letter": "Y",
+     "bal": 96,
+     "hBid": 16,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 31,
+     "letter": "I",
+     "bal": 96,
+     "hBid": 17,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 29,
+     "letter": "C",
+     "bal": 96,
+     "hBid": 21,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "V",
+     "bal": 81,
+     "hBid": 12,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 27,
+     "letter": "P",
+     "bal": 71,
+     "hBid": 32,
+     "bid": 22,
+     "raw": 22,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 26,
+     "letter": "E",
+     "bal": 54,
+     "hBid": 23,
+     "bid": 23,
+     "raw": 36,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 24,
+     "letter": "A",
+     "bal": 65,
+     "hBid": 16,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "H",
+     "bal": 51,
+     "hBid": 18,
+     "bid": 18,
+     "raw": 33,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 22,
+     "letter": "O",
+     "bal": 35,
+     "hBid": 10,
+     "bid": 12,
+     "raw": 14,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 19,
+     "letter": "P",
+     "bal": 25,
+     "hBid": 7,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 17,
+     "letter": "W",
+     "bal": 25,
+     "hBid": 25,
+     "bid": 24,
+     "raw": 24,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 14,
+     "letter": "F",
+     "bal": 44,
+     "hBid": 17,
+     "bid": 25,
+     "raw": 32,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "L",
+     "bal": 44,
+     "hBid": 16,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "T",
+     "bal": 28,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 11,
+     "letter": "S",
+     "bal": 28,
+     "hBid": 15,
+     "bid": 15,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "I",
+     "bal": 16,
+     "hBid": 9,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 8,
+     "letter": "U",
+     "bal": 16,
+     "hBid": 9,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 7,
+     "letter": "D",
+     "bal": 16,
+     "hBid": 8,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 4,
+     "improves": true
+    }
+   ]
+  },
+  {
+   "match": "47620",
+   "score": 213,
+   "leftover": 34,
+   "words": [
+    "GAZUMP",
+    "CONVEX",
+    "HAVIOR",
+    "FATWA",
+    "DHOBI",
+    "EDGIEST",
+    "DIME",
+    "AW",
+    "OR"
+   ],
+   "bigBids": [
+    {
+     "bag": 66,
+     "letter": "F",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 65,
+     "letter": "A",
+     "bal": 100,
+     "hBid": 22,
+     "bid": 23,
+     "raw": 23,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 64,
+     "letter": "O",
+     "bal": 83,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 63,
+     "letter": "R",
+     "bal": 83,
+     "hBid": 15,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 60,
+     "letter": "O",
+     "bal": 83,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 59,
+     "letter": "B",
+     "bal": 70,
+     "hBid": 39,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 56,
+     "letter": "U",
+     "bal": 70,
+     "hBid": 48,
+     "bid": 27,
+     "raw": 27,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 55,
+     "letter": "T",
+     "bal": 57,
+     "hBid": 18,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 54,
+     "letter": "Y",
+     "bal": 107,
+     "hBid": 20,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 53,
+     "letter": "N",
+     "bal": 107,
+     "hBid": 23,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 48,
+     "letter": "H",
+     "bal": 97,
+     "hBid": 14,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 45,
+     "letter": "V",
+     "bal": 91,
+     "hBid": 14,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 44,
+     "letter": "I",
+     "bal": 85,
+     "hBid": 13,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 43,
+     "letter": "X",
+     "bal": 77,
+     "hBid": 23,
+     "bid": 26,
+     "raw": 77,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 41,
+     "letter": "C",
+     "bal": 69,
+     "hBid": 26,
+     "bid": 27,
+     "raw": 27,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 37,
+     "letter": "D",
+     "bal": 90,
+     "hBid": 14,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 35,
+     "letter": "V",
+     "bal": 84,
+     "hBid": 11,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 34,
+     "letter": "A",
+     "bal": 78,
+     "hBid": 22,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 33,
+     "letter": "W",
+     "bal": 72,
+     "hBid": 9,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 32,
+     "letter": "A",
+     "bal": 96,
+     "hBid": 22,
+     "bid": 28,
+     "raw": 28,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 31,
+     "letter": "O",
+     "bal": 90,
+     "hBid": 12,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 30,
+     "letter": "B",
+     "bal": 84,
+     "hBid": 19,
+     "bid": 22,
+     "raw": 22,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 29,
+     "letter": "F",
+     "bal": 78,
+     "hBid": 13,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 24,
+     "letter": "A",
+     "bal": 68,
+     "hBid": 12,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "G",
+     "bal": 60,
+     "hBid": 12,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 22,
+     "letter": "H",
+     "bal": 74,
+     "hBid": 24,
+     "bid": 25,
+     "raw": 34,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 19,
+     "letter": "E",
+     "bal": 59,
+     "hBid": 8,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 16,
+     "letter": "D",
+     "bal": 46,
+     "hBid": 18,
+     "bid": 23,
+     "raw": 23,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "T",
+     "bal": 62,
+     "hBid": 22,
+     "bid": 22,
+     "raw": 22,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "S",
+     "bal": 50,
+     "hBid": 19,
+     "bid": 19,
+     "raw": 5,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 10,
+     "letter": "D",
+     "bal": 67,
+     "hBid": 33,
+     "bid": 39,
+     "raw": 39,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "M",
+     "bal": 62,
+     "hBid": 31,
+     "bid": 39,
+     "raw": 39,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 8,
+     "letter": "W",
+     "bal": 57,
+     "hBid": 7,
+     "bid": 15,
+     "raw": 16,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 7,
+     "letter": "A",
+     "bal": 62,
+     "hBid": 31,
+     "bid": 39,
+     "raw": 41,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 5,
+     "letter": "O",
+     "bal": 57,
+     "hBid": 57,
+     "bid": 57,
+     "raw": 57,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 2,
+     "letter": "Y",
+     "bal": 44,
+     "hBid": 8,
+     "bid": 16,
+     "raw": 17,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 1,
+     "letter": "R",
+     "bal": 39,
+     "hBid": 10,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 0,
+     "improves": false
+    }
+   ]
+  },
+  {
+   "match": "47705",
+   "score": 69,
+   "leftover": 20,
+   "words": [
+    "LEXICON",
+    "WADI",
+    "DADO"
+   ],
+   "bigBids": [
+    {
+     "bag": 66,
+     "letter": "E",
+     "bal": 100,
+     "hBid": 23,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 52,
+     "letter": "Y",
+     "bal": 85,
+     "hBid": 25,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 45,
+     "letter": "V",
+     "bal": 85,
+     "hBid": 12,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 44,
+     "letter": "K",
+     "bal": 85,
+     "hBid": 21,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 43,
+     "letter": "Y",
+     "bal": 85,
+     "hBid": 25,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 42,
+     "letter": "O",
+     "bal": 85,
+     "hBid": 13,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 37,
+     "letter": "F",
+     "bal": 75,
+     "hBid": 32,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 8,
+     "improves": true
+    },
+    {
+     "bag": 33,
+     "letter": "B",
+     "bal": 75,
+     "hBid": 38,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 30,
+     "letter": "C",
+     "bal": 75,
+     "hBid": 28,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 8,
+     "improves": true
+    },
+    {
+     "bag": 29,
+     "letter": "H",
+     "bal": 75,
+     "hBid": 28,
+     "bid": 24,
+     "raw": 24,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 26,
+     "letter": "G",
+     "bal": 75,
+     "hBid": 32,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 25,
+     "letter": "V",
+     "bal": 75,
+     "hBid": 28,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 24,
+     "letter": "X",
+     "bal": 75,
+     "hBid": 48,
+     "bid": 75,
+     "raw": 75,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "N",
+     "bal": 30,
+     "hBid": 9,
+     "bid": 10,
+     "raw": 11,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 22,
+     "letter": "O",
+     "bal": 78,
+     "hBid": 19,
+     "bid": 22,
+     "raw": 22,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 21,
+     "letter": "A",
+     "bal": 67,
+     "hBid": 16,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 2,
+     "improves": false
+    },
+    {
+     "bag": 19,
+     "letter": "F",
+     "bal": 54,
+     "hBid": 15,
+     "bid": 23,
+     "raw": 31,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 18,
+     "letter": "D",
+     "bal": 54,
+     "hBid": 20,
+     "bid": 27,
+     "raw": 27,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "J",
+     "bal": 34,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 34,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "R",
+     "bal": 34,
+     "hBid": 11,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 14,
+     "letter": "G",
+     "bal": 34,
+     "hBid": 11,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "L",
+     "bal": 34,
+     "hBid": 11,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 11,
+     "letter": "D",
+     "bal": 46,
+     "hBid": 23,
+     "bid": 31,
+     "raw": 31,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 10,
+     "letter": "D",
+     "bal": 32,
+     "hBid": 10,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "A",
+     "bal": 22,
+     "hBid": 11,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 8,
+     "letter": "A",
+     "bal": 22,
+     "hBid": 11,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 5,
+     "letter": "H",
+     "bal": 20,
+     "hBid": 3,
+     "bid": 11,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    }
+   ]
+  },
+  {
+   "match": "47715",
+   "score": 78,
+   "leftover": 23,
+   "words": [
+    "FLAVORY",
+    "PODIUM",
+    "TOE"
+   ],
+   "bigBids": [
+    {
+     "bag": 65,
+     "letter": "X",
+     "bal": 100,
+     "hBid": 13,
+     "bid": 21,
+     "raw": 57,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 59,
+     "letter": "C",
+     "bal": 100,
+     "hBid": 13,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 47,
+     "letter": "P",
+     "bal": 84,
+     "hBid": 23,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 44,
+     "letter": "Z",
+     "bal": 84,
+     "hBid": 22,
+     "bid": 29,
+     "raw": 84,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 42,
+     "letter": "J",
+     "bal": 84,
+     "hBid": 9,
+     "bid": 17,
+     "raw": 47,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 41,
+     "letter": "E",
+     "bal": 84,
+     "hBid": 25,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 40,
+     "letter": "L",
+     "bal": 84,
+     "hBid": 45,
+     "bid": 28,
+     "raw": 28,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 38,
+     "letter": "T",
+     "bal": 124,
+     "hBid": 22,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 37,
+     "letter": "E",
+     "bal": 110,
+     "hBid": 17,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 36,
+     "letter": "P",
+     "bal": 110,
+     "hBid": 20,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 34,
+     "letter": "D",
+     "bal": 93,
+     "hBid": 15,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 32,
+     "letter": "U",
+     "bal": 93,
+     "hBid": 15,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 30,
+     "letter": "U",
+     "bal": 93,
+     "hBid": 19,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 29,
+     "letter": "C",
+     "bal": 85,
+     "hBid": 19,
+     "bid": 23,
+     "raw": 23,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "O",
+     "bal": 85,
+     "hBid": 19,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 24,
+     "letter": "H",
+     "bal": 68,
+     "hBid": 19,
+     "bid": 23,
+     "raw": 34,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "D",
+     "bal": 68,
+     "hBid": 19,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 22,
+     "letter": "N",
+     "bal": 68,
+     "hBid": 19,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 21,
+     "letter": "R",
+     "bal": 68,
+     "hBid": 19,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 20,
+     "letter": "D",
+     "bal": 68,
+     "hBid": 19,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 17,
+     "letter": "E",
+     "bal": 55,
+     "hBid": 23,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "E",
+     "bal": 55,
+     "hBid": 23,
+     "bid": 23,
+     "raw": 9,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "M",
+     "bal": 55,
+     "hBid": 29,
+     "bid": 29,
+     "raw": 19,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "E",
+     "bal": 60,
+     "hBid": 23,
+     "bid": 31,
+     "raw": 33,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "O",
+     "bal": 37,
+     "hBid": 18,
+     "bid": 22,
+     "raw": 22,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 8,
+     "letter": "S",
+     "bal": 20,
+     "hBid": 18,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 6,
+     "letter": "V",
+     "bal": 20,
+     "hBid": 3,
+     "bid": 11,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 5,
+     "letter": "F",
+     "bal": 20,
+     "hBid": 3,
+     "bid": 11,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    }
+   ]
+  },
+  {
+   "match": "47724",
+   "score": 91,
+   "leftover": 17,
+   "words": [
+    "LOUNGE",
+    "HAMZA",
+    "OFTENER",
+    "BOD"
+   ],
+   "bigBids": [
+    {
+     "bag": 65,
+     "letter": "H",
+     "bal": 100,
+     "hBid": 11,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 54,
+     "letter": "J",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 22,
+     "raw": 61,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 50,
+     "letter": "P",
+     "bal": 100,
+     "hBid": 12,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 48,
+     "letter": "Y",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 42,
+     "letter": "N",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 40,
+     "letter": "N",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 31,
+     "letter": "C",
+     "bal": 84,
+     "hBid": 14,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 30,
+     "letter": "E",
+     "bal": 101,
+     "hBid": 20,
+     "bid": 25,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 29,
+     "letter": "H",
+     "bal": 94,
+     "hBid": 19,
+     "bid": 27,
+     "raw": 29,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "K",
+     "bal": 70,
+     "hBid": 14,
+     "bid": 22,
+     "raw": 23,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 27,
+     "letter": "E",
+     "bal": 70,
+     "hBid": 9,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 26,
+     "letter": "A",
+     "bal": 70,
+     "hBid": 14,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 25,
+     "letter": "O",
+     "bal": 65,
+     "hBid": 14,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "V",
+     "bal": 57,
+     "hBid": 16,
+     "bid": 19,
+     "raw": 27,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 19,
+     "letter": "Z",
+     "bal": 47,
+     "hBid": 27,
+     "bid": 35,
+     "raw": 47,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 17,
+     "letter": "P",
+     "bal": 15,
+     "hBid": 8,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "F",
+     "bal": 53,
+     "hBid": 19,
+     "bid": 27,
+     "raw": 30,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "T",
+     "bal": 36,
+     "hBid": 13,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 14,
+     "letter": "N",
+     "bal": 36,
+     "hBid": 12,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 13,
+     "letter": "N",
+     "bal": 36,
+     "hBid": 12,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": false
+    },
+    {
+     "bag": 12,
+     "letter": "T",
+     "bal": 28,
+     "hBid": 15,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 11,
+     "letter": "R",
+     "bal": 23,
+     "hBid": 23,
+     "bid": 23,
+     "raw": 15,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 10,
+     "letter": "D",
+     "bal": 18,
+     "hBid": 10,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "R",
+     "bal": 35,
+     "hBid": 17,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 7,
+     "letter": "B",
+     "bal": 27,
+     "hBid": 13,
+     "bid": 21,
+     "raw": 22,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 5,
+     "letter": "F",
+     "bal": 17,
+     "hBid": 3,
+     "bid": 11,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 3,
+     "letter": "V",
+     "bal": 17,
+     "hBid": 3,
+     "bid": 11,
+     "raw": 13,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 2,
+     "letter": "A",
+     "bal": 17,
+     "hBid": 17,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 2,
+     "improves": true
+    }
+   ]
+  },
+  {
+   "match": "47734",
+   "score": 119,
+   "leftover": 3,
+   "words": [
+    "BUXOM",
+    "VINTAGE",
+    "DAYTIME",
+    "RAKI",
+    "ID"
+   ],
+   "bigBids": [
+    {
+     "bag": 67,
+     "letter": "Y",
+     "bal": 100,
+     "hBid": 17,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 65,
+     "letter": "F",
+     "bal": 100,
+     "hBid": 17,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 55,
+     "letter": "X",
+     "bal": 100,
+     "hBid": 17,
+     "bid": 25,
+     "raw": 71,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 53,
+     "letter": "E",
+     "bal": 76,
+     "hBid": 13,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 51,
+     "letter": "J",
+     "bal": 76,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 55,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 49,
+     "letter": "V",
+     "bal": 76,
+     "hBid": 9,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 4,
+     "improves": false
+    },
+    {
+     "bag": 46,
+     "letter": "B",
+     "bal": 72,
+     "hBid": 19,
+     "bid": 25,
+     "raw": 30,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 38,
+     "letter": "P",
+     "bal": 61,
+     "hBid": 6,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 37,
+     "letter": "H",
+     "bal": 61,
+     "hBid": 6,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 30,
+     "letter": "E",
+     "bal": 53,
+     "hBid": 16,
+     "bid": 18,
+     "raw": 22,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "V",
+     "bal": 68,
+     "hBid": 15,
+     "bid": 23,
+     "raw": 23,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 26,
+     "letter": "I",
+     "bal": 50,
+     "hBid": 25,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 23,
+     "letter": "B",
+     "bal": 76,
+     "hBid": 12,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 22,
+     "letter": "Y",
+     "bal": 76,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 21,
+     "letter": "O",
+     "bal": 60,
+     "hBid": 15,
+     "bid": 21,
+     "raw": 25,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 20,
+     "letter": "I",
+     "bal": 60,
+     "hBid": 12,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 19,
+     "letter": "M",
+     "bal": 49,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 22,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 18,
+     "letter": "A",
+     "bal": 42,
+     "hBid": 14,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "D",
+     "bal": 31,
+     "hBid": 11,
+     "bid": 16,
+     "raw": 16,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 15,
+     "letter": "N",
+     "bal": 20,
+     "hBid": 7,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 14,
+     "letter": "E",
+     "bal": 20,
+     "hBid": 18,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "T",
+     "bal": 11,
+     "hBid": 11,
+     "bid": 11,
+     "raw": 9,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 9,
+     "letter": "I",
+     "bal": 38,
+     "hBid": 7,
+     "bid": 15,
+     "raw": 15,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 8,
+     "letter": "A",
+     "bal": 29,
+     "hBid": 14,
+     "bid": 21,
+     "raw": 21,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 7,
+     "letter": "K",
+     "bal": 20,
+     "hBid": 13,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 5,
+     "letter": "D",
+     "bal": 12,
+     "hBid": 12,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 2,
+     "improves": true
+    }
+   ]
+  },
+  {
+   "match": "47744",
+   "score": 76,
+   "leftover": 11,
+   "words": [
+    "VOLTAIC",
+    "PAVEED",
+    "SOON",
+    "AL",
+    "ER"
+   ],
+   "bigBids": [
+    {
+     "bag": 59,
+     "letter": "Y",
+     "bal": 100,
+     "hBid": 12,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 56,
+     "letter": "P",
+     "bal": 100,
+     "hBid": 12,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 55,
+     "letter": "M",
+     "bal": 100,
+     "hBid": 12,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 47,
+     "letter": "Z",
+     "bal": 100,
+     "hBid": 21,
+     "bid": 29,
+     "raw": 93,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 45,
+     "letter": "M",
+     "bal": 100,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 43,
+     "letter": "F",
+     "bal": 100,
+     "hBid": 15,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 42,
+     "letter": "P",
+     "bal": 100,
+     "hBid": 16,
+     "bid": 17,
+     "raw": 17,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 40,
+     "letter": "V",
+     "bal": 88,
+     "hBid": 14,
+     "bid": 20,
+     "raw": 20,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 39,
+     "letter": "C",
+     "bal": 78,
+     "hBid": 8,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 34,
+     "letter": "T",
+     "bal": 68,
+     "hBid": 28,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 7,
+     "improves": true
+    },
+    {
+     "bag": 32,
+     "letter": "A",
+     "bal": 94,
+     "hBid": 16,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 2,
+     "improves": false
+    },
+    {
+     "bag": 31,
+     "letter": "G",
+     "bal": 81,
+     "hBid": 13,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 29,
+     "letter": "E",
+     "bal": 81,
+     "hBid": 15,
+     "bid": 13,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 28,
+     "letter": "V",
+     "bal": 71,
+     "hBid": 15,
+     "bid": 23,
+     "raw": 27,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 27,
+     "letter": "D",
+     "bal": 55,
+     "hBid": 13,
+     "bid": 19,
+     "raw": 19,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 25,
+     "letter": "B",
+     "bal": 42,
+     "hBid": 9,
+     "bid": 14,
+     "raw": 15,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 23,
+     "letter": "I",
+     "bal": 42,
+     "hBid": 11,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 22,
+     "letter": "N",
+     "bal": 42,
+     "hBid": 11,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 19,
+     "letter": "K",
+     "bal": 32,
+     "hBid": 12,
+     "bid": 20,
+     "raw": 32,
+     "lenAfter": 5,
+     "improves": true
+    },
+    {
+     "bag": 16,
+     "letter": "L",
+     "bal": 32,
+     "hBid": 8,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 5,
+     "improves": false
+    },
+    {
+     "bag": 15,
+     "letter": "E",
+     "bal": 32,
+     "hBid": 14,
+     "bid": 14,
+     "raw": 9,
+     "lenAfter": 6,
+     "improves": true
+    },
+    {
+     "bag": 13,
+     "letter": "S",
+     "bal": 52,
+     "hBid": 17,
+     "bid": 17,
+     "raw": 13,
+     "lenAfter": 3,
+     "improves": true
+    },
+    {
+     "bag": 12,
+     "letter": "O",
+     "bal": 41,
+     "hBid": 13,
+     "bid": 14,
+     "raw": 14,
+     "lenAfter": 4,
+     "improves": true
+    },
+    {
+     "bag": 10,
+     "letter": "I",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 11,
+     "raw": 11,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 6,
+     "letter": "H",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 14,
+     "raw": 17,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 5,
+     "letter": "A",
+     "bal": 41,
+     "hBid": 6,
+     "bid": 12,
+     "raw": 12,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 4,
+     "letter": "L",
+     "bal": 32,
+     "hBid": 32,
+     "bid": 32,
+     "raw": 32,
+     "lenAfter": 2,
+     "improves": true
+    },
+    {
+     "bag": 2,
+     "letter": "E",
+     "bal": 27,
+     "hBid": 4,
+     "bid": 10,
+     "raw": 10,
+     "lenAfter": 0,
+     "improves": false
+    },
+    {
+     "bag": 1,
+     "letter": "R",
+     "bal": 18,
+     "hBid": 18,
+     "bid": 18,
+     "raw": 18,
+     "lenAfter": 2,
+     "improves": true
     }
    ]
   }
