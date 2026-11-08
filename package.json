@@ -1,9 +1,9 @@
 {
-  "name": "casual-thinker",
+  "name": "scrabble-bot-predictive",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Casual-lobby ScrabbleBot client. Does not register for tournaments.",
+  "description": "scrabble-bot-predictive: a casual-lobby ScrabbleBot client. Does not register for tournaments.",
   "scripts": {
     "generate": "npm install --prefix spacetimedb && spacetime generate --lang typescript --out-dir src/module_bindings --module-path spacetimedb",
     "start": "tsx src/index.ts",

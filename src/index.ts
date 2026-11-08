@@ -1,12 +1,12 @@
-// CasualThinker — a ScrabbleBot client for casual lobby matches.
+// scrabble-bot-predictive — a ScrabbleBot client for casual lobby matches.
 //
 // First run, with a token from a NEW team (not a tournament bot's token):
 //   https://scrabblebot.spacetimedb.com/team/new
-//   BOT_NAME=CasualThinker BOT_TOKEN=<token> npm start
+//   BOT_NAME=scrabble-bot-predictive BOT_TOKEN=<token> npm start
 //
 // The token is saved to .token-<BOT_NAME>. Later runs need only BOT_NAME.
 // A nonce from `spacetime call scrabblebot mint_credential_nonce` also works:
-//   BOT_NAME=CasualThinker BOT_NONCE=<code> npm start
+//   BOT_NAME=scrabble-bot-predictive BOT_NONCE=<code> npm start
 //
 // This process never registers for a tournament. If TOURNAMENT_ID is set,
 // it exits before connecting.
@@ -34,7 +34,7 @@ if (refusal) {
 
 const HOST = process.env.STDB_HOST ?? "https://maincloud.spacetimedb.com";
 const DB_NAME = process.env.STDB_DB ?? "scrabblebot";
-const BOT_NAME = process.env.BOT_NAME ?? "CasualThinker";
+const BOT_NAME = process.env.BOT_NAME ?? "scrabble-bot-predictive";
 const TOKEN_PATH = path.join(process.cwd(), `.token-${BOT_NAME}`);
 let botNonce: string | undefined;
 
